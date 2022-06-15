@@ -581,7 +581,7 @@
       <PlaybackType>Polyphonic</PlaybackType>
       <Children>
         <string>Synth/bgm_stg530_qua/bgm_stg530_qua_nomal</string>
-        <string>Synth/bgm_stg530_qua/bgm_stg530_qua_fx_wav.aax</string>
+        <string>Synth/bgm_stg530_qua/bgm_stg530_qua_fx</string>
       </Children>
       <AisacReference>Synth/bgm_stg530_qua/filter</AisacReference>
       <Volume>1000</Volume>
@@ -760,7 +760,7 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/bgm_stg530_qua/bgm_stg530_qua_fx_wav.aax</Name>
+      <Name>Synth/bgm_stg530_qua/bgm_stg530_qua_fx</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/bgm_stg530_qua_fx_wav.aax</SoundElementReference>
