@@ -215,7 +215,7 @@
       <SoundElementReference>Synth/bgm_stg710_elv_fx_wav.aax</SoundElementReference>
       <Children />
       <AisacReference>Synth/bgm_stg710_elv/bgm_stg710_elv_fx/boost</AisacReference>
-      <Volume>750</Volume>
+      <Volume>699</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -489,7 +489,7 @@
       <SoundElementReference>Synth/bgm_stg720_elv_fx_wav.aax</SoundElementReference>
       <Children />
       <AisacReference>Synth/bgm_stg720_elv/bgm_stg720_elv_fx/boost</AisacReference>
-      <Volume>649</Volume>
+      <Volume>699</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>

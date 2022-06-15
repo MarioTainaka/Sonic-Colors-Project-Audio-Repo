@@ -216,7 +216,7 @@
       <SoundElementReference>Synth/bgm_stg510_qua_fx_wav.aax</SoundElementReference>
       <Children />
       <AisacReference>Synth/bgm_stg510_qua/bgm_stg510_qua_fx/boost</AisacReference>
-      <Volume>750</Volume>
+      <Volume>699</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -400,7 +400,7 @@
       <SoundElementReference>Synth/bgm_stg520_qua_nomal_wav.aax</SoundElementReference>
       <Children />
       <AisacReference>Synth/bgm_stg520_qua/bgm_stg520_qua_nomal/boost</AisacReference>
-      <Volume>1100</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -491,7 +491,7 @@
       <SoundElementReference>Synth/bgm_stg520_qua_fx_wav.aax</SoundElementReference>
       <Children />
       <AisacReference>Synth/bgm_stg520_qua/bgm_stg520_qua_fx/boost</AisacReference>
-      <Volume>800</Volume>
+      <Volume>699</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -581,7 +581,7 @@
       <PlaybackType>Polyphonic</PlaybackType>
       <Children>
         <string>Synth/bgm_stg530_qua/bgm_stg530_qua_nomal</string>
-        <string>Synth/bgm_stg530_qua/bgm_stg530_qua_nomal_wav.aax</string>
+        <string>Synth/bgm_stg530_qua/bgm_stg530_qua_fx_wav.aax</string>
       </Children>
       <AisacReference>Synth/bgm_stg530_qua/filter</AisacReference>
       <Volume>1000</Volume>
@@ -760,13 +760,13 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/bgm_stg530_qua/bgm_stg530_qua_nomal_wav.aax</Name>
+      <Name>Synth/bgm_stg530_qua/bgm_stg530_qua_fx_wav.aax</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/bgm_stg530_qua_nomal_wav.aax</SoundElementReference>
+      <SoundElementReference>Synth/bgm_stg530_qua_fx_wav.aax</SoundElementReference>
       <Children />
       <AisacReference>Synth/bgm_stg530_qua/bgm_stg530_qua_fx/boost</AisacReference>
-      <Volume>750</Volume>
+      <Volume>699</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>

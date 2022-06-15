@@ -489,7 +489,7 @@
       <SoundElementReference>Synth/bgm_stg420_pla_fx_wav.aax</SoundElementReference>
       <Children />
       <AisacReference>Synth/bgm_stg420_pla/bgm_stg420_pla_fx/boost</AisacReference>
-      <Volume>649</Volume>
+      <Volume>699</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>

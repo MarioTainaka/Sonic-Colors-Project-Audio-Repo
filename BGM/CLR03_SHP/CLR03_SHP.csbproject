@@ -124,7 +124,7 @@
       <SoundElementReference>Synth/bgm_stg310_shp_nomal_wav.aax</SoundElementReference>
       <Children />
       <AisacReference>Synth/bgm_stg310_shp/bgm_stg310_shp_normal/boost</AisacReference>
-      <Volume>850</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -215,7 +215,7 @@
       <SoundElementReference>Synth/bgm_stg310_shp_fx_wav.aax</SoundElementReference>
       <Children />
       <AisacReference>Synth/bgm_stg310_shp/bgm_stg310_shp_fx/boost</AisacReference>
-      <Volume>1000</Volume>
+      <Volume>699</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -672,7 +672,7 @@
       <SoundElementReference>Synth/bgm_stg330_shp_nomal_wav.aax</SoundElementReference>
       <Children />
       <AisacReference>Synth/bgm_stg330_shp/bgm_stg330_shp_nomal/boost</AisacReference>
-      <Volume>850</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -763,7 +763,7 @@
       <SoundElementReference>Synth/bgm_stg330_shp_fx_wav.aax</SoundElementReference>
       <Children />
       <AisacReference>Synth/bgm_stg330_shp/bgm_stg330_shp_fx/boost</AisacReference>
-      <Volume>800</Volume>
+      <Volume>699</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>

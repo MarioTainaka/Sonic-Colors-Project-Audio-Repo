@@ -124,7 +124,7 @@
       <SoundElementReference>Synth/bgm_stg110_rso_wav.aax</SoundElementReference>
       <Children />
       <AisacReference>Synth/bgm_stg110_rso/bgm_stg110_rso/boost</AisacReference>
-      <Volume>1149</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -215,7 +215,7 @@
       <SoundElementReference>Synth/bgm_stg110_rso_fx_wav.aax</SoundElementReference>
       <Children />
       <AisacReference>Synth/bgm_stg110_rso/bgm_stg110_rso_fx/boost</AisacReference>
-      <Volume>750</Volume>
+      <Volume>699</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -398,7 +398,7 @@
       <SoundElementReference>Synth/bgm_stg120_rso_wav.aax</SoundElementReference>
       <Children />
       <AisacReference>Synth/bgm_stg120_rso/bgm_stg120_rso/boost</AisacReference>
-      <Volume>1149</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -489,7 +489,7 @@
       <SoundElementReference>Synth/bgm_stg120_rso_fx_wav.aax</SoundElementReference>
       <Children />
       <AisacReference>Synth/bgm_stg120_rso/bgm_stg120_rso_fx/boost</AisacReference>
-      <Volume>750</Volume>
+      <Volume>699</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -763,7 +763,7 @@
       <SoundElementReference>Synth/bgm_stg130_rso_fx_wav.aax</SoundElementReference>
       <Children />
       <AisacReference>Synth/bgm_stg130_rso/bgm_stg130_rso_fx/boost</AisacReference>
-      <Volume>649</Volume>
+      <Volume>699</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
