@@ -144,13 +144,13 @@
     <BuilderCueNode>
       <Name>3002_action08</Name>
       <Identifier>3002020</Identifier>
-      <SynthReference />
+      <SynthReference>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_020_action08</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>3002_action09</Name>
       <Identifier>3002021</Identifier>
-      <SynthReference />
+      <SynthReference>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_021_action09</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
