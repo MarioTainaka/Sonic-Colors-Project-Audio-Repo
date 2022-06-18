@@ -154,127 +154,56 @@
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
+      <Name>3002_action03_ex</Name>
+      <Identifier>3002029</Identifier>
+      <SynthReference>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_action03_ex</SynthReference>
+      <Flags>0</Flags>
+    </BuilderCueNode>
+    <BuilderCueNode>
       <Name>systemvoice_v003</Name>
-      <Identifier>302002</Identifier>
+      <Identifier>3002022</Identifier>
       <SynthReference>Synth/0002_voice/999_for_E3/002_system_e/002_SYS02_E01_NA</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>systemvoice_v004</Name>
-      <Identifier>302003</Identifier>
+      <Identifier>3002023</Identifier>
       <SynthReference>Synth/0002_voice/999_for_E3/002_system_e/003_SYS02_E02_NA</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>systemvoice_v005</Name>
-      <Identifier>302004</Identifier>
+      <Identifier>3002024</Identifier>
       <SynthReference>Synth/0002_voice/999_for_E3/002_system_e/004_SYS02_E03_NA</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>systemvoice_v006</Name>
-      <Identifier>302005</Identifier>
+      <Identifier>3002025</Identifier>
       <SynthReference>Synth/0002_voice/999_for_E3/002_system_e/005_SYS02_E04_NA</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>systemvoice_v007</Name>
-      <Identifier>302006</Identifier>
-      <SynthReference>Synth/0002_voice/999_for_E3/002_system_e/006_SYS02_E05_NA</SynthReference>
-      <UserComment />
-      <Flags>0</Flags>
-    </BuilderCueNode>
-    <BuilderCueNode>
       <Name>systemvoice_v008</Name>
-      <Identifier>302007</Identifier>
+      <Identifier>3002026</Identifier>
       <SynthReference>Synth/0002_voice/999_for_E3/002_system_e/007_SYS02_E06_NA</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>systemvoice_v009</Name>
-      <Identifier>302008</Identifier>
-      <SynthReference>Synth/0002_voice/999_for_E3/002_system_e/008_SYS02_E07_NA</SynthReference>
-      <UserComment />
-      <Flags>0</Flags>
-    </BuilderCueNode>
-    <BuilderCueNode>
-      <Name>systemvoice_v010</Name>
-      <Identifier>302009</Identifier>
-      <SynthReference>Synth/0002_voice/999_for_E3/002_system_e/009_SYS02_E08_NA</SynthReference>
-      <UserComment />
-      <Flags>0</Flags>
-    </BuilderCueNode>
-    <BuilderCueNode>
-      <Name>systemvoice_v011</Name>
-      <Identifier>302010</Identifier>
-      <SynthReference>Synth/0002_voice/999_for_E3/002_system_e/010_SYS03_E01_NA</SynthReference>
-      <UserComment />
-      <Flags>0</Flags>
-    </BuilderCueNode>
-    <BuilderCueNode>
-      <Name>systemvoice_v012</Name>
-      <Identifier>302011</Identifier>
-      <SynthReference>Synth/0002_voice/999_for_E3/002_system_e/011_SYS03_E02_NA</SynthReference>
-      <UserComment />
-      <Flags>0</Flags>
-    </BuilderCueNode>
-    <BuilderCueNode>
-      <Name>systemvoice_v013</Name>
-      <Identifier>302012</Identifier>
-      <SynthReference>Synth/0002_voice/999_for_E3/002_system_e/012_SYS03_E03_NA</SynthReference>
-      <UserComment />
-      <Flags>0</Flags>
-    </BuilderCueNode>
-    <BuilderCueNode>
-      <Name>systemvoice_v014</Name>
-      <Identifier>302013</Identifier>
-      <SynthReference>Synth/0002_voice/999_for_E3/002_system_e/013_SYS03_E04_NA</SynthReference>
-      <UserComment />
-      <Flags>0</Flags>
-    </BuilderCueNode>
-    <BuilderCueNode>
-      <Name>systemvoice_v015</Name>
-      <Identifier>302014</Identifier>
-      <SynthReference>Synth/0002_voice/999_for_E3/002_system_e/014_SYS03_E05_NA</SynthReference>
-      <UserComment />
-      <Flags>0</Flags>
-    </BuilderCueNode>
-    <BuilderCueNode>
-      <Name>systemvoice_v016</Name>
-      <Identifier>302015</Identifier>
-      <SynthReference>Synth/0002_voice/999_for_E3/002_system_e/015_SYS03_E06_NA</SynthReference>
-      <UserComment />
-      <Flags>0</Flags>
-    </BuilderCueNode>
-    <BuilderCueNode>
-      <Name>systemvoice_v017</Name>
-      <Identifier>302016</Identifier>
-      <SynthReference>Synth/0002_voice/999_for_E3/002_system_e/016_SYS03_E07_NA</SynthReference>
-      <UserComment />
-      <Flags>0</Flags>
-    </BuilderCueNode>
-    <BuilderCueNode>
-      <Name>systemvoice_v018</Name>
-      <Identifier>302017</Identifier>
-      <SynthReference>Synth/0002_voice/999_for_E3/002_system_e/017_SYS03_E08_NA</SynthReference>
-      <UserComment />
-      <Flags>0</Flags>
-    </BuilderCueNode>
-    <BuilderCueNode>
       <Name>systemvoice_v019</Name>
-      <Identifier>302018</Identifier>
+      <Identifier>3002027</Identifier>
       <SynthReference>Synth/0002_voice/999_for_E3/002_system_e/018_SYS03_E09_NA</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>systemvoice_v020</Name>
-      <Identifier>302019</Identifier>
+      <Identifier>3002028</Identifier>
       <SynthReference>Synth/0002_voice/999_for_E3/002_system_e/019_SYS03_E10_NA</SynthReference>
       <UserComment />
       <Flags>0</Flags>
@@ -1833,7 +1762,7 @@
       <Type>WithChildren</Type>
       <PlaybackType>Polyphonic</PlaybackType>
       <Children>
-        <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_008_action03/002_ACT01_E02_SN_a_wav</string>
+        <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_008_action03/000_ACT00_EDummy_SN</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
       <Volume>800</Volume>
@@ -1921,10 +1850,10 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_008_action03/002_ACT01_E02_SN_a_wav</Name>
+      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_008_action03/000_ACT00_EDummy_SN</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/999_for_E3/000_sonic_action_e/002_ACT01_E02_SN_a_wav</SoundElementReference>
+      <SoundElementReference>Synth/999_for_E3/000_sonic_action_e/000_ACT00_EDummy_SN</SoundElementReference>
       <Children />
       <Volume>1000</Volume>
       <Pitch>0</Pitch>
@@ -2015,7 +1944,7 @@
       <Type>WithChildren</Type>
       <PlaybackType>Polyphonic</PlaybackType>
       <Children>
-        <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_009_action04/002_ACT01_E01_SN_b_wav</string>
+        <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_009_action04/000_ACT00_EDummy_SN</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
       <Volume>800</Volume>
@@ -2103,10 +2032,10 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_009_action04/002_ACT01_E01_SN_b_wav</Name>
+      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_009_action04/000_ACT00_EDummy_SN</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/999_for_E3/000_sonic_action_e/002_ACT01_E01_SN_b_wav</SoundElementReference>
+      <SoundElementReference>Synth/999_for_E3/000_sonic_action_e/000_ACT00_EDummy_SN</SoundElementReference>
       <Children />
       <Volume>1000</Volume>
       <Pitch>0</Pitch>
@@ -3016,7 +2945,7 @@
       <Type>WithChildren</Type>
       <PlaybackType>Polyphonic</PlaybackType>
       <Children>
-        <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_014_action05/002_ACT01_E00_SN_b_wav</string>
+        <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_014_action05/000_ACT00_EDummy_SN</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
       <Volume>800</Volume>
@@ -3104,10 +3033,10 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_014_action05/002_ACT01_E00_SN_b_wav</Name>
+      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_014_action05/000_ACT00_EDummy_SN</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/999_for_E3/000_sonic_action_e/002_ACT01_E00_SN_b_wav</SoundElementReference>
+      <SoundElementReference>Synth/999_for_E3/000_sonic_action_e/000_ACT00_EDummy_SN</SoundElementReference>
       <Children />
       <Volume>1000</Volume>
       <Pitch>0</Pitch>
@@ -4722,6 +4651,246 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
+      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_action03_ex</Name>
+      <Type>WithChildren</Type>
+      <PlaybackType>RandomNoRepeat</PlaybackType>
+      <Children>
+        <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_action03_ex/002_ACT01_E02_SN_a_wav</string>
+        <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_action03_ex/002_ACT01_E01_SN_b_wav</string>
+      </Children>
+      <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
+      <Volume>800</Volume>
+      <Pitch>0</Pitch>
+      <DelayTime>0</DelayTime>
+      <SControl>0</SControl>
+      <EgDelay>0</EgDelay>
+      <EgAttack>0</EgAttack>
+      <EgHold>0</EgHold>
+      <EgDecay>0</EgDecay>
+      <EgRelease>0</EgRelease>
+      <EgSustain>1000</EgSustain>
+      <FilterType>0</FilterType>
+      <FilterCutoff1>0</FilterCutoff1>
+      <FilterCutoff2>0</FilterCutoff2>
+      <FilterReso>0</FilterReso>
+      <FilterReleaseOffset>0</FilterReleaseOffset>
+      <Dry0>0</Dry0>
+      <Dry1>0</Dry1>
+      <Dry2>0</Dry2>
+      <Dry3>0</Dry3>
+      <Dry4>0</Dry4>
+      <Dry5>0</Dry5>
+      <Dry6>0</Dry6>
+      <Dry7>0</Dry7>
+      <Wet0>0</Wet0>
+      <Wet1>0</Wet1>
+      <Wet2>0</Wet2>
+      <Wet3>0</Wet3>
+      <Wet4>0</Wet4>
+      <Wet5>0</Wet5>
+      <Wet6>0</Wet6>
+      <Wet7>0</Wet7>
+      <VoiceLimitType>0</VoiceLimitType>
+      <VoiceLimitPriority>0</VoiceLimitPriority>
+      <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
+      <VoiceLimitPcdlt>0</VoiceLimitPcdlt>
+      <Pan3dVolumeOffset>1000</Pan3dVolumeOffset>
+      <Pan3dVolumeGain>1000</Pan3dVolumeGain>
+      <Pan3dAngleOffset>0</Pan3dAngleOffset>
+      <Pan3dAngleGain>1000</Pan3dAngleGain>
+      <Pan3dDistanceOffset>1000</Pan3dDistanceOffset>
+      <Pan3dDistanceGain>1000</Pan3dDistanceGain>
+      <Dry0g>255</Dry0g>
+      <Dry1g>255</Dry1g>
+      <Dry2g>255</Dry2g>
+      <Dry3g>255</Dry3g>
+      <Dry4g>255</Dry4g>
+      <Dry5g>255</Dry5g>
+      <Dry6g>255</Dry6g>
+      <Dry7g>255</Dry7g>
+      <Wet0g>255</Wet0g>
+      <Wet1g>255</Wet1g>
+      <Wet2g>255</Wet2g>
+      <Wet3g>255</Wet3g>
+      <Wet4g>255</Wet4g>
+      <Wet5g>255</Wet5g>
+      <Wet6g>255</Wet6g>
+      <Wet7g>255</Wet7g>
+      <Filter1Type>0</Filter1Type>
+      <Filter1CutoffOffset>0</Filter1CutoffOffset>
+      <Filter1CutoffGain>0</Filter1CutoffGain>
+      <Filter1ResoOffset>0</Filter1ResoOffset>
+      <Filter1ResoGain>0</Filter1ResoGain>
+      <Filter2Type>0</Filter2Type>
+      <Filter2CutoffLowerOffset>0</Filter2CutoffLowerOffset>
+      <Filter2CutoffLowerGain>1000</Filter2CutoffLowerGain>
+      <Filter2CutoffHigherOffset>1000</Filter2CutoffHigherOffset>
+      <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
+      <PlaybackProbability>0</PlaybackProbability>
+      <NLmtChildren>0</NLmtChildren>
+      <Repeat>0</Repeat>
+      <ComboTime>0</ComboTime>
+      <ComboLoopBack>0</ComboLoopBack>
+    </BuilderSynthNode>
+    <BuilderSynthNode>
+      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_action03_ex/002_ACT01_E02_SN_a_wav</Name>
+      <Type>Single</Type>
+      <PlaybackType>Normal</PlaybackType>
+      <SoundElementReference>Synth/999_for_E3/000_sonic_action_e/002_ACT01_E02_SN_a_wav</SoundElementReference>
+      <Children />
+      <Volume>1000</Volume>
+      <Pitch>0</Pitch>
+      <DelayTime>0</DelayTime>
+      <SControl>0</SControl>
+      <EgDelay>0</EgDelay>
+      <EgAttack>0</EgAttack>
+      <EgHold>0</EgHold>
+      <EgDecay>0</EgDecay>
+      <EgRelease>0</EgRelease>
+      <EgSustain>1000</EgSustain>
+      <FilterType>0</FilterType>
+      <FilterCutoff1>0</FilterCutoff1>
+      <FilterCutoff2>0</FilterCutoff2>
+      <FilterReso>0</FilterReso>
+      <FilterReleaseOffset>0</FilterReleaseOffset>
+      <Dry0>0</Dry0>
+      <Dry1>0</Dry1>
+      <Dry2>0</Dry2>
+      <Dry3>0</Dry3>
+      <Dry4>0</Dry4>
+      <Dry5>0</Dry5>
+      <Dry6>0</Dry6>
+      <Dry7>0</Dry7>
+      <Wet0>0</Wet0>
+      <Wet1>0</Wet1>
+      <Wet2>0</Wet2>
+      <Wet3>0</Wet3>
+      <Wet4>0</Wet4>
+      <Wet5>0</Wet5>
+      <Wet6>0</Wet6>
+      <Wet7>0</Wet7>
+      <VoiceLimitType>0</VoiceLimitType>
+      <VoiceLimitPriority>0</VoiceLimitPriority>
+      <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
+      <VoiceLimitPcdlt>0</VoiceLimitPcdlt>
+      <Pan3dVolumeOffset>1000</Pan3dVolumeOffset>
+      <Pan3dVolumeGain>1000</Pan3dVolumeGain>
+      <Pan3dAngleOffset>0</Pan3dAngleOffset>
+      <Pan3dAngleGain>1000</Pan3dAngleGain>
+      <Pan3dDistanceOffset>1000</Pan3dDistanceOffset>
+      <Pan3dDistanceGain>1000</Pan3dDistanceGain>
+      <Dry0g>255</Dry0g>
+      <Dry1g>255</Dry1g>
+      <Dry2g>255</Dry2g>
+      <Dry3g>255</Dry3g>
+      <Dry4g>255</Dry4g>
+      <Dry5g>255</Dry5g>
+      <Dry6g>255</Dry6g>
+      <Dry7g>255</Dry7g>
+      <Wet0g>255</Wet0g>
+      <Wet1g>255</Wet1g>
+      <Wet2g>255</Wet2g>
+      <Wet3g>255</Wet3g>
+      <Wet4g>255</Wet4g>
+      <Wet5g>255</Wet5g>
+      <Wet6g>255</Wet6g>
+      <Wet7g>255</Wet7g>
+      <Filter1Type>0</Filter1Type>
+      <Filter1CutoffOffset>0</Filter1CutoffOffset>
+      <Filter1CutoffGain>0</Filter1CutoffGain>
+      <Filter1ResoOffset>0</Filter1ResoOffset>
+      <Filter1ResoGain>0</Filter1ResoGain>
+      <Filter2Type>0</Filter2Type>
+      <Filter2CutoffLowerOffset>0</Filter2CutoffLowerOffset>
+      <Filter2CutoffLowerGain>1000</Filter2CutoffLowerGain>
+      <Filter2CutoffHigherOffset>1000</Filter2CutoffHigherOffset>
+      <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
+      <PlaybackProbability>100</PlaybackProbability>
+      <NLmtChildren>0</NLmtChildren>
+      <Repeat>0</Repeat>
+      <ComboTime>0</ComboTime>
+      <ComboLoopBack>0</ComboLoopBack>
+    </BuilderSynthNode>
+    <BuilderSynthNode>
+      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_action03_ex/002_ACT01_E01_SN_b_wav</Name>
+      <Type>Single</Type>
+      <PlaybackType>Normal</PlaybackType>
+      <SoundElementReference>Synth/999_for_E3/000_sonic_action_e/002_ACT01_E01_SN_b_wav</SoundElementReference>
+      <Children />
+      <Volume>1000</Volume>
+      <Pitch>0</Pitch>
+      <DelayTime>0</DelayTime>
+      <SControl>0</SControl>
+      <EgDelay>0</EgDelay>
+      <EgAttack>0</EgAttack>
+      <EgHold>0</EgHold>
+      <EgDecay>0</EgDecay>
+      <EgRelease>0</EgRelease>
+      <EgSustain>1000</EgSustain>
+      <FilterType>0</FilterType>
+      <FilterCutoff1>0</FilterCutoff1>
+      <FilterCutoff2>0</FilterCutoff2>
+      <FilterReso>0</FilterReso>
+      <FilterReleaseOffset>0</FilterReleaseOffset>
+      <Dry0>0</Dry0>
+      <Dry1>0</Dry1>
+      <Dry2>0</Dry2>
+      <Dry3>0</Dry3>
+      <Dry4>0</Dry4>
+      <Dry5>0</Dry5>
+      <Dry6>0</Dry6>
+      <Dry7>0</Dry7>
+      <Wet0>0</Wet0>
+      <Wet1>0</Wet1>
+      <Wet2>0</Wet2>
+      <Wet3>0</Wet3>
+      <Wet4>0</Wet4>
+      <Wet5>0</Wet5>
+      <Wet6>0</Wet6>
+      <Wet7>0</Wet7>
+      <VoiceLimitType>0</VoiceLimitType>
+      <VoiceLimitPriority>0</VoiceLimitPriority>
+      <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
+      <VoiceLimitPcdlt>0</VoiceLimitPcdlt>
+      <Pan3dVolumeOffset>1000</Pan3dVolumeOffset>
+      <Pan3dVolumeGain>1000</Pan3dVolumeGain>
+      <Pan3dAngleOffset>0</Pan3dAngleOffset>
+      <Pan3dAngleGain>1000</Pan3dAngleGain>
+      <Pan3dDistanceOffset>1000</Pan3dDistanceOffset>
+      <Pan3dDistanceGain>1000</Pan3dDistanceGain>
+      <Dry0g>255</Dry0g>
+      <Dry1g>255</Dry1g>
+      <Dry2g>255</Dry2g>
+      <Dry3g>255</Dry3g>
+      <Dry4g>255</Dry4g>
+      <Dry5g>255</Dry5g>
+      <Dry6g>255</Dry6g>
+      <Dry7g>255</Dry7g>
+      <Wet0g>255</Wet0g>
+      <Wet1g>255</Wet1g>
+      <Wet2g>255</Wet2g>
+      <Wet3g>255</Wet3g>
+      <Wet4g>255</Wet4g>
+      <Wet5g>255</Wet5g>
+      <Wet6g>255</Wet6g>
+      <Wet7g>255</Wet7g>
+      <Filter1Type>0</Filter1Type>
+      <Filter1CutoffOffset>0</Filter1CutoffOffset>
+      <Filter1CutoffGain>0</Filter1CutoffGain>
+      <Filter1ResoOffset>0</Filter1ResoOffset>
+      <Filter1ResoGain>0</Filter1ResoGain>
+      <Filter2Type>0</Filter2Type>
+      <Filter2CutoffLowerOffset>0</Filter2CutoffLowerOffset>
+      <Filter2CutoffLowerGain>1000</Filter2CutoffLowerGain>
+      <Filter2CutoffHigherOffset>1000</Filter2CutoffHigherOffset>
+      <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
+      <PlaybackProbability>100</PlaybackProbability>
+      <NLmtChildren>0</NLmtChildren>
+      <Repeat>0</Repeat>
+      <ComboTime>0</ComboTime>
+      <ComboLoopBack>0</ComboLoopBack>
+    </BuilderSynthNode>
+    <BuilderSynthNode>
       <Name>Synth/0002_voice/999_for_E3/002_system_e/002_SYS02_E01_NA</Name>
       <Type>WithChildren</Type>
       <PlaybackType>Polyphonic</PlaybackType>
@@ -5905,7 +6074,7 @@
       <Name>Synth/0002_voice/999_for_E3/002_system_e/006_SYS02_E05_NA/006_SYS02_E05_NA</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/0002_voice/999_for_E3/002_system_e/006_SYS02_E05_NA_wav</SoundElementReference>
+      <SoundElementReference />
       <Children />
       <Volume>1000</Volume>
       <Pitch>10</Pitch>
@@ -5995,7 +6164,7 @@
       <Name>Synth/0002_voice/999_for_E3/002_system_e/006_SYS02_E05_NA/006_SYS02_E05_NA_1</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/0002_voice/999_for_E3/002_system_e/006_SYS02_E05_NA_wav</SoundElementReference>
+      <SoundElementReference />
       <Children />
       <Volume>1000</Volume>
       <Pitch>-10</Pitch>
@@ -6449,7 +6618,7 @@
       <Name>Synth/0002_voice/999_for_E3/002_system_e/008_SYS02_E07_NA/008_SYS02_E07_NA</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/0002_voice/999_for_E3/002_system_e/008_SYS02_E07_NA_wav</SoundElementReference>
+      <SoundElementReference />
       <Children />
       <Volume>1000</Volume>
       <Pitch>10</Pitch>
@@ -6539,7 +6708,7 @@
       <Name>Synth/0002_voice/999_for_E3/002_system_e/008_SYS02_E07_NA/008_SYS02_E07_NA_1</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/0002_voice/999_for_E3/002_system_e/008_SYS02_E07_NA_wav</SoundElementReference>
+      <SoundElementReference />
       <Children />
       <Volume>1000</Volume>
       <Pitch>-10</Pitch>
@@ -6721,7 +6890,7 @@
       <Name>Synth/0002_voice/999_for_E3/002_system_e/009_SYS02_E08_NA/009_SYS02_E08_NA</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/0002_voice/999_for_E3/002_system_e/009_SYS02_E08_NA_wav</SoundElementReference>
+      <SoundElementReference />
       <Children />
       <Volume>1000</Volume>
       <Pitch>10</Pitch>
@@ -6811,7 +6980,7 @@
       <Name>Synth/0002_voice/999_for_E3/002_system_e/009_SYS02_E08_NA/009_SYS02_E08_NA_1</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/0002_voice/999_for_E3/002_system_e/009_SYS02_E08_NA_wav</SoundElementReference>
+      <SoundElementReference />
       <Children />
       <Volume>1000</Volume>
       <Pitch>-10</Pitch>
@@ -6993,7 +7162,7 @@
       <Name>Synth/0002_voice/999_for_E3/002_system_e/010_SYS03_E01_NA/010_SYS03_E01_NA</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/0002_voice/999_for_E3/002_system_e/010_SYS03_E01_NA_wav</SoundElementReference>
+      <SoundElementReference />
       <Children />
       <Volume>1000</Volume>
       <Pitch>10</Pitch>
@@ -7083,7 +7252,7 @@
       <Name>Synth/0002_voice/999_for_E3/002_system_e/010_SYS03_E01_NA/010_SYS03_E01_NA_1</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/0002_voice/999_for_E3/002_system_e/010_SYS03_E01_NA_wav</SoundElementReference>
+      <SoundElementReference />
       <Children />
       <Volume>1000</Volume>
       <Pitch>-10</Pitch>
@@ -7265,7 +7434,7 @@
       <Name>Synth/0002_voice/999_for_E3/002_system_e/011_SYS03_E02_NA/011_SYS03_E02_NA</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/0002_voice/999_for_E3/002_system_e/011_SYS03_E02_NA_wav</SoundElementReference>
+      <SoundElementReference />
       <Children />
       <Volume>1000</Volume>
       <Pitch>10</Pitch>
@@ -7355,7 +7524,7 @@
       <Name>Synth/0002_voice/999_for_E3/002_system_e/011_SYS03_E02_NA/011_SYS03_E02_NA_1</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/0002_voice/999_for_E3/002_system_e/011_SYS03_E02_NA_wav</SoundElementReference>
+      <SoundElementReference />
       <Children />
       <Volume>1000</Volume>
       <Pitch>-10</Pitch>
@@ -7537,7 +7706,7 @@
       <Name>Synth/0002_voice/999_for_E3/002_system_e/012_SYS03_E03_NA/012_SYS03_E03_NA</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/0002_voice/999_for_E3/002_system_e/012_SYS03_E03_NA_wav</SoundElementReference>
+      <SoundElementReference />
       <Children />
       <Volume>1000</Volume>
       <Pitch>10</Pitch>
@@ -7627,7 +7796,7 @@
       <Name>Synth/0002_voice/999_for_E3/002_system_e/012_SYS03_E03_NA/012_SYS03_E03_NA_1</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/0002_voice/999_for_E3/002_system_e/012_SYS03_E03_NA_wav</SoundElementReference>
+      <SoundElementReference />
       <Children />
       <Volume>1000</Volume>
       <Pitch>-10</Pitch>
@@ -7809,7 +7978,7 @@
       <Name>Synth/0002_voice/999_for_E3/002_system_e/013_SYS03_E04_NA/013_SYS03_E04_NA</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/0002_voice/999_for_E3/002_system_e/013_SYS03_E04_NA_wav</SoundElementReference>
+      <SoundElementReference />
       <Children />
       <Volume>1000</Volume>
       <Pitch>10</Pitch>
@@ -7899,7 +8068,7 @@
       <Name>Synth/0002_voice/999_for_E3/002_system_e/013_SYS03_E04_NA/013_SYS03_E04_NA_1</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/0002_voice/999_for_E3/002_system_e/013_SYS03_E04_NA_wav</SoundElementReference>
+      <SoundElementReference />
       <Children />
       <Volume>1000</Volume>
       <Pitch>-10</Pitch>
@@ -8081,7 +8250,7 @@
       <Name>Synth/0002_voice/999_for_E3/002_system_e/014_SYS03_E05_NA/014_SYS03_E05_NA</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/0002_voice/999_for_E3/002_system_e/014_SYS03_E05_NA_wav</SoundElementReference>
+      <SoundElementReference />
       <Children />
       <Volume>1000</Volume>
       <Pitch>10</Pitch>
@@ -8171,7 +8340,7 @@
       <Name>Synth/0002_voice/999_for_E3/002_system_e/014_SYS03_E05_NA/014_SYS03_E05_NA_1</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/0002_voice/999_for_E3/002_system_e/014_SYS03_E05_NA_wav</SoundElementReference>
+      <SoundElementReference />
       <Children />
       <Volume>1000</Volume>
       <Pitch>-10</Pitch>
@@ -8353,7 +8522,7 @@
       <Name>Synth/0002_voice/999_for_E3/002_system_e/015_SYS03_E06_NA/015_SYS03_E06_NA</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/0002_voice/999_for_E3/002_system_e/015_SYS03_E06_NA_wav</SoundElementReference>
+      <SoundElementReference />
       <Children />
       <Volume>1000</Volume>
       <Pitch>10</Pitch>
@@ -8443,7 +8612,7 @@
       <Name>Synth/0002_voice/999_for_E3/002_system_e/015_SYS03_E06_NA/015_SYS03_E06_NA_1</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/0002_voice/999_for_E3/002_system_e/015_SYS03_E06_NA_wav</SoundElementReference>
+      <SoundElementReference />
       <Children />
       <Volume>1000</Volume>
       <Pitch>-10</Pitch>
@@ -8625,7 +8794,7 @@
       <Name>Synth/0002_voice/999_for_E3/002_system_e/016_SYS03_E07_NA/016_SYS03_E07_NA</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/0002_voice/999_for_E3/002_system_e/016_SYS03_E07_NA_wav</SoundElementReference>
+      <SoundElementReference />
       <Children />
       <Volume>1000</Volume>
       <Pitch>10</Pitch>
@@ -8715,7 +8884,7 @@
       <Name>Synth/0002_voice/999_for_E3/002_system_e/016_SYS03_E07_NA/016_SYS03_E07_NA_1</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/0002_voice/999_for_E3/002_system_e/016_SYS03_E07_NA_wav</SoundElementReference>
+      <SoundElementReference />
       <Children />
       <Volume>1000</Volume>
       <Pitch>-10</Pitch>
@@ -8897,7 +9066,7 @@
       <Name>Synth/0002_voice/999_for_E3/002_system_e/017_SYS03_E08_NA/017_SYS03_E08_NA</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/0002_voice/999_for_E3/002_system_e/017_SYS03_E08_NA_wav</SoundElementReference>
+      <SoundElementReference />
       <Children />
       <Volume>1000</Volume>
       <Pitch>10</Pitch>
@@ -8987,7 +9156,7 @@
       <Name>Synth/0002_voice/999_for_E3/002_system_e/017_SYS03_E08_NA/017_SYS03_E08_NA_1</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/0002_voice/999_for_E3/002_system_e/017_SYS03_E08_NA_wav</SoundElementReference>
+      <SoundElementReference />
       <Children />
       <Volume>1000</Volume>
       <Pitch>-10</Pitch>
@@ -9696,12 +9865,12 @@
       <SampleCount>9044</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>Synth/0002_voice/999_for_E3/002_system_e/006_SYS02_E05_NA_wav</Name>
-      <Intro>Synth_0002_voice_999_for_E3_002_system_e_006_SYS02_E05_NA_wav_Intro.adx</Intro>
+      <Name>Synth/0002_voice/999_for_E3/002_system_e/007_SYS02_E06_NA_wav</Name>
+      <Intro>Synth_0002_voice_999_for_E3_002_system_e_007_SYS02_E06_NA_wav_Intro.adx</Intro>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>28000</SampleRate>
-      <SampleCount>38232</SampleCount>
+      <SampleCount>23164</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/999_for_E3/000_sonic_action_e/004_ACT01_E06_SN_a_wav</Name>
@@ -9713,12 +9882,12 @@
       <SampleCount>13667</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>Synth/0002_voice/999_for_E3/002_system_e/007_SYS02_E06_NA_wav</Name>
-      <Intro>Synth_0002_voice_999_for_E3_002_system_e_007_SYS02_E06_NA_wav_Intro.adx</Intro>
+      <Name>Synth/0002_voice/999_for_E3/002_system_e/018_SYS03_E09_NA_wav</Name>
+      <Intro>Synth_0002_voice_999_for_E3_002_system_e_018_SYS03_E09_NA_wav_Intro.adx</Intro>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>28000</SampleRate>
-      <SampleCount>23164</SampleCount>
+      <SampleCount>44445</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/999_for_E3/000_sonic_action_e/002_ACT01_E01_SN_b_wav</Name>
@@ -9730,12 +9899,12 @@
       <SampleCount>13023</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>Synth/0002_voice/999_for_E3/002_system_e/008_SYS02_E07_NA_wav</Name>
-      <Intro>Synth_0002_voice_999_for_E3_002_system_e_008_SYS02_E07_NA_wav_Intro.adx</Intro>
+      <Name>Synth/0002_voice/999_for_E3/002_system_e/019_SYS02_E09_NA_wav</Name>
+      <Intro>Synth_0002_voice_999_for_E3_002_system_e_019_SYS02_E09_NA_wav_Intro.adx</Intro>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>28000</SampleRate>
-      <SampleCount>36752</SampleCount>
+      <SampleCount>38457</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/999_for_E3/000_sonic_action_e/002_ACT01_E02_SN_a_wav</Name>
@@ -9747,14 +9916,6 @@
       <SampleCount>15813</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>Synth/0002_voice/999_for_E3/002_system_e/009_SYS02_E08_NA_wav</Name>
-      <Intro>Synth_0002_voice_999_for_E3_002_system_e_009_SYS02_E08_NA_wav_Intro.adx</Intro>
-      <ChannelCount>1</ChannelCount>
-      <Streaming>false</Streaming>
-      <SampleRate>28000</SampleRate>
-      <SampleCount>53075</SampleCount>
-    </BuilderSoundElementNode>
-    <BuilderSoundElementNode>
       <Name>Synth/999_for_E3/000_sonic_action_e/002_ACT01_E00_SN_b_wav</Name>
       <Intro>Synth_0002_voice_999_for_E3_000_sonic_action_e_002_ACT01_E00_SN_b_wav_Intro.adx</Intro>
       <Loop />
@@ -9762,14 +9923,6 @@
       <Streaming>false</Streaming>
       <SampleRate>32000</SampleRate>
       <SampleCount>13230</SampleCount>
-    </BuilderSoundElementNode>
-    <BuilderSoundElementNode>
-      <Name>Synth/0002_voice/999_for_E3/002_system_e/010_SYS03_E01_NA_wav</Name>
-      <Intro>Synth_0002_voice_999_for_E3_002_system_e_010_SYS03_E01_NA_wav_Intro.adx</Intro>
-      <ChannelCount>1</ChannelCount>
-      <Streaming>false</Streaming>
-      <SampleRate>28000</SampleRate>
-      <SampleCount>37848</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/999_for_E3/000_sonic_action_e/009_ACT01_E16_SN_d_wav</Name>
@@ -9781,14 +9934,6 @@
       <SampleCount>11731</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>Synth/0002_voice/999_for_E3/002_system_e/011_SYS03_E02_NA_wav</Name>
-      <Intro>Synth_0002_voice_999_for_E3_002_system_e_011_SYS03_E02_NA_wav_Intro.adx</Intro>
-      <ChannelCount>1</ChannelCount>
-      <Streaming>false</Streaming>
-      <SampleRate>28000</SampleRate>
-      <SampleCount>32911</SampleCount>
-    </BuilderSoundElementNode>
-    <BuilderSoundElementNode>
       <Name>Synth/999_for_E3/000_sonic_action_e/007_ACT01_E11_SN_i_wav</Name>
       <Intro>Synth_0002_voice_999_for_E3_000_sonic_action_e_007_ACT01_E11_SN_i_wav_Intro.adx</Intro>
       <Loop />
@@ -9796,14 +9941,6 @@
       <Streaming>false</Streaming>
       <SampleRate>32000</SampleRate>
       <SampleCount>12351</SampleCount>
-    </BuilderSoundElementNode>
-    <BuilderSoundElementNode>
-      <Name>Synth/0002_voice/999_for_E3/002_system_e/012_SYS03_E03_NA_wav</Name>
-      <Intro>Synth_0002_voice_999_for_E3_002_system_e_012_SYS03_E03_NA_wav_Intro.adx</Intro>
-      <ChannelCount>1</ChannelCount>
-      <Streaming>false</Streaming>
-      <SampleRate>28000</SampleRate>
-      <SampleCount>31982</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/999_for_E3/000_sonic_action_e/003_ACT01_E04_SN_b_wav</Name>
@@ -9815,14 +9952,6 @@
       <SampleCount>22273</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>Synth/0002_voice/999_for_E3/002_system_e/013_SYS03_E04_NA_wav</Name>
-      <Intro>Synth_0002_voice_999_for_E3_002_system_e_013_SYS03_E04_NA_wav_Intro.adx</Intro>
-      <ChannelCount>1</ChannelCount>
-      <Streaming>false</Streaming>
-      <SampleRate>28000</SampleRate>
-      <SampleCount>30414</SampleCount>
-    </BuilderSoundElementNode>
-    <BuilderSoundElementNode>
       <Name>Synth/999_for_E3/000_sonic_action_e/009_ACT01_E16_SN_e_wav</Name>
       <Intro>Synth_0002_voice_999_for_E3_000_sonic_action_e_009_ACT01_E16_SN_e_wav_Intro.adx</Intro>
       <Loop />
@@ -9830,14 +9959,6 @@
       <Streaming>false</Streaming>
       <SampleRate>32000</SampleRate>
       <SampleCount>9095</SampleCount>
-    </BuilderSoundElementNode>
-    <BuilderSoundElementNode>
-      <Name>Synth/0002_voice/999_for_E3/002_system_e/014_SYS03_E05_NA_wav</Name>
-      <Intro>Synth_0002_voice_999_for_E3_002_system_e_014_SYS03_E05_NA_wav_Intro.adx</Intro>
-      <ChannelCount>1</ChannelCount>
-      <Streaming>false</Streaming>
-      <SampleRate>28000</SampleRate>
-      <SampleCount>41326</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/999_for_E3/000_sonic_action_e/007_ACT01_E11_SN_k_wav</Name>
@@ -9849,14 +9970,6 @@
       <SampleCount>19431</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>Synth/0002_voice/999_for_E3/002_system_e/015_SYS03_E06_NA_wav</Name>
-      <Intro>Synth_0002_voice_999_for_E3_002_system_e_015_SYS03_E06_NA_wav_Intro.adx</Intro>
-      <ChannelCount>1</ChannelCount>
-      <Streaming>false</Streaming>
-      <SampleRate>28000</SampleRate>
-      <SampleCount>30996</SampleCount>
-    </BuilderSoundElementNode>
-    <BuilderSoundElementNode>
       <Name>Synth/999_for_E3/000_sonic_action_e/002_ACT01_E00_SN_g_wav</Name>
       <Intro>Synth_0002_voice_999_for_E3_000_sonic_action_e_002_ACT01_E00_SN_g_wav_Intro.adx</Intro>
       <Loop />
@@ -9864,14 +9977,6 @@
       <Streaming>false</Streaming>
       <SampleRate>32000</SampleRate>
       <SampleCount>21860</SampleCount>
-    </BuilderSoundElementNode>
-    <BuilderSoundElementNode>
-      <Name>Synth/0002_voice/999_for_E3/002_system_e/016_SYS03_E07_NA_wav</Name>
-      <Intro>Synth_0002_voice_999_for_E3_002_system_e_016_SYS03_E07_NA_wav_Intro.adx</Intro>
-      <ChannelCount>1</ChannelCount>
-      <Streaming>false</Streaming>
-      <SampleRate>28000</SampleRate>
-      <SampleCount>36324</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/999_for_E3/000_sonic_action_e/006_ACT01_E10_SN_a_wav</Name>
@@ -9883,14 +9988,6 @@
       <SampleCount>19689</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>Synth/0002_voice/999_for_E3/002_system_e/017_SYS03_E08_NA_wav</Name>
-      <Intro>Synth_0002_voice_999_for_E3_002_system_e_017_SYS03_E08_NA_wav_Intro.adx</Intro>
-      <ChannelCount>1</ChannelCount>
-      <Streaming>false</Streaming>
-      <SampleRate>28000</SampleRate>
-      <SampleCount>32175</SampleCount>
-    </BuilderSoundElementNode>
-    <BuilderSoundElementNode>
       <Name>Synth/999_for_E3/000_sonic_action_e/009_ACT01_E16_SN_g_wav</Name>
       <Intro>Synth_0002_voice_999_for_E3_000_sonic_action_e_009_ACT01_E16_SN_g_wav_Intro.adx</Intro>
       <Loop />
@@ -9900,14 +9997,6 @@
       <SampleCount>9251</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>Synth/0002_voice/999_for_E3/002_system_e/018_SYS03_E09_NA_wav</Name>
-      <Intro>Synth_0002_voice_999_for_E3_002_system_e_018_SYS03_E09_NA_wav_Intro.adx</Intro>
-      <ChannelCount>1</ChannelCount>
-      <Streaming>false</Streaming>
-      <SampleRate>28000</SampleRate>
-      <SampleCount>44445</SampleCount>
-    </BuilderSoundElementNode>
-    <BuilderSoundElementNode>
       <Name>Synth/999_for_E3/000_sonic_action_e/006_ACT01_E10_SN_h_wav</Name>
       <Intro>Synth_0002_voice_999_for_E3_000_sonic_action_e_006_ACT01_E10_SN_h_wav_Intro.adx</Intro>
       <Loop />
@@ -9915,14 +10004,6 @@
       <Streaming>false</Streaming>
       <SampleRate>32000</SampleRate>
       <SampleCount>18759</SampleCount>
-    </BuilderSoundElementNode>
-    <BuilderSoundElementNode>
-      <Name>Synth/0002_voice/999_for_E3/002_system_e/019_SYS02_E09_NA_wav</Name>
-      <Intro>Synth_0002_voice_999_for_E3_002_system_e_019_SYS02_E09_NA_wav_Intro.adx</Intro>
-      <ChannelCount>1</ChannelCount>
-      <Streaming>false</Streaming>
-      <SampleRate>28000</SampleRate>
-      <SampleCount>38457</SampleCount>
     </BuilderSoundElementNode>
   </SoundElementNodes>
   <AisacNodes>
