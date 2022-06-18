@@ -582,7 +582,7 @@
         <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_002_stumble/vj_ACT01_E11_sn_wav</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
-      <Volume>800</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -764,7 +764,7 @@
         <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_003_damage01/vj_ACT01_E06_sn_wav</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
-      <Volume>800</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -946,7 +946,7 @@
         <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_004_damage02/vj_ACT01_E06_sn_wav</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
-      <Volume>800</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1128,7 +1128,7 @@
         <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_005_damage03/vj_ACT01_E06_sn_wav</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
-      <Volume>800</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1310,7 +1310,7 @@
         <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_006_damage04/vj_ACT01_E06_sn_wav</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
-      <Volume>800</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1492,7 +1492,7 @@
         <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_007_dead/vj_ACT01_E08_sn_wav</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
-      <Volume>800</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1674,7 +1674,7 @@
         <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_008_action03/000_ACT00_EDummy_SN</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
-      <Volume>800</Volume>
+      <Volume>0</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1764,7 +1764,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/999_for_E3/000_sonic_action_j/000_ACT00_EDummy_SN</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>0</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1856,7 +1856,7 @@
         <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_009_action04/000_ACT00_EDummy_SN</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
-      <Volume>800</Volume>
+      <Volume>0</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1946,7 +1946,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/999_for_E3/000_sonic_action_j/000_ACT00_EDummy_SN</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>0</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -2038,7 +2038,7 @@
         <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_010_strain/vj_ACT01_E16_sn_wav</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
-      <Volume>800</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -2220,7 +2220,7 @@
         <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_011_damage05/vj_ACT01_E08_sn_wav</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
-      <Volume>800</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -2402,7 +2402,7 @@
         <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_012_yawn/3002_012_yawn</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
-      <Volume>800</Volume>
+      <Volume>0</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -2584,7 +2584,7 @@
         <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_013_success01/vj_ACT01_E16_sn_wav</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
-      <Volume>800</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -2766,7 +2766,7 @@
         <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_014_action05/000_ACT00_EDummy_SN</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
-      <Volume>800</Volume>
+      <Volume>0</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -2856,7 +2856,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/999_for_E3/000_sonic_action_j/000_ACT00_EDummy_SN</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>0</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -2948,7 +2948,7 @@
         <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_015_damage06/vj_ACT01_E04_sn_wav</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
-      <Volume>800</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -3677,7 +3677,7 @@
         <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_019_action07/vj_ACT01_E00_sn_wav</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
-      <Volume>800</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -3916,7 +3916,7 @@
         <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_020_action08/vj_ACT01_E16_sn_wav</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
-      <Volume>800</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -4077,7 +4077,7 @@
         <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_021_action09/vj_ACT01_E10_sn_wav</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
-      <Volume>800</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -4318,7 +4318,7 @@
         <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_action03_ex/vj_ACT01_E00_sn_wav</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
-      <Volume>800</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>

@@ -673,7 +673,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/999_for_E3/000_sonic_action_e/007_ACT01_E11_SN_i_wav</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -763,7 +763,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/999_for_E3/000_sonic_action_e/007_ACT01_E11_SN_k_wav</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -945,7 +945,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/999_for_E3/000_sonic_action_e/004_ACT01_E06_SN_c_wav</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1127,7 +1127,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/999_for_E3/000_sonic_action_e/004_ACT01_E06_SN_g_wav</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1309,7 +1309,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/999_for_E3/000_sonic_action_e/004_ACT01_E06_SN_a_wav</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1491,7 +1491,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/999_for_E3/000_sonic_action_e/004_ACT01_E06_SN_a_wav</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1673,7 +1673,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/999_for_E3/000_sonic_action_e/005_ACT01_E08_SN_f_wav</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1765,7 +1765,7 @@
         <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_008_action03/000_ACT00_EDummy_SN</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
-      <Volume>800</Volume>
+      <Volume>0</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1855,7 +1855,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/999_for_E3/000_sonic_action_e/000_ACT00_EDummy_SN</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>0</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1947,7 +1947,7 @@
         <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_009_action04/000_ACT00_EDummy_SN</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
-      <Volume>800</Volume>
+      <Volume>0</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -2037,7 +2037,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/999_for_E3/000_sonic_action_e/000_ACT00_EDummy_SN</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>0</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -2220,7 +2220,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/999_for_E3/000_sonic_action_e/009_ACT01_E16_SN_d_wav</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -2310,7 +2310,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/999_for_E3/000_sonic_action_e/009_ACT01_E16_SN_e_wav</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -2492,7 +2492,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/999_for_E3/000_sonic_action_e/005_ACT01_E08_SN_f_wav</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -2584,7 +2584,7 @@
         <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_012_yawn/3002_012_yawn</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
-      <Volume>800</Volume>
+      <Volume>0</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -2856,7 +2856,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/999_for_E3/000_sonic_action_e/009_ACT01_E16_SN_d_wav</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -2948,7 +2948,7 @@
         <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_014_action05/000_ACT00_EDummy_SN</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
-      <Volume>800</Volume>
+      <Volume>0</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -3038,7 +3038,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/999_for_E3/000_sonic_action_e/000_ACT00_EDummy_SN</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>0</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -3220,7 +3220,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/999_for_E3/000_sonic_action_e/003_ACT01_E04_SN_b_wav</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -3938,7 +3938,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/999_for_E3/000_sonic_action_e/002_ACT01_E01_SN_b_wav</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -4017,7 +4017,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/999_for_E3/000_sonic_action_e/002_ACT01_E00_SN_g_wav</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -4179,7 +4179,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/999_for_E3/000_sonic_action_e/009_ACT01_E16_SN_d_wav</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -4258,7 +4258,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/999_for_E3/000_sonic_action_e/009_ACT01_E16_SN_e_wav</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -4337,7 +4337,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/999_for_E3/000_sonic_action_e/009_ACT01_E16_SN_g_wav</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -4498,7 +4498,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/999_for_E3/000_sonic_action_e/006_ACT01_E10_SN_a_wav</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -4577,7 +4577,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/999_for_E3/000_sonic_action_e/006_ACT01_E10_SN_h_wav</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -4740,7 +4740,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/999_for_E3/000_sonic_action_e/002_ACT01_E02_SN_a_wav</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -4819,7 +4819,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/999_for_E3/000_sonic_action_e/002_ACT01_E01_SN_b_wav</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -4898,7 +4898,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/999_for_E3/000_sonic_action_e/002_ACT01_E00_SN_b_wav</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -4977,7 +4977,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/999_for_E3/000_sonic_action_e/002_ACT01_E01_SN_e_wav</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
