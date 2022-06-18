@@ -5057,6 +5057,7 @@
       <Children>
         <string>Synth/0002_voice/999_for_E3/002_system_e/002_SYS02_E01_NA/002_SYS02_E01_NA</string>
         <string>Synth/0002_voice/999_for_E3/002_system_e/002_SYS02_E01_NA/002_SYS02_E01_NA_1</string>
+        <string>Synth/0002_voice/999_for_E3/002_system_e/002_SYS02_E01_NA/002_SYS02_E01_Jingles</string>
       </Children>
       <Volume>879</Volume>
       <Pitch>0</Pitch>
@@ -5285,6 +5286,485 @@
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
       <VoiceLimitPcdlt>0</VoiceLimitPcdlt>
       <Pan3dVolumeOffset>0</Pan3dVolumeOffset>
+      <Pan3dVolumeGain>1000</Pan3dVolumeGain>
+      <Pan3dAngleOffset>0</Pan3dAngleOffset>
+      <Pan3dAngleGain>1000</Pan3dAngleGain>
+      <Pan3dDistanceOffset>1000</Pan3dDistanceOffset>
+      <Pan3dDistanceGain>1000</Pan3dDistanceGain>
+      <Dry0g>255</Dry0g>
+      <Dry1g>255</Dry1g>
+      <Dry2g>255</Dry2g>
+      <Dry3g>255</Dry3g>
+      <Dry4g>255</Dry4g>
+      <Dry5g>255</Dry5g>
+      <Dry6g>255</Dry6g>
+      <Dry7g>255</Dry7g>
+      <Wet0g>255</Wet0g>
+      <Wet1g>255</Wet1g>
+      <Wet2g>255</Wet2g>
+      <Wet3g>255</Wet3g>
+      <Wet4g>255</Wet4g>
+      <Wet5g>255</Wet5g>
+      <Wet6g>255</Wet6g>
+      <Wet7g>255</Wet7g>
+      <Filter1Type>0</Filter1Type>
+      <Filter1CutoffOffset>0</Filter1CutoffOffset>
+      <Filter1CutoffGain>0</Filter1CutoffGain>
+      <Filter1ResoOffset>0</Filter1ResoOffset>
+      <Filter1ResoGain>0</Filter1ResoGain>
+      <Filter2Type>0</Filter2Type>
+      <Filter2CutoffLowerOffset>0</Filter2CutoffLowerOffset>
+      <Filter2CutoffLowerGain>1000</Filter2CutoffLowerGain>
+      <Filter2CutoffHigherOffset>1000</Filter2CutoffHigherOffset>
+      <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
+      <PlaybackProbability>100</PlaybackProbability>
+      <NLmtChildren>0</NLmtChildren>
+      <Repeat>0</Repeat>
+      <ComboTime>0</ComboTime>
+      <ComboLoopBack>0</ComboLoopBack>
+    </BuilderSynthNode>
+    <BuilderSynthNode>
+      <Name>Synth/0002_voice/999_for_E3/002_system_e/002_SYS02_E01_NA/002_SYS02_E01_Jingles</Name>
+      <Type>WithChildren</Type>
+      <PlaybackType>Polyphonic</PlaybackType>
+      <Children>
+        <string>Synth/0002_voice/999_for_E3/002_system_e/002_SYS02_E01_NA/002_SYS02_E01_Jingles/036_0017_objsn_trickjump_ok_aif</string>
+        <string>Synth/0002_voice/999_for_E3/002_system_e/002_SYS02_E01_NA/002_SYS02_E01_Jingles/002_SYS02_E01_Jingles_finish</string>
+      </Children>
+      <Volume>1000</Volume>
+      <Pitch>0</Pitch>
+      <DelayTime>0</DelayTime>
+      <SControl>0</SControl>
+      <EgDelay>0</EgDelay>
+      <EgAttack>0</EgAttack>
+      <EgHold>0</EgHold>
+      <EgDecay>0</EgDecay>
+      <EgRelease>0</EgRelease>
+      <EgSustain>1000</EgSustain>
+      <FilterType>0</FilterType>
+      <FilterCutoff1>0</FilterCutoff1>
+      <FilterCutoff2>0</FilterCutoff2>
+      <FilterReso>0</FilterReso>
+      <FilterReleaseOffset>0</FilterReleaseOffset>
+      <Dry0>0</Dry0>
+      <Dry1>0</Dry1>
+      <Dry2>0</Dry2>
+      <Dry3>0</Dry3>
+      <Dry4>0</Dry4>
+      <Dry5>0</Dry5>
+      <Dry6>0</Dry6>
+      <Dry7>0</Dry7>
+      <Wet0>0</Wet0>
+      <Wet1>0</Wet1>
+      <Wet2>0</Wet2>
+      <Wet3>0</Wet3>
+      <Wet4>0</Wet4>
+      <Wet5>0</Wet5>
+      <Wet6>0</Wet6>
+      <Wet7>0</Wet7>
+      <VoiceLimitType>0</VoiceLimitType>
+      <VoiceLimitPriority>0</VoiceLimitPriority>
+      <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
+      <VoiceLimitPcdlt>0</VoiceLimitPcdlt>
+      <Pan3dVolumeOffset>1000</Pan3dVolumeOffset>
+      <Pan3dVolumeGain>1000</Pan3dVolumeGain>
+      <Pan3dAngleOffset>0</Pan3dAngleOffset>
+      <Pan3dAngleGain>1000</Pan3dAngleGain>
+      <Pan3dDistanceOffset>1000</Pan3dDistanceOffset>
+      <Pan3dDistanceGain>1000</Pan3dDistanceGain>
+      <Dry0g>255</Dry0g>
+      <Dry1g>255</Dry1g>
+      <Dry2g>255</Dry2g>
+      <Dry3g>255</Dry3g>
+      <Dry4g>255</Dry4g>
+      <Dry5g>255</Dry5g>
+      <Dry6g>255</Dry6g>
+      <Dry7g>255</Dry7g>
+      <Wet0g>255</Wet0g>
+      <Wet1g>255</Wet1g>
+      <Wet2g>255</Wet2g>
+      <Wet3g>255</Wet3g>
+      <Wet4g>255</Wet4g>
+      <Wet5g>255</Wet5g>
+      <Wet6g>255</Wet6g>
+      <Wet7g>255</Wet7g>
+      <Filter1Type>0</Filter1Type>
+      <Filter1CutoffOffset>0</Filter1CutoffOffset>
+      <Filter1CutoffGain>0</Filter1CutoffGain>
+      <Filter1ResoOffset>0</Filter1ResoOffset>
+      <Filter1ResoGain>0</Filter1ResoGain>
+      <Filter2Type>0</Filter2Type>
+      <Filter2CutoffLowerOffset>0</Filter2CutoffLowerOffset>
+      <Filter2CutoffLowerGain>1000</Filter2CutoffLowerGain>
+      <Filter2CutoffHigherOffset>1000</Filter2CutoffHigherOffset>
+      <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
+      <PlaybackProbability>0</PlaybackProbability>
+      <NLmtChildren>0</NLmtChildren>
+      <Repeat>0</Repeat>
+      <ComboTime>0</ComboTime>
+      <ComboLoopBack>0</ComboLoopBack>
+    </BuilderSynthNode>
+    <BuilderSynthNode>
+      <Name>Synth/0002_voice/999_for_E3/002_system_e/002_SYS02_E01_NA/002_SYS02_E01_Jingles/036_0017_objsn_trickjump_ok_aif</Name>
+      <Type>Single</Type>
+      <PlaybackType>Normal</PlaybackType>
+      <SoundElementReference>Synth/0003_object/000_common/036_0017_objsn_trickjump_ok_aif</SoundElementReference>
+      <Children />
+      <Volume>649</Volume>
+      <Pitch>0</Pitch>
+      <DelayTime>0</DelayTime>
+      <SControl>0</SControl>
+      <EgDelay>0</EgDelay>
+      <EgAttack>0</EgAttack>
+      <EgHold>0</EgHold>
+      <EgDecay>0</EgDecay>
+      <EgRelease>0</EgRelease>
+      <EgSustain>1000</EgSustain>
+      <FilterType>0</FilterType>
+      <FilterCutoff1>0</FilterCutoff1>
+      <FilterCutoff2>0</FilterCutoff2>
+      <FilterReso>0</FilterReso>
+      <FilterReleaseOffset>0</FilterReleaseOffset>
+      <Dry0>0</Dry0>
+      <Dry1>0</Dry1>
+      <Dry2>0</Dry2>
+      <Dry3>0</Dry3>
+      <Dry4>0</Dry4>
+      <Dry5>0</Dry5>
+      <Dry6>0</Dry6>
+      <Dry7>0</Dry7>
+      <Wet0>0</Wet0>
+      <Wet1>0</Wet1>
+      <Wet2>0</Wet2>
+      <Wet3>0</Wet3>
+      <Wet4>0</Wet4>
+      <Wet5>0</Wet5>
+      <Wet6>0</Wet6>
+      <Wet7>0</Wet7>
+      <VoiceLimitType>0</VoiceLimitType>
+      <VoiceLimitPriority>0</VoiceLimitPriority>
+      <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
+      <VoiceLimitPcdlt>0</VoiceLimitPcdlt>
+      <Pan3dVolumeOffset>1000</Pan3dVolumeOffset>
+      <Pan3dVolumeGain>1000</Pan3dVolumeGain>
+      <Pan3dAngleOffset>0</Pan3dAngleOffset>
+      <Pan3dAngleGain>1000</Pan3dAngleGain>
+      <Pan3dDistanceOffset>1000</Pan3dDistanceOffset>
+      <Pan3dDistanceGain>1000</Pan3dDistanceGain>
+      <Dry0g>255</Dry0g>
+      <Dry1g>255</Dry1g>
+      <Dry2g>255</Dry2g>
+      <Dry3g>255</Dry3g>
+      <Dry4g>255</Dry4g>
+      <Dry5g>255</Dry5g>
+      <Dry6g>255</Dry6g>
+      <Dry7g>255</Dry7g>
+      <Wet0g>255</Wet0g>
+      <Wet1g>255</Wet1g>
+      <Wet2g>255</Wet2g>
+      <Wet3g>255</Wet3g>
+      <Wet4g>255</Wet4g>
+      <Wet5g>255</Wet5g>
+      <Wet6g>255</Wet6g>
+      <Wet7g>255</Wet7g>
+      <Filter1Type>0</Filter1Type>
+      <Filter1CutoffOffset>0</Filter1CutoffOffset>
+      <Filter1CutoffGain>0</Filter1CutoffGain>
+      <Filter1ResoOffset>0</Filter1ResoOffset>
+      <Filter1ResoGain>0</Filter1ResoGain>
+      <Filter2Type>0</Filter2Type>
+      <Filter2CutoffLowerOffset>0</Filter2CutoffLowerOffset>
+      <Filter2CutoffLowerGain>1000</Filter2CutoffLowerGain>
+      <Filter2CutoffHigherOffset>1000</Filter2CutoffHigherOffset>
+      <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
+      <PlaybackProbability>100</PlaybackProbability>
+      <NLmtChildren>0</NLmtChildren>
+      <Repeat>0</Repeat>
+      <ComboTime>0</ComboTime>
+      <ComboLoopBack>0</ComboLoopBack>
+    </BuilderSynthNode>
+    <BuilderSynthNode>
+      <Name>Synth/0002_voice/999_for_E3/002_system_e/002_SYS02_E01_NA/002_SYS02_E01_Jingles/002_SYS02_E01_Jingles_finish</Name>
+      <Type>WithChildren</Type>
+      <PlaybackType>Polyphonic</PlaybackType>
+      <Children>
+        <string>Synth/0002_voice/999_for_E3/002_system_e/002_SYS02_E01_NA/002_SYS02_E01_Jingles/002_SYS02_E01_Jingles_finish/076_objsn_trickjump_ok_05_02_aif</string>
+        <string>Synth/0002_voice/999_for_E3/002_system_e/002_SYS02_E01_NA/002_SYS02_E01_Jingles/002_SYS02_E01_Jingles_finish/076_objsn_trickjump_ok_05_02_aif_0</string>
+        <string>Synth/0002_voice/999_for_E3/002_system_e/002_SYS02_E01_NA/002_SYS02_E01_Jingles/002_SYS02_E01_Jingles_finish/076_objsn_trickjump_ok_05_02_aif_1</string>
+      </Children>
+      <Volume>899</Volume>
+      <Pitch>0</Pitch>
+      <DelayTime>600</DelayTime>
+      <SControl>0</SControl>
+      <EgDelay>0</EgDelay>
+      <EgAttack>0</EgAttack>
+      <EgHold>0</EgHold>
+      <EgDecay>0</EgDecay>
+      <EgRelease>0</EgRelease>
+      <EgSustain>1000</EgSustain>
+      <FilterType>0</FilterType>
+      <FilterCutoff1>0</FilterCutoff1>
+      <FilterCutoff2>0</FilterCutoff2>
+      <FilterReso>0</FilterReso>
+      <FilterReleaseOffset>0</FilterReleaseOffset>
+      <Dry0>0</Dry0>
+      <Dry1>0</Dry1>
+      <Dry2>0</Dry2>
+      <Dry3>0</Dry3>
+      <Dry4>0</Dry4>
+      <Dry5>0</Dry5>
+      <Dry6>0</Dry6>
+      <Dry7>0</Dry7>
+      <Wet0>0</Wet0>
+      <Wet1>0</Wet1>
+      <Wet2>0</Wet2>
+      <Wet3>0</Wet3>
+      <Wet4>0</Wet4>
+      <Wet5>0</Wet5>
+      <Wet6>0</Wet6>
+      <Wet7>0</Wet7>
+      <VoiceLimitType>0</VoiceLimitType>
+      <VoiceLimitPriority>0</VoiceLimitPriority>
+      <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
+      <VoiceLimitPcdlt>0</VoiceLimitPcdlt>
+      <Pan3dVolumeOffset>1000</Pan3dVolumeOffset>
+      <Pan3dVolumeGain>1000</Pan3dVolumeGain>
+      <Pan3dAngleOffset>0</Pan3dAngleOffset>
+      <Pan3dAngleGain>1000</Pan3dAngleGain>
+      <Pan3dDistanceOffset>1000</Pan3dDistanceOffset>
+      <Pan3dDistanceGain>1000</Pan3dDistanceGain>
+      <Dry0g>255</Dry0g>
+      <Dry1g>255</Dry1g>
+      <Dry2g>255</Dry2g>
+      <Dry3g>255</Dry3g>
+      <Dry4g>255</Dry4g>
+      <Dry5g>255</Dry5g>
+      <Dry6g>255</Dry6g>
+      <Dry7g>255</Dry7g>
+      <Wet0g>255</Wet0g>
+      <Wet1g>255</Wet1g>
+      <Wet2g>255</Wet2g>
+      <Wet3g>255</Wet3g>
+      <Wet4g>255</Wet4g>
+      <Wet5g>255</Wet5g>
+      <Wet6g>255</Wet6g>
+      <Wet7g>255</Wet7g>
+      <Filter1Type>0</Filter1Type>
+      <Filter1CutoffOffset>0</Filter1CutoffOffset>
+      <Filter1CutoffGain>0</Filter1CutoffGain>
+      <Filter1ResoOffset>0</Filter1ResoOffset>
+      <Filter1ResoGain>0</Filter1ResoGain>
+      <Filter2Type>0</Filter2Type>
+      <Filter2CutoffLowerOffset>0</Filter2CutoffLowerOffset>
+      <Filter2CutoffLowerGain>1000</Filter2CutoffLowerGain>
+      <Filter2CutoffHigherOffset>1000</Filter2CutoffHigherOffset>
+      <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
+      <PlaybackProbability>0</PlaybackProbability>
+      <NLmtChildren>0</NLmtChildren>
+      <Repeat>0</Repeat>
+      <ComboTime>0</ComboTime>
+      <ComboLoopBack>0</ComboLoopBack>
+    </BuilderSynthNode>
+    <BuilderSynthNode>
+      <Name>Synth/0002_voice/999_for_E3/002_system_e/002_SYS02_E01_NA/002_SYS02_E01_Jingles/002_SYS02_E01_Jingles_finish/076_objsn_trickjump_ok_05_02_aif</Name>
+      <Type>Single</Type>
+      <PlaybackType>Normal</PlaybackType>
+      <SoundElementReference>Synth/0003_object/000_common/076_objsn_trickjump_ok_05_02_aif</SoundElementReference>
+      <Children />
+      <Volume>800</Volume>
+      <Pitch>0</Pitch>
+      <DelayTime>0</DelayTime>
+      <SControl>0</SControl>
+      <EgDelay>0</EgDelay>
+      <EgAttack>0</EgAttack>
+      <EgHold>0</EgHold>
+      <EgDecay>0</EgDecay>
+      <EgRelease>0</EgRelease>
+      <EgSustain>1000</EgSustain>
+      <FilterType>0</FilterType>
+      <FilterCutoff1>0</FilterCutoff1>
+      <FilterCutoff2>0</FilterCutoff2>
+      <FilterReso>0</FilterReso>
+      <FilterReleaseOffset>0</FilterReleaseOffset>
+      <Dry0>0</Dry0>
+      <Dry1>0</Dry1>
+      <Dry2>0</Dry2>
+      <Dry3>0</Dry3>
+      <Dry4>0</Dry4>
+      <Dry5>0</Dry5>
+      <Dry6>0</Dry6>
+      <Dry7>0</Dry7>
+      <Wet0>0</Wet0>
+      <Wet1>0</Wet1>
+      <Wet2>0</Wet2>
+      <Wet3>0</Wet3>
+      <Wet4>0</Wet4>
+      <Wet5>0</Wet5>
+      <Wet6>0</Wet6>
+      <Wet7>0</Wet7>
+      <VoiceLimitType>0</VoiceLimitType>
+      <VoiceLimitPriority>0</VoiceLimitPriority>
+      <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
+      <VoiceLimitPcdlt>0</VoiceLimitPcdlt>
+      <Pan3dVolumeOffset>1000</Pan3dVolumeOffset>
+      <Pan3dVolumeGain>1000</Pan3dVolumeGain>
+      <Pan3dAngleOffset>0</Pan3dAngleOffset>
+      <Pan3dAngleGain>1000</Pan3dAngleGain>
+      <Pan3dDistanceOffset>1000</Pan3dDistanceOffset>
+      <Pan3dDistanceGain>1000</Pan3dDistanceGain>
+      <Dry0g>255</Dry0g>
+      <Dry1g>255</Dry1g>
+      <Dry2g>255</Dry2g>
+      <Dry3g>255</Dry3g>
+      <Dry4g>255</Dry4g>
+      <Dry5g>255</Dry5g>
+      <Dry6g>255</Dry6g>
+      <Dry7g>255</Dry7g>
+      <Wet0g>255</Wet0g>
+      <Wet1g>255</Wet1g>
+      <Wet2g>255</Wet2g>
+      <Wet3g>255</Wet3g>
+      <Wet4g>255</Wet4g>
+      <Wet5g>255</Wet5g>
+      <Wet6g>255</Wet6g>
+      <Wet7g>255</Wet7g>
+      <Filter1Type>0</Filter1Type>
+      <Filter1CutoffOffset>0</Filter1CutoffOffset>
+      <Filter1CutoffGain>0</Filter1CutoffGain>
+      <Filter1ResoOffset>0</Filter1ResoOffset>
+      <Filter1ResoGain>0</Filter1ResoGain>
+      <Filter2Type>0</Filter2Type>
+      <Filter2CutoffLowerOffset>0</Filter2CutoffLowerOffset>
+      <Filter2CutoffLowerGain>1000</Filter2CutoffLowerGain>
+      <Filter2CutoffHigherOffset>1000</Filter2CutoffHigherOffset>
+      <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
+      <PlaybackProbability>100</PlaybackProbability>
+      <NLmtChildren>0</NLmtChildren>
+      <Repeat>0</Repeat>
+      <ComboTime>0</ComboTime>
+      <ComboLoopBack>0</ComboLoopBack>
+    </BuilderSynthNode>
+    <BuilderSynthNode>
+      <Name>Synth/0002_voice/999_for_E3/002_system_e/002_SYS02_E01_NA/002_SYS02_E01_Jingles/002_SYS02_E01_Jingles_finish/076_objsn_trickjump_ok_05_02_aif_0</Name>
+      <Type>Single</Type>
+      <PlaybackType>Normal</PlaybackType>
+      <SoundElementReference>Synth/0003_object/000_common/076_objsn_trickjump_ok_05_02_aif</SoundElementReference>
+      <Children />
+      <Volume>300</Volume>
+      <Pitch>0</Pitch>
+      <DelayTime>460</DelayTime>
+      <SControl>0</SControl>
+      <EgDelay>0</EgDelay>
+      <EgAttack>0</EgAttack>
+      <EgHold>0</EgHold>
+      <EgDecay>0</EgDecay>
+      <EgRelease>0</EgRelease>
+      <EgSustain>1000</EgSustain>
+      <FilterType>0</FilterType>
+      <FilterCutoff1>0</FilterCutoff1>
+      <FilterCutoff2>0</FilterCutoff2>
+      <FilterReso>0</FilterReso>
+      <FilterReleaseOffset>0</FilterReleaseOffset>
+      <Dry0>0</Dry0>
+      <Dry1>0</Dry1>
+      <Dry2>0</Dry2>
+      <Dry3>0</Dry3>
+      <Dry4>0</Dry4>
+      <Dry5>0</Dry5>
+      <Dry6>0</Dry6>
+      <Dry7>0</Dry7>
+      <Wet0>0</Wet0>
+      <Wet1>0</Wet1>
+      <Wet2>0</Wet2>
+      <Wet3>0</Wet3>
+      <Wet4>0</Wet4>
+      <Wet5>0</Wet5>
+      <Wet6>0</Wet6>
+      <Wet7>0</Wet7>
+      <VoiceLimitType>0</VoiceLimitType>
+      <VoiceLimitPriority>0</VoiceLimitPriority>
+      <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
+      <VoiceLimitPcdlt>0</VoiceLimitPcdlt>
+      <Pan3dVolumeOffset>1000</Pan3dVolumeOffset>
+      <Pan3dVolumeGain>1000</Pan3dVolumeGain>
+      <Pan3dAngleOffset>0</Pan3dAngleOffset>
+      <Pan3dAngleGain>1000</Pan3dAngleGain>
+      <Pan3dDistanceOffset>1000</Pan3dDistanceOffset>
+      <Pan3dDistanceGain>1000</Pan3dDistanceGain>
+      <Dry0g>255</Dry0g>
+      <Dry1g>255</Dry1g>
+      <Dry2g>255</Dry2g>
+      <Dry3g>255</Dry3g>
+      <Dry4g>255</Dry4g>
+      <Dry5g>255</Dry5g>
+      <Dry6g>255</Dry6g>
+      <Dry7g>255</Dry7g>
+      <Wet0g>255</Wet0g>
+      <Wet1g>255</Wet1g>
+      <Wet2g>255</Wet2g>
+      <Wet3g>255</Wet3g>
+      <Wet4g>255</Wet4g>
+      <Wet5g>255</Wet5g>
+      <Wet6g>255</Wet6g>
+      <Wet7g>255</Wet7g>
+      <Filter1Type>0</Filter1Type>
+      <Filter1CutoffOffset>0</Filter1CutoffOffset>
+      <Filter1CutoffGain>0</Filter1CutoffGain>
+      <Filter1ResoOffset>0</Filter1ResoOffset>
+      <Filter1ResoGain>0</Filter1ResoGain>
+      <Filter2Type>0</Filter2Type>
+      <Filter2CutoffLowerOffset>0</Filter2CutoffLowerOffset>
+      <Filter2CutoffLowerGain>1000</Filter2CutoffLowerGain>
+      <Filter2CutoffHigherOffset>1000</Filter2CutoffHigherOffset>
+      <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
+      <PlaybackProbability>100</PlaybackProbability>
+      <NLmtChildren>0</NLmtChildren>
+      <Repeat>0</Repeat>
+      <ComboTime>0</ComboTime>
+      <ComboLoopBack>0</ComboLoopBack>
+    </BuilderSynthNode>
+    <BuilderSynthNode>
+      <Name>Synth/0002_voice/999_for_E3/002_system_e/002_SYS02_E01_NA/002_SYS02_E01_Jingles/002_SYS02_E01_Jingles_finish/076_objsn_trickjump_ok_05_02_aif_1</Name>
+      <Type>Single</Type>
+      <PlaybackType>Normal</PlaybackType>
+      <SoundElementReference>Synth/0003_object/000_common/076_objsn_trickjump_ok_05_02_aif</SoundElementReference>
+      <Children />
+      <Volume>200</Volume>
+      <Pitch>0</Pitch>
+      <DelayTime>0</DelayTime>
+      <SControl>0</SControl>
+      <EgDelay>0</EgDelay>
+      <EgAttack>0</EgAttack>
+      <EgHold>0</EgHold>
+      <EgDecay>0</EgDecay>
+      <EgRelease>0</EgRelease>
+      <EgSustain>1000</EgSustain>
+      <FilterType>0</FilterType>
+      <FilterCutoff1>0</FilterCutoff1>
+      <FilterCutoff2>0</FilterCutoff2>
+      <FilterReso>0</FilterReso>
+      <FilterReleaseOffset>0</FilterReleaseOffset>
+      <Dry0>0</Dry0>
+      <Dry1>0</Dry1>
+      <Dry2>0</Dry2>
+      <Dry3>0</Dry3>
+      <Dry4>0</Dry4>
+      <Dry5>0</Dry5>
+      <Dry6>0</Dry6>
+      <Dry7>0</Dry7>
+      <Wet0>0</Wet0>
+      <Wet1>0</Wet1>
+      <Wet2>0</Wet2>
+      <Wet3>0</Wet3>
+      <Wet4>0</Wet4>
+      <Wet5>0</Wet5>
+      <Wet6>0</Wet6>
+      <Wet7>0</Wet7>
+      <VoiceLimitType>0</VoiceLimitType>
+      <VoiceLimitPriority>0</VoiceLimitPriority>
+      <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
+      <VoiceLimitPcdlt>0</VoiceLimitPcdlt>
+      <Pan3dVolumeOffset>1000</Pan3dVolumeOffset>
       <Pan3dVolumeGain>1000</Pan3dVolumeGain>
       <Pan3dAngleOffset>0</Pan3dAngleOffset>
       <Pan3dAngleGain>1000</Pan3dAngleGain>
@@ -6139,278 +6619,6 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/0002_voice/999_for_E3/002_system_e/006_SYS02_E05_NA</Name>
-      <Type>WithChildren</Type>
-      <PlaybackType>Polyphonic</PlaybackType>
-      <Children>
-        <string>Synth/0002_voice/999_for_E3/002_system_e/006_SYS02_E05_NA/006_SYS02_E05_NA</string>
-        <string>Synth/0002_voice/999_for_E3/002_system_e/006_SYS02_E05_NA/006_SYS02_E05_NA_1</string>
-      </Children>
-      <Volume>850</Volume>
-      <Pitch>0</Pitch>
-      <DelayTime>0</DelayTime>
-      <SControl>0</SControl>
-      <EgDelay>0</EgDelay>
-      <EgAttack>0</EgAttack>
-      <EgHold>0</EgHold>
-      <EgDecay>0</EgDecay>
-      <EgRelease>0</EgRelease>
-      <EgSustain>1000</EgSustain>
-      <FilterType>0</FilterType>
-      <FilterCutoff1>0</FilterCutoff1>
-      <FilterCutoff2>0</FilterCutoff2>
-      <FilterReso>0</FilterReso>
-      <FilterReleaseOffset>0</FilterReleaseOffset>
-      <DryOName />
-      <Mtxrtr />
-      <Dry0>0</Dry0>
-      <Dry1>0</Dry1>
-      <Dry2>0</Dry2>
-      <Dry3>0</Dry3>
-      <Dry4>0</Dry4>
-      <Dry5>0</Dry5>
-      <Dry6>0</Dry6>
-      <Dry7>0</Dry7>
-      <WetOName />
-      <Wet0>0</Wet0>
-      <Wet1>0</Wet1>
-      <Wet2>0</Wet2>
-      <Wet3>0</Wet3>
-      <Wet4>0</Wet4>
-      <Wet5>0</Wet5>
-      <Wet6>0</Wet6>
-      <Wet7>0</Wet7>
-      <Wcnct0 />
-      <Wcnct1 />
-      <Wcnct2 />
-      <Wcnct3 />
-      <Wcnct4 />
-      <Wcnct5 />
-      <Wcnct6 />
-      <Wcnct7 />
-      <VoiceLimitType>0</VoiceLimitType>
-      <VoiceLimitPriority>0</VoiceLimitPriority>
-      <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
-      <VoiceLimitPcdlt>0</VoiceLimitPcdlt>
-      <Pan3dVolumeOffset>0</Pan3dVolumeOffset>
-      <Pan3dVolumeGain>1000</Pan3dVolumeGain>
-      <Pan3dAngleOffset>0</Pan3dAngleOffset>
-      <Pan3dAngleGain>1000</Pan3dAngleGain>
-      <Pan3dDistanceOffset>0</Pan3dDistanceOffset>
-      <Pan3dDistanceGain>1000</Pan3dDistanceGain>
-      <Dry0g>255</Dry0g>
-      <Dry1g>255</Dry1g>
-      <Dry2g>255</Dry2g>
-      <Dry3g>255</Dry3g>
-      <Dry4g>255</Dry4g>
-      <Dry5g>255</Dry5g>
-      <Dry6g>255</Dry6g>
-      <Dry7g>255</Dry7g>
-      <Wet0g>255</Wet0g>
-      <Wet1g>255</Wet1g>
-      <Wet2g>255</Wet2g>
-      <Wet3g>255</Wet3g>
-      <Wet4g>255</Wet4g>
-      <Wet5g>255</Wet5g>
-      <Wet6g>255</Wet6g>
-      <Wet7g>255</Wet7g>
-      <Filter1Type>0</Filter1Type>
-      <Filter1CutoffOffset>0</Filter1CutoffOffset>
-      <Filter1CutoffGain>0</Filter1CutoffGain>
-      <Filter1ResoOffset>0</Filter1ResoOffset>
-      <Filter1ResoGain>0</Filter1ResoGain>
-      <Filter2Type>0</Filter2Type>
-      <Filter2CutoffLowerOffset>0</Filter2CutoffLowerOffset>
-      <Filter2CutoffLowerGain>1000</Filter2CutoffLowerGain>
-      <Filter2CutoffHigherOffset>0</Filter2CutoffHigherOffset>
-      <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
-      <PlaybackProbability>0</PlaybackProbability>
-      <NLmtChildren>0</NLmtChildren>
-      <Repeat>1</Repeat>
-      <ComboTime>0</ComboTime>
-      <ComboLoopBack>0</ComboLoopBack>
-    </BuilderSynthNode>
-    <BuilderSynthNode>
-      <Name>Synth/0002_voice/999_for_E3/002_system_e/006_SYS02_E05_NA/006_SYS02_E05_NA</Name>
-      <Type>Single</Type>
-      <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference />
-      <Children />
-      <Volume>1000</Volume>
-      <Pitch>10</Pitch>
-      <DelayTime>0</DelayTime>
-      <SControl>0</SControl>
-      <EgDelay>0</EgDelay>
-      <EgAttack>0</EgAttack>
-      <EgHold>0</EgHold>
-      <EgDecay>0</EgDecay>
-      <EgRelease>0</EgRelease>
-      <EgSustain>1000</EgSustain>
-      <FilterType>0</FilterType>
-      <FilterCutoff1>0</FilterCutoff1>
-      <FilterCutoff2>0</FilterCutoff2>
-      <FilterReso>0</FilterReso>
-      <FilterReleaseOffset>0</FilterReleaseOffset>
-      <DryOName />
-      <Mtxrtr />
-      <Dry0>255</Dry0>
-      <Dry1>0</Dry1>
-      <Dry2>0</Dry2>
-      <Dry3>0</Dry3>
-      <Dry4>0</Dry4>
-      <Dry5>0</Dry5>
-      <Dry6>0</Dry6>
-      <Dry7>0</Dry7>
-      <WetOName />
-      <Wet0>0</Wet0>
-      <Wet1>0</Wet1>
-      <Wet2>0</Wet2>
-      <Wet3>0</Wet3>
-      <Wet4>0</Wet4>
-      <Wet5>0</Wet5>
-      <Wet6>0</Wet6>
-      <Wet7>0</Wet7>
-      <Wcnct0 />
-      <Wcnct1 />
-      <Wcnct2 />
-      <Wcnct3 />
-      <Wcnct4 />
-      <Wcnct5 />
-      <Wcnct6 />
-      <Wcnct7 />
-      <VoiceLimitType>0</VoiceLimitType>
-      <VoiceLimitPriority>0</VoiceLimitPriority>
-      <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
-      <VoiceLimitPcdlt>0</VoiceLimitPcdlt>
-      <Pan3dVolumeOffset>0</Pan3dVolumeOffset>
-      <Pan3dVolumeGain>1000</Pan3dVolumeGain>
-      <Pan3dAngleOffset>0</Pan3dAngleOffset>
-      <Pan3dAngleGain>1000</Pan3dAngleGain>
-      <Pan3dDistanceOffset>1000</Pan3dDistanceOffset>
-      <Pan3dDistanceGain>1000</Pan3dDistanceGain>
-      <Dry0g>255</Dry0g>
-      <Dry1g>255</Dry1g>
-      <Dry2g>255</Dry2g>
-      <Dry3g>255</Dry3g>
-      <Dry4g>255</Dry4g>
-      <Dry5g>255</Dry5g>
-      <Dry6g>255</Dry6g>
-      <Dry7g>255</Dry7g>
-      <Wet0g>255</Wet0g>
-      <Wet1g>255</Wet1g>
-      <Wet2g>255</Wet2g>
-      <Wet3g>255</Wet3g>
-      <Wet4g>255</Wet4g>
-      <Wet5g>255</Wet5g>
-      <Wet6g>255</Wet6g>
-      <Wet7g>255</Wet7g>
-      <Filter1Type>0</Filter1Type>
-      <Filter1CutoffOffset>0</Filter1CutoffOffset>
-      <Filter1CutoffGain>0</Filter1CutoffGain>
-      <Filter1ResoOffset>0</Filter1ResoOffset>
-      <Filter1ResoGain>0</Filter1ResoGain>
-      <Filter2Type>0</Filter2Type>
-      <Filter2CutoffLowerOffset>0</Filter2CutoffLowerOffset>
-      <Filter2CutoffLowerGain>1000</Filter2CutoffLowerGain>
-      <Filter2CutoffHigherOffset>1000</Filter2CutoffHigherOffset>
-      <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
-      <PlaybackProbability>100</PlaybackProbability>
-      <NLmtChildren>0</NLmtChildren>
-      <Repeat>0</Repeat>
-      <ComboTime>0</ComboTime>
-      <ComboLoopBack>0</ComboLoopBack>
-    </BuilderSynthNode>
-    <BuilderSynthNode>
-      <Name>Synth/0002_voice/999_for_E3/002_system_e/006_SYS02_E05_NA/006_SYS02_E05_NA_1</Name>
-      <Type>Single</Type>
-      <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference />
-      <Children />
-      <Volume>1000</Volume>
-      <Pitch>-10</Pitch>
-      <DelayTime>0</DelayTime>
-      <SControl>0</SControl>
-      <EgDelay>0</EgDelay>
-      <EgAttack>0</EgAttack>
-      <EgHold>0</EgHold>
-      <EgDecay>0</EgDecay>
-      <EgRelease>0</EgRelease>
-      <EgSustain>1000</EgSustain>
-      <FilterType>0</FilterType>
-      <FilterCutoff1>0</FilterCutoff1>
-      <FilterCutoff2>0</FilterCutoff2>
-      <FilterReso>0</FilterReso>
-      <FilterReleaseOffset>0</FilterReleaseOffset>
-      <DryOName />
-      <Mtxrtr />
-      <Dry0>0</Dry0>
-      <Dry1>255</Dry1>
-      <Dry2>0</Dry2>
-      <Dry3>0</Dry3>
-      <Dry4>0</Dry4>
-      <Dry5>0</Dry5>
-      <Dry6>0</Dry6>
-      <Dry7>0</Dry7>
-      <WetOName />
-      <Wet0>0</Wet0>
-      <Wet1>0</Wet1>
-      <Wet2>0</Wet2>
-      <Wet3>0</Wet3>
-      <Wet4>0</Wet4>
-      <Wet5>0</Wet5>
-      <Wet6>0</Wet6>
-      <Wet7>0</Wet7>
-      <Wcnct0 />
-      <Wcnct1 />
-      <Wcnct2 />
-      <Wcnct3 />
-      <Wcnct4 />
-      <Wcnct5 />
-      <Wcnct6 />
-      <Wcnct7 />
-      <VoiceLimitType>0</VoiceLimitType>
-      <VoiceLimitPriority>0</VoiceLimitPriority>
-      <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
-      <VoiceLimitPcdlt>0</VoiceLimitPcdlt>
-      <Pan3dVolumeOffset>0</Pan3dVolumeOffset>
-      <Pan3dVolumeGain>1000</Pan3dVolumeGain>
-      <Pan3dAngleOffset>0</Pan3dAngleOffset>
-      <Pan3dAngleGain>1000</Pan3dAngleGain>
-      <Pan3dDistanceOffset>1000</Pan3dDistanceOffset>
-      <Pan3dDistanceGain>1000</Pan3dDistanceGain>
-      <Dry0g>255</Dry0g>
-      <Dry1g>255</Dry1g>
-      <Dry2g>255</Dry2g>
-      <Dry3g>255</Dry3g>
-      <Dry4g>255</Dry4g>
-      <Dry5g>255</Dry5g>
-      <Dry6g>255</Dry6g>
-      <Dry7g>255</Dry7g>
-      <Wet0g>255</Wet0g>
-      <Wet1g>255</Wet1g>
-      <Wet2g>255</Wet2g>
-      <Wet3g>255</Wet3g>
-      <Wet4g>255</Wet4g>
-      <Wet5g>255</Wet5g>
-      <Wet6g>255</Wet6g>
-      <Wet7g>255</Wet7g>
-      <Filter1Type>0</Filter1Type>
-      <Filter1CutoffOffset>0</Filter1CutoffOffset>
-      <Filter1CutoffGain>0</Filter1CutoffGain>
-      <Filter1ResoOffset>0</Filter1ResoOffset>
-      <Filter1ResoGain>0</Filter1ResoGain>
-      <Filter2Type>0</Filter2Type>
-      <Filter2CutoffLowerOffset>0</Filter2CutoffLowerOffset>
-      <Filter2CutoffLowerGain>1000</Filter2CutoffLowerGain>
-      <Filter2CutoffHigherOffset>1000</Filter2CutoffHigherOffset>
-      <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
-      <PlaybackProbability>100</PlaybackProbability>
-      <NLmtChildren>0</NLmtChildren>
-      <Repeat>0</Repeat>
-      <ComboTime>0</ComboTime>
-      <ComboLoopBack>0</ComboLoopBack>
-    </BuilderSynthNode>
-    <BuilderSynthNode>
       <Name>Synth/0002_voice/999_for_E3/002_system_e/007_SYS02_E06_NA</Name>
       <Type>WithChildren</Type>
       <PlaybackType>Polyphonic</PlaybackType>
@@ -6597,2726 +6805,6 @@
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/0002_voice/999_for_E3/002_system_e/007_SYS02_E06_NA_wav</SoundElementReference>
-      <Children />
-      <Volume>1000</Volume>
-      <Pitch>-10</Pitch>
-      <DelayTime>0</DelayTime>
-      <SControl>0</SControl>
-      <EgDelay>0</EgDelay>
-      <EgAttack>0</EgAttack>
-      <EgHold>0</EgHold>
-      <EgDecay>0</EgDecay>
-      <EgRelease>0</EgRelease>
-      <EgSustain>1000</EgSustain>
-      <FilterType>0</FilterType>
-      <FilterCutoff1>0</FilterCutoff1>
-      <FilterCutoff2>0</FilterCutoff2>
-      <FilterReso>0</FilterReso>
-      <FilterReleaseOffset>0</FilterReleaseOffset>
-      <DryOName />
-      <Mtxrtr />
-      <Dry0>0</Dry0>
-      <Dry1>255</Dry1>
-      <Dry2>0</Dry2>
-      <Dry3>0</Dry3>
-      <Dry4>0</Dry4>
-      <Dry5>0</Dry5>
-      <Dry6>0</Dry6>
-      <Dry7>0</Dry7>
-      <WetOName />
-      <Wet0>0</Wet0>
-      <Wet1>0</Wet1>
-      <Wet2>0</Wet2>
-      <Wet3>0</Wet3>
-      <Wet4>0</Wet4>
-      <Wet5>0</Wet5>
-      <Wet6>0</Wet6>
-      <Wet7>0</Wet7>
-      <Wcnct0 />
-      <Wcnct1 />
-      <Wcnct2 />
-      <Wcnct3 />
-      <Wcnct4 />
-      <Wcnct5 />
-      <Wcnct6 />
-      <Wcnct7 />
-      <VoiceLimitType>0</VoiceLimitType>
-      <VoiceLimitPriority>0</VoiceLimitPriority>
-      <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
-      <VoiceLimitPcdlt>0</VoiceLimitPcdlt>
-      <Pan3dVolumeOffset>0</Pan3dVolumeOffset>
-      <Pan3dVolumeGain>1000</Pan3dVolumeGain>
-      <Pan3dAngleOffset>0</Pan3dAngleOffset>
-      <Pan3dAngleGain>1000</Pan3dAngleGain>
-      <Pan3dDistanceOffset>1000</Pan3dDistanceOffset>
-      <Pan3dDistanceGain>1000</Pan3dDistanceGain>
-      <Dry0g>255</Dry0g>
-      <Dry1g>255</Dry1g>
-      <Dry2g>255</Dry2g>
-      <Dry3g>255</Dry3g>
-      <Dry4g>255</Dry4g>
-      <Dry5g>255</Dry5g>
-      <Dry6g>255</Dry6g>
-      <Dry7g>255</Dry7g>
-      <Wet0g>255</Wet0g>
-      <Wet1g>255</Wet1g>
-      <Wet2g>255</Wet2g>
-      <Wet3g>255</Wet3g>
-      <Wet4g>255</Wet4g>
-      <Wet5g>255</Wet5g>
-      <Wet6g>255</Wet6g>
-      <Wet7g>255</Wet7g>
-      <Filter1Type>0</Filter1Type>
-      <Filter1CutoffOffset>0</Filter1CutoffOffset>
-      <Filter1CutoffGain>0</Filter1CutoffGain>
-      <Filter1ResoOffset>0</Filter1ResoOffset>
-      <Filter1ResoGain>0</Filter1ResoGain>
-      <Filter2Type>0</Filter2Type>
-      <Filter2CutoffLowerOffset>0</Filter2CutoffLowerOffset>
-      <Filter2CutoffLowerGain>1000</Filter2CutoffLowerGain>
-      <Filter2CutoffHigherOffset>1000</Filter2CutoffHigherOffset>
-      <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
-      <PlaybackProbability>100</PlaybackProbability>
-      <NLmtChildren>0</NLmtChildren>
-      <Repeat>0</Repeat>
-      <ComboTime>0</ComboTime>
-      <ComboLoopBack>0</ComboLoopBack>
-    </BuilderSynthNode>
-    <BuilderSynthNode>
-      <Name>Synth/0002_voice/999_for_E3/002_system_e/008_SYS02_E07_NA</Name>
-      <Type>WithChildren</Type>
-      <PlaybackType>Polyphonic</PlaybackType>
-      <Children>
-        <string>Synth/0002_voice/999_for_E3/002_system_e/008_SYS02_E07_NA/008_SYS02_E07_NA</string>
-        <string>Synth/0002_voice/999_for_E3/002_system_e/008_SYS02_E07_NA/008_SYS02_E07_NA_1</string>
-      </Children>
-      <Volume>779</Volume>
-      <Pitch>0</Pitch>
-      <DelayTime>0</DelayTime>
-      <SControl>0</SControl>
-      <EgDelay>0</EgDelay>
-      <EgAttack>0</EgAttack>
-      <EgHold>0</EgHold>
-      <EgDecay>0</EgDecay>
-      <EgRelease>0</EgRelease>
-      <EgSustain>1000</EgSustain>
-      <FilterType>0</FilterType>
-      <FilterCutoff1>0</FilterCutoff1>
-      <FilterCutoff2>0</FilterCutoff2>
-      <FilterReso>0</FilterReso>
-      <FilterReleaseOffset>0</FilterReleaseOffset>
-      <DryOName />
-      <Mtxrtr />
-      <Dry0>0</Dry0>
-      <Dry1>0</Dry1>
-      <Dry2>0</Dry2>
-      <Dry3>0</Dry3>
-      <Dry4>0</Dry4>
-      <Dry5>0</Dry5>
-      <Dry6>0</Dry6>
-      <Dry7>0</Dry7>
-      <WetOName />
-      <Wet0>0</Wet0>
-      <Wet1>0</Wet1>
-      <Wet2>0</Wet2>
-      <Wet3>0</Wet3>
-      <Wet4>0</Wet4>
-      <Wet5>0</Wet5>
-      <Wet6>0</Wet6>
-      <Wet7>0</Wet7>
-      <Wcnct0 />
-      <Wcnct1 />
-      <Wcnct2 />
-      <Wcnct3 />
-      <Wcnct4 />
-      <Wcnct5 />
-      <Wcnct6 />
-      <Wcnct7 />
-      <VoiceLimitType>0</VoiceLimitType>
-      <VoiceLimitPriority>0</VoiceLimitPriority>
-      <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
-      <VoiceLimitPcdlt>0</VoiceLimitPcdlt>
-      <Pan3dVolumeOffset>0</Pan3dVolumeOffset>
-      <Pan3dVolumeGain>1000</Pan3dVolumeGain>
-      <Pan3dAngleOffset>0</Pan3dAngleOffset>
-      <Pan3dAngleGain>1000</Pan3dAngleGain>
-      <Pan3dDistanceOffset>0</Pan3dDistanceOffset>
-      <Pan3dDistanceGain>1000</Pan3dDistanceGain>
-      <Dry0g>255</Dry0g>
-      <Dry1g>255</Dry1g>
-      <Dry2g>255</Dry2g>
-      <Dry3g>255</Dry3g>
-      <Dry4g>255</Dry4g>
-      <Dry5g>255</Dry5g>
-      <Dry6g>255</Dry6g>
-      <Dry7g>255</Dry7g>
-      <Wet0g>255</Wet0g>
-      <Wet1g>255</Wet1g>
-      <Wet2g>255</Wet2g>
-      <Wet3g>255</Wet3g>
-      <Wet4g>255</Wet4g>
-      <Wet5g>255</Wet5g>
-      <Wet6g>255</Wet6g>
-      <Wet7g>255</Wet7g>
-      <Filter1Type>0</Filter1Type>
-      <Filter1CutoffOffset>0</Filter1CutoffOffset>
-      <Filter1CutoffGain>0</Filter1CutoffGain>
-      <Filter1ResoOffset>0</Filter1ResoOffset>
-      <Filter1ResoGain>0</Filter1ResoGain>
-      <Filter2Type>0</Filter2Type>
-      <Filter2CutoffLowerOffset>0</Filter2CutoffLowerOffset>
-      <Filter2CutoffLowerGain>1000</Filter2CutoffLowerGain>
-      <Filter2CutoffHigherOffset>0</Filter2CutoffHigherOffset>
-      <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
-      <PlaybackProbability>0</PlaybackProbability>
-      <NLmtChildren>0</NLmtChildren>
-      <Repeat>1</Repeat>
-      <ComboTime>0</ComboTime>
-      <ComboLoopBack>0</ComboLoopBack>
-    </BuilderSynthNode>
-    <BuilderSynthNode>
-      <Name>Synth/0002_voice/999_for_E3/002_system_e/008_SYS02_E07_NA/008_SYS02_E07_NA</Name>
-      <Type>Single</Type>
-      <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference />
-      <Children />
-      <Volume>1000</Volume>
-      <Pitch>10</Pitch>
-      <DelayTime>0</DelayTime>
-      <SControl>0</SControl>
-      <EgDelay>0</EgDelay>
-      <EgAttack>0</EgAttack>
-      <EgHold>0</EgHold>
-      <EgDecay>0</EgDecay>
-      <EgRelease>0</EgRelease>
-      <EgSustain>1000</EgSustain>
-      <FilterType>0</FilterType>
-      <FilterCutoff1>0</FilterCutoff1>
-      <FilterCutoff2>0</FilterCutoff2>
-      <FilterReso>0</FilterReso>
-      <FilterReleaseOffset>0</FilterReleaseOffset>
-      <DryOName />
-      <Mtxrtr />
-      <Dry0>255</Dry0>
-      <Dry1>0</Dry1>
-      <Dry2>0</Dry2>
-      <Dry3>0</Dry3>
-      <Dry4>0</Dry4>
-      <Dry5>0</Dry5>
-      <Dry6>0</Dry6>
-      <Dry7>0</Dry7>
-      <WetOName />
-      <Wet0>0</Wet0>
-      <Wet1>0</Wet1>
-      <Wet2>0</Wet2>
-      <Wet3>0</Wet3>
-      <Wet4>0</Wet4>
-      <Wet5>0</Wet5>
-      <Wet6>0</Wet6>
-      <Wet7>0</Wet7>
-      <Wcnct0 />
-      <Wcnct1 />
-      <Wcnct2 />
-      <Wcnct3 />
-      <Wcnct4 />
-      <Wcnct5 />
-      <Wcnct6 />
-      <Wcnct7 />
-      <VoiceLimitType>0</VoiceLimitType>
-      <VoiceLimitPriority>0</VoiceLimitPriority>
-      <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
-      <VoiceLimitPcdlt>0</VoiceLimitPcdlt>
-      <Pan3dVolumeOffset>0</Pan3dVolumeOffset>
-      <Pan3dVolumeGain>1000</Pan3dVolumeGain>
-      <Pan3dAngleOffset>0</Pan3dAngleOffset>
-      <Pan3dAngleGain>1000</Pan3dAngleGain>
-      <Pan3dDistanceOffset>1000</Pan3dDistanceOffset>
-      <Pan3dDistanceGain>1000</Pan3dDistanceGain>
-      <Dry0g>255</Dry0g>
-      <Dry1g>255</Dry1g>
-      <Dry2g>255</Dry2g>
-      <Dry3g>255</Dry3g>
-      <Dry4g>255</Dry4g>
-      <Dry5g>255</Dry5g>
-      <Dry6g>255</Dry6g>
-      <Dry7g>255</Dry7g>
-      <Wet0g>255</Wet0g>
-      <Wet1g>255</Wet1g>
-      <Wet2g>255</Wet2g>
-      <Wet3g>255</Wet3g>
-      <Wet4g>255</Wet4g>
-      <Wet5g>255</Wet5g>
-      <Wet6g>255</Wet6g>
-      <Wet7g>255</Wet7g>
-      <Filter1Type>0</Filter1Type>
-      <Filter1CutoffOffset>0</Filter1CutoffOffset>
-      <Filter1CutoffGain>0</Filter1CutoffGain>
-      <Filter1ResoOffset>0</Filter1ResoOffset>
-      <Filter1ResoGain>0</Filter1ResoGain>
-      <Filter2Type>0</Filter2Type>
-      <Filter2CutoffLowerOffset>0</Filter2CutoffLowerOffset>
-      <Filter2CutoffLowerGain>1000</Filter2CutoffLowerGain>
-      <Filter2CutoffHigherOffset>1000</Filter2CutoffHigherOffset>
-      <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
-      <PlaybackProbability>100</PlaybackProbability>
-      <NLmtChildren>0</NLmtChildren>
-      <Repeat>0</Repeat>
-      <ComboTime>0</ComboTime>
-      <ComboLoopBack>0</ComboLoopBack>
-    </BuilderSynthNode>
-    <BuilderSynthNode>
-      <Name>Synth/0002_voice/999_for_E3/002_system_e/008_SYS02_E07_NA/008_SYS02_E07_NA_1</Name>
-      <Type>Single</Type>
-      <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference />
-      <Children />
-      <Volume>1000</Volume>
-      <Pitch>-10</Pitch>
-      <DelayTime>0</DelayTime>
-      <SControl>0</SControl>
-      <EgDelay>0</EgDelay>
-      <EgAttack>0</EgAttack>
-      <EgHold>0</EgHold>
-      <EgDecay>0</EgDecay>
-      <EgRelease>0</EgRelease>
-      <EgSustain>1000</EgSustain>
-      <FilterType>0</FilterType>
-      <FilterCutoff1>0</FilterCutoff1>
-      <FilterCutoff2>0</FilterCutoff2>
-      <FilterReso>0</FilterReso>
-      <FilterReleaseOffset>0</FilterReleaseOffset>
-      <DryOName />
-      <Mtxrtr />
-      <Dry0>0</Dry0>
-      <Dry1>255</Dry1>
-      <Dry2>0</Dry2>
-      <Dry3>0</Dry3>
-      <Dry4>0</Dry4>
-      <Dry5>0</Dry5>
-      <Dry6>0</Dry6>
-      <Dry7>0</Dry7>
-      <WetOName />
-      <Wet0>0</Wet0>
-      <Wet1>0</Wet1>
-      <Wet2>0</Wet2>
-      <Wet3>0</Wet3>
-      <Wet4>0</Wet4>
-      <Wet5>0</Wet5>
-      <Wet6>0</Wet6>
-      <Wet7>0</Wet7>
-      <Wcnct0 />
-      <Wcnct1 />
-      <Wcnct2 />
-      <Wcnct3 />
-      <Wcnct4 />
-      <Wcnct5 />
-      <Wcnct6 />
-      <Wcnct7 />
-      <VoiceLimitType>0</VoiceLimitType>
-      <VoiceLimitPriority>0</VoiceLimitPriority>
-      <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
-      <VoiceLimitPcdlt>0</VoiceLimitPcdlt>
-      <Pan3dVolumeOffset>0</Pan3dVolumeOffset>
-      <Pan3dVolumeGain>1000</Pan3dVolumeGain>
-      <Pan3dAngleOffset>0</Pan3dAngleOffset>
-      <Pan3dAngleGain>1000</Pan3dAngleGain>
-      <Pan3dDistanceOffset>1000</Pan3dDistanceOffset>
-      <Pan3dDistanceGain>1000</Pan3dDistanceGain>
-      <Dry0g>255</Dry0g>
-      <Dry1g>255</Dry1g>
-      <Dry2g>255</Dry2g>
-      <Dry3g>255</Dry3g>
-      <Dry4g>255</Dry4g>
-      <Dry5g>255</Dry5g>
-      <Dry6g>255</Dry6g>
-      <Dry7g>255</Dry7g>
-      <Wet0g>255</Wet0g>
-      <Wet1g>255</Wet1g>
-      <Wet2g>255</Wet2g>
-      <Wet3g>255</Wet3g>
-      <Wet4g>255</Wet4g>
-      <Wet5g>255</Wet5g>
-      <Wet6g>255</Wet6g>
-      <Wet7g>255</Wet7g>
-      <Filter1Type>0</Filter1Type>
-      <Filter1CutoffOffset>0</Filter1CutoffOffset>
-      <Filter1CutoffGain>0</Filter1CutoffGain>
-      <Filter1ResoOffset>0</Filter1ResoOffset>
-      <Filter1ResoGain>0</Filter1ResoGain>
-      <Filter2Type>0</Filter2Type>
-      <Filter2CutoffLowerOffset>0</Filter2CutoffLowerOffset>
-      <Filter2CutoffLowerGain>1000</Filter2CutoffLowerGain>
-      <Filter2CutoffHigherOffset>1000</Filter2CutoffHigherOffset>
-      <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
-      <PlaybackProbability>100</PlaybackProbability>
-      <NLmtChildren>0</NLmtChildren>
-      <Repeat>0</Repeat>
-      <ComboTime>0</ComboTime>
-      <ComboLoopBack>0</ComboLoopBack>
-    </BuilderSynthNode>
-    <BuilderSynthNode>
-      <Name>Synth/0002_voice/999_for_E3/002_system_e/009_SYS02_E08_NA</Name>
-      <Type>WithChildren</Type>
-      <PlaybackType>Polyphonic</PlaybackType>
-      <Children>
-        <string>Synth/0002_voice/999_for_E3/002_system_e/009_SYS02_E08_NA/009_SYS02_E08_NA</string>
-        <string>Synth/0002_voice/999_for_E3/002_system_e/009_SYS02_E08_NA/009_SYS02_E08_NA_1</string>
-      </Children>
-      <Volume>779</Volume>
-      <Pitch>0</Pitch>
-      <DelayTime>0</DelayTime>
-      <SControl>0</SControl>
-      <EgDelay>0</EgDelay>
-      <EgAttack>0</EgAttack>
-      <EgHold>0</EgHold>
-      <EgDecay>0</EgDecay>
-      <EgRelease>0</EgRelease>
-      <EgSustain>1000</EgSustain>
-      <FilterType>0</FilterType>
-      <FilterCutoff1>0</FilterCutoff1>
-      <FilterCutoff2>0</FilterCutoff2>
-      <FilterReso>0</FilterReso>
-      <FilterReleaseOffset>0</FilterReleaseOffset>
-      <DryOName />
-      <Mtxrtr />
-      <Dry0>0</Dry0>
-      <Dry1>0</Dry1>
-      <Dry2>0</Dry2>
-      <Dry3>0</Dry3>
-      <Dry4>0</Dry4>
-      <Dry5>0</Dry5>
-      <Dry6>0</Dry6>
-      <Dry7>0</Dry7>
-      <WetOName />
-      <Wet0>0</Wet0>
-      <Wet1>0</Wet1>
-      <Wet2>0</Wet2>
-      <Wet3>0</Wet3>
-      <Wet4>0</Wet4>
-      <Wet5>0</Wet5>
-      <Wet6>0</Wet6>
-      <Wet7>0</Wet7>
-      <Wcnct0 />
-      <Wcnct1 />
-      <Wcnct2 />
-      <Wcnct3 />
-      <Wcnct4 />
-      <Wcnct5 />
-      <Wcnct6 />
-      <Wcnct7 />
-      <VoiceLimitType>0</VoiceLimitType>
-      <VoiceLimitPriority>0</VoiceLimitPriority>
-      <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
-      <VoiceLimitPcdlt>0</VoiceLimitPcdlt>
-      <Pan3dVolumeOffset>0</Pan3dVolumeOffset>
-      <Pan3dVolumeGain>1000</Pan3dVolumeGain>
-      <Pan3dAngleOffset>0</Pan3dAngleOffset>
-      <Pan3dAngleGain>1000</Pan3dAngleGain>
-      <Pan3dDistanceOffset>0</Pan3dDistanceOffset>
-      <Pan3dDistanceGain>1000</Pan3dDistanceGain>
-      <Dry0g>255</Dry0g>
-      <Dry1g>255</Dry1g>
-      <Dry2g>255</Dry2g>
-      <Dry3g>255</Dry3g>
-      <Dry4g>255</Dry4g>
-      <Dry5g>255</Dry5g>
-      <Dry6g>255</Dry6g>
-      <Dry7g>255</Dry7g>
-      <Wet0g>255</Wet0g>
-      <Wet1g>255</Wet1g>
-      <Wet2g>255</Wet2g>
-      <Wet3g>255</Wet3g>
-      <Wet4g>255</Wet4g>
-      <Wet5g>255</Wet5g>
-      <Wet6g>255</Wet6g>
-      <Wet7g>255</Wet7g>
-      <Filter1Type>0</Filter1Type>
-      <Filter1CutoffOffset>0</Filter1CutoffOffset>
-      <Filter1CutoffGain>0</Filter1CutoffGain>
-      <Filter1ResoOffset>0</Filter1ResoOffset>
-      <Filter1ResoGain>0</Filter1ResoGain>
-      <Filter2Type>0</Filter2Type>
-      <Filter2CutoffLowerOffset>0</Filter2CutoffLowerOffset>
-      <Filter2CutoffLowerGain>1000</Filter2CutoffLowerGain>
-      <Filter2CutoffHigherOffset>0</Filter2CutoffHigherOffset>
-      <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
-      <PlaybackProbability>0</PlaybackProbability>
-      <NLmtChildren>0</NLmtChildren>
-      <Repeat>1</Repeat>
-      <ComboTime>0</ComboTime>
-      <ComboLoopBack>0</ComboLoopBack>
-    </BuilderSynthNode>
-    <BuilderSynthNode>
-      <Name>Synth/0002_voice/999_for_E3/002_system_e/009_SYS02_E08_NA/009_SYS02_E08_NA</Name>
-      <Type>Single</Type>
-      <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference />
-      <Children />
-      <Volume>1000</Volume>
-      <Pitch>10</Pitch>
-      <DelayTime>0</DelayTime>
-      <SControl>0</SControl>
-      <EgDelay>0</EgDelay>
-      <EgAttack>0</EgAttack>
-      <EgHold>0</EgHold>
-      <EgDecay>0</EgDecay>
-      <EgRelease>0</EgRelease>
-      <EgSustain>1000</EgSustain>
-      <FilterType>0</FilterType>
-      <FilterCutoff1>0</FilterCutoff1>
-      <FilterCutoff2>0</FilterCutoff2>
-      <FilterReso>0</FilterReso>
-      <FilterReleaseOffset>0</FilterReleaseOffset>
-      <DryOName />
-      <Mtxrtr />
-      <Dry0>255</Dry0>
-      <Dry1>0</Dry1>
-      <Dry2>0</Dry2>
-      <Dry3>0</Dry3>
-      <Dry4>0</Dry4>
-      <Dry5>0</Dry5>
-      <Dry6>0</Dry6>
-      <Dry7>0</Dry7>
-      <WetOName />
-      <Wet0>0</Wet0>
-      <Wet1>0</Wet1>
-      <Wet2>0</Wet2>
-      <Wet3>0</Wet3>
-      <Wet4>0</Wet4>
-      <Wet5>0</Wet5>
-      <Wet6>0</Wet6>
-      <Wet7>0</Wet7>
-      <Wcnct0 />
-      <Wcnct1 />
-      <Wcnct2 />
-      <Wcnct3 />
-      <Wcnct4 />
-      <Wcnct5 />
-      <Wcnct6 />
-      <Wcnct7 />
-      <VoiceLimitType>0</VoiceLimitType>
-      <VoiceLimitPriority>0</VoiceLimitPriority>
-      <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
-      <VoiceLimitPcdlt>0</VoiceLimitPcdlt>
-      <Pan3dVolumeOffset>0</Pan3dVolumeOffset>
-      <Pan3dVolumeGain>1000</Pan3dVolumeGain>
-      <Pan3dAngleOffset>0</Pan3dAngleOffset>
-      <Pan3dAngleGain>1000</Pan3dAngleGain>
-      <Pan3dDistanceOffset>1000</Pan3dDistanceOffset>
-      <Pan3dDistanceGain>1000</Pan3dDistanceGain>
-      <Dry0g>255</Dry0g>
-      <Dry1g>255</Dry1g>
-      <Dry2g>255</Dry2g>
-      <Dry3g>255</Dry3g>
-      <Dry4g>255</Dry4g>
-      <Dry5g>255</Dry5g>
-      <Dry6g>255</Dry6g>
-      <Dry7g>255</Dry7g>
-      <Wet0g>255</Wet0g>
-      <Wet1g>255</Wet1g>
-      <Wet2g>255</Wet2g>
-      <Wet3g>255</Wet3g>
-      <Wet4g>255</Wet4g>
-      <Wet5g>255</Wet5g>
-      <Wet6g>255</Wet6g>
-      <Wet7g>255</Wet7g>
-      <Filter1Type>0</Filter1Type>
-      <Filter1CutoffOffset>0</Filter1CutoffOffset>
-      <Filter1CutoffGain>0</Filter1CutoffGain>
-      <Filter1ResoOffset>0</Filter1ResoOffset>
-      <Filter1ResoGain>0</Filter1ResoGain>
-      <Filter2Type>0</Filter2Type>
-      <Filter2CutoffLowerOffset>0</Filter2CutoffLowerOffset>
-      <Filter2CutoffLowerGain>1000</Filter2CutoffLowerGain>
-      <Filter2CutoffHigherOffset>1000</Filter2CutoffHigherOffset>
-      <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
-      <PlaybackProbability>100</PlaybackProbability>
-      <NLmtChildren>0</NLmtChildren>
-      <Repeat>0</Repeat>
-      <ComboTime>0</ComboTime>
-      <ComboLoopBack>0</ComboLoopBack>
-    </BuilderSynthNode>
-    <BuilderSynthNode>
-      <Name>Synth/0002_voice/999_for_E3/002_system_e/009_SYS02_E08_NA/009_SYS02_E08_NA_1</Name>
-      <Type>Single</Type>
-      <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference />
-      <Children />
-      <Volume>1000</Volume>
-      <Pitch>-10</Pitch>
-      <DelayTime>0</DelayTime>
-      <SControl>0</SControl>
-      <EgDelay>0</EgDelay>
-      <EgAttack>0</EgAttack>
-      <EgHold>0</EgHold>
-      <EgDecay>0</EgDecay>
-      <EgRelease>0</EgRelease>
-      <EgSustain>1000</EgSustain>
-      <FilterType>0</FilterType>
-      <FilterCutoff1>0</FilterCutoff1>
-      <FilterCutoff2>0</FilterCutoff2>
-      <FilterReso>0</FilterReso>
-      <FilterReleaseOffset>0</FilterReleaseOffset>
-      <DryOName />
-      <Mtxrtr />
-      <Dry0>0</Dry0>
-      <Dry1>255</Dry1>
-      <Dry2>0</Dry2>
-      <Dry3>0</Dry3>
-      <Dry4>0</Dry4>
-      <Dry5>0</Dry5>
-      <Dry6>0</Dry6>
-      <Dry7>0</Dry7>
-      <WetOName />
-      <Wet0>0</Wet0>
-      <Wet1>0</Wet1>
-      <Wet2>0</Wet2>
-      <Wet3>0</Wet3>
-      <Wet4>0</Wet4>
-      <Wet5>0</Wet5>
-      <Wet6>0</Wet6>
-      <Wet7>0</Wet7>
-      <Wcnct0 />
-      <Wcnct1 />
-      <Wcnct2 />
-      <Wcnct3 />
-      <Wcnct4 />
-      <Wcnct5 />
-      <Wcnct6 />
-      <Wcnct7 />
-      <VoiceLimitType>0</VoiceLimitType>
-      <VoiceLimitPriority>0</VoiceLimitPriority>
-      <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
-      <VoiceLimitPcdlt>0</VoiceLimitPcdlt>
-      <Pan3dVolumeOffset>0</Pan3dVolumeOffset>
-      <Pan3dVolumeGain>1000</Pan3dVolumeGain>
-      <Pan3dAngleOffset>0</Pan3dAngleOffset>
-      <Pan3dAngleGain>1000</Pan3dAngleGain>
-      <Pan3dDistanceOffset>1000</Pan3dDistanceOffset>
-      <Pan3dDistanceGain>1000</Pan3dDistanceGain>
-      <Dry0g>255</Dry0g>
-      <Dry1g>255</Dry1g>
-      <Dry2g>255</Dry2g>
-      <Dry3g>255</Dry3g>
-      <Dry4g>255</Dry4g>
-      <Dry5g>255</Dry5g>
-      <Dry6g>255</Dry6g>
-      <Dry7g>255</Dry7g>
-      <Wet0g>255</Wet0g>
-      <Wet1g>255</Wet1g>
-      <Wet2g>255</Wet2g>
-      <Wet3g>255</Wet3g>
-      <Wet4g>255</Wet4g>
-      <Wet5g>255</Wet5g>
-      <Wet6g>255</Wet6g>
-      <Wet7g>255</Wet7g>
-      <Filter1Type>0</Filter1Type>
-      <Filter1CutoffOffset>0</Filter1CutoffOffset>
-      <Filter1CutoffGain>0</Filter1CutoffGain>
-      <Filter1ResoOffset>0</Filter1ResoOffset>
-      <Filter1ResoGain>0</Filter1ResoGain>
-      <Filter2Type>0</Filter2Type>
-      <Filter2CutoffLowerOffset>0</Filter2CutoffLowerOffset>
-      <Filter2CutoffLowerGain>1000</Filter2CutoffLowerGain>
-      <Filter2CutoffHigherOffset>1000</Filter2CutoffHigherOffset>
-      <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
-      <PlaybackProbability>100</PlaybackProbability>
-      <NLmtChildren>0</NLmtChildren>
-      <Repeat>0</Repeat>
-      <ComboTime>0</ComboTime>
-      <ComboLoopBack>0</ComboLoopBack>
-    </BuilderSynthNode>
-    <BuilderSynthNode>
-      <Name>Synth/0002_voice/999_for_E3/002_system_e/010_SYS03_E01_NA</Name>
-      <Type>WithChildren</Type>
-      <PlaybackType>Polyphonic</PlaybackType>
-      <Children>
-        <string>Synth/0002_voice/999_for_E3/002_system_e/010_SYS03_E01_NA/010_SYS03_E01_NA</string>
-        <string>Synth/0002_voice/999_for_E3/002_system_e/010_SYS03_E01_NA/010_SYS03_E01_NA_1</string>
-      </Children>
-      <Volume>850</Volume>
-      <Pitch>0</Pitch>
-      <DelayTime>0</DelayTime>
-      <SControl>0</SControl>
-      <EgDelay>0</EgDelay>
-      <EgAttack>0</EgAttack>
-      <EgHold>0</EgHold>
-      <EgDecay>0</EgDecay>
-      <EgRelease>0</EgRelease>
-      <EgSustain>1000</EgSustain>
-      <FilterType>0</FilterType>
-      <FilterCutoff1>0</FilterCutoff1>
-      <FilterCutoff2>0</FilterCutoff2>
-      <FilterReso>0</FilterReso>
-      <FilterReleaseOffset>0</FilterReleaseOffset>
-      <DryOName />
-      <Mtxrtr />
-      <Dry0>0</Dry0>
-      <Dry1>0</Dry1>
-      <Dry2>0</Dry2>
-      <Dry3>0</Dry3>
-      <Dry4>0</Dry4>
-      <Dry5>0</Dry5>
-      <Dry6>0</Dry6>
-      <Dry7>0</Dry7>
-      <WetOName />
-      <Wet0>0</Wet0>
-      <Wet1>0</Wet1>
-      <Wet2>0</Wet2>
-      <Wet3>0</Wet3>
-      <Wet4>0</Wet4>
-      <Wet5>0</Wet5>
-      <Wet6>0</Wet6>
-      <Wet7>0</Wet7>
-      <Wcnct0 />
-      <Wcnct1 />
-      <Wcnct2 />
-      <Wcnct3 />
-      <Wcnct4 />
-      <Wcnct5 />
-      <Wcnct6 />
-      <Wcnct7 />
-      <VoiceLimitType>0</VoiceLimitType>
-      <VoiceLimitPriority>0</VoiceLimitPriority>
-      <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
-      <VoiceLimitPcdlt>0</VoiceLimitPcdlt>
-      <Pan3dVolumeOffset>0</Pan3dVolumeOffset>
-      <Pan3dVolumeGain>1000</Pan3dVolumeGain>
-      <Pan3dAngleOffset>0</Pan3dAngleOffset>
-      <Pan3dAngleGain>1000</Pan3dAngleGain>
-      <Pan3dDistanceOffset>0</Pan3dDistanceOffset>
-      <Pan3dDistanceGain>1000</Pan3dDistanceGain>
-      <Dry0g>255</Dry0g>
-      <Dry1g>255</Dry1g>
-      <Dry2g>255</Dry2g>
-      <Dry3g>255</Dry3g>
-      <Dry4g>255</Dry4g>
-      <Dry5g>255</Dry5g>
-      <Dry6g>255</Dry6g>
-      <Dry7g>255</Dry7g>
-      <Wet0g>255</Wet0g>
-      <Wet1g>255</Wet1g>
-      <Wet2g>255</Wet2g>
-      <Wet3g>255</Wet3g>
-      <Wet4g>255</Wet4g>
-      <Wet5g>255</Wet5g>
-      <Wet6g>255</Wet6g>
-      <Wet7g>255</Wet7g>
-      <Filter1Type>0</Filter1Type>
-      <Filter1CutoffOffset>0</Filter1CutoffOffset>
-      <Filter1CutoffGain>0</Filter1CutoffGain>
-      <Filter1ResoOffset>0</Filter1ResoOffset>
-      <Filter1ResoGain>0</Filter1ResoGain>
-      <Filter2Type>0</Filter2Type>
-      <Filter2CutoffLowerOffset>0</Filter2CutoffLowerOffset>
-      <Filter2CutoffLowerGain>1000</Filter2CutoffLowerGain>
-      <Filter2CutoffHigherOffset>0</Filter2CutoffHigherOffset>
-      <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
-      <PlaybackProbability>0</PlaybackProbability>
-      <NLmtChildren>0</NLmtChildren>
-      <Repeat>1</Repeat>
-      <ComboTime>0</ComboTime>
-      <ComboLoopBack>0</ComboLoopBack>
-    </BuilderSynthNode>
-    <BuilderSynthNode>
-      <Name>Synth/0002_voice/999_for_E3/002_system_e/010_SYS03_E01_NA/010_SYS03_E01_NA</Name>
-      <Type>Single</Type>
-      <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference />
-      <Children />
-      <Volume>1000</Volume>
-      <Pitch>10</Pitch>
-      <DelayTime>0</DelayTime>
-      <SControl>0</SControl>
-      <EgDelay>0</EgDelay>
-      <EgAttack>0</EgAttack>
-      <EgHold>0</EgHold>
-      <EgDecay>0</EgDecay>
-      <EgRelease>0</EgRelease>
-      <EgSustain>1000</EgSustain>
-      <FilterType>0</FilterType>
-      <FilterCutoff1>0</FilterCutoff1>
-      <FilterCutoff2>0</FilterCutoff2>
-      <FilterReso>0</FilterReso>
-      <FilterReleaseOffset>0</FilterReleaseOffset>
-      <DryOName />
-      <Mtxrtr />
-      <Dry0>255</Dry0>
-      <Dry1>0</Dry1>
-      <Dry2>0</Dry2>
-      <Dry3>0</Dry3>
-      <Dry4>0</Dry4>
-      <Dry5>0</Dry5>
-      <Dry6>0</Dry6>
-      <Dry7>0</Dry7>
-      <WetOName />
-      <Wet0>0</Wet0>
-      <Wet1>0</Wet1>
-      <Wet2>0</Wet2>
-      <Wet3>0</Wet3>
-      <Wet4>0</Wet4>
-      <Wet5>0</Wet5>
-      <Wet6>0</Wet6>
-      <Wet7>0</Wet7>
-      <Wcnct0 />
-      <Wcnct1 />
-      <Wcnct2 />
-      <Wcnct3 />
-      <Wcnct4 />
-      <Wcnct5 />
-      <Wcnct6 />
-      <Wcnct7 />
-      <VoiceLimitType>0</VoiceLimitType>
-      <VoiceLimitPriority>0</VoiceLimitPriority>
-      <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
-      <VoiceLimitPcdlt>0</VoiceLimitPcdlt>
-      <Pan3dVolumeOffset>0</Pan3dVolumeOffset>
-      <Pan3dVolumeGain>1000</Pan3dVolumeGain>
-      <Pan3dAngleOffset>0</Pan3dAngleOffset>
-      <Pan3dAngleGain>1000</Pan3dAngleGain>
-      <Pan3dDistanceOffset>1000</Pan3dDistanceOffset>
-      <Pan3dDistanceGain>1000</Pan3dDistanceGain>
-      <Dry0g>255</Dry0g>
-      <Dry1g>255</Dry1g>
-      <Dry2g>255</Dry2g>
-      <Dry3g>255</Dry3g>
-      <Dry4g>255</Dry4g>
-      <Dry5g>255</Dry5g>
-      <Dry6g>255</Dry6g>
-      <Dry7g>255</Dry7g>
-      <Wet0g>255</Wet0g>
-      <Wet1g>255</Wet1g>
-      <Wet2g>255</Wet2g>
-      <Wet3g>255</Wet3g>
-      <Wet4g>255</Wet4g>
-      <Wet5g>255</Wet5g>
-      <Wet6g>255</Wet6g>
-      <Wet7g>255</Wet7g>
-      <Filter1Type>0</Filter1Type>
-      <Filter1CutoffOffset>0</Filter1CutoffOffset>
-      <Filter1CutoffGain>0</Filter1CutoffGain>
-      <Filter1ResoOffset>0</Filter1ResoOffset>
-      <Filter1ResoGain>0</Filter1ResoGain>
-      <Filter2Type>0</Filter2Type>
-      <Filter2CutoffLowerOffset>0</Filter2CutoffLowerOffset>
-      <Filter2CutoffLowerGain>1000</Filter2CutoffLowerGain>
-      <Filter2CutoffHigherOffset>1000</Filter2CutoffHigherOffset>
-      <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
-      <PlaybackProbability>100</PlaybackProbability>
-      <NLmtChildren>0</NLmtChildren>
-      <Repeat>0</Repeat>
-      <ComboTime>0</ComboTime>
-      <ComboLoopBack>0</ComboLoopBack>
-    </BuilderSynthNode>
-    <BuilderSynthNode>
-      <Name>Synth/0002_voice/999_for_E3/002_system_e/010_SYS03_E01_NA/010_SYS03_E01_NA_1</Name>
-      <Type>Single</Type>
-      <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference />
-      <Children />
-      <Volume>1000</Volume>
-      <Pitch>-10</Pitch>
-      <DelayTime>0</DelayTime>
-      <SControl>0</SControl>
-      <EgDelay>0</EgDelay>
-      <EgAttack>0</EgAttack>
-      <EgHold>0</EgHold>
-      <EgDecay>0</EgDecay>
-      <EgRelease>0</EgRelease>
-      <EgSustain>1000</EgSustain>
-      <FilterType>0</FilterType>
-      <FilterCutoff1>0</FilterCutoff1>
-      <FilterCutoff2>0</FilterCutoff2>
-      <FilterReso>0</FilterReso>
-      <FilterReleaseOffset>0</FilterReleaseOffset>
-      <DryOName />
-      <Mtxrtr />
-      <Dry0>0</Dry0>
-      <Dry1>255</Dry1>
-      <Dry2>0</Dry2>
-      <Dry3>0</Dry3>
-      <Dry4>0</Dry4>
-      <Dry5>0</Dry5>
-      <Dry6>0</Dry6>
-      <Dry7>0</Dry7>
-      <WetOName />
-      <Wet0>0</Wet0>
-      <Wet1>0</Wet1>
-      <Wet2>0</Wet2>
-      <Wet3>0</Wet3>
-      <Wet4>0</Wet4>
-      <Wet5>0</Wet5>
-      <Wet6>0</Wet6>
-      <Wet7>0</Wet7>
-      <Wcnct0 />
-      <Wcnct1 />
-      <Wcnct2 />
-      <Wcnct3 />
-      <Wcnct4 />
-      <Wcnct5 />
-      <Wcnct6 />
-      <Wcnct7 />
-      <VoiceLimitType>0</VoiceLimitType>
-      <VoiceLimitPriority>0</VoiceLimitPriority>
-      <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
-      <VoiceLimitPcdlt>0</VoiceLimitPcdlt>
-      <Pan3dVolumeOffset>0</Pan3dVolumeOffset>
-      <Pan3dVolumeGain>1000</Pan3dVolumeGain>
-      <Pan3dAngleOffset>0</Pan3dAngleOffset>
-      <Pan3dAngleGain>1000</Pan3dAngleGain>
-      <Pan3dDistanceOffset>1000</Pan3dDistanceOffset>
-      <Pan3dDistanceGain>1000</Pan3dDistanceGain>
-      <Dry0g>255</Dry0g>
-      <Dry1g>255</Dry1g>
-      <Dry2g>255</Dry2g>
-      <Dry3g>255</Dry3g>
-      <Dry4g>255</Dry4g>
-      <Dry5g>255</Dry5g>
-      <Dry6g>255</Dry6g>
-      <Dry7g>255</Dry7g>
-      <Wet0g>255</Wet0g>
-      <Wet1g>255</Wet1g>
-      <Wet2g>255</Wet2g>
-      <Wet3g>255</Wet3g>
-      <Wet4g>255</Wet4g>
-      <Wet5g>255</Wet5g>
-      <Wet6g>255</Wet6g>
-      <Wet7g>255</Wet7g>
-      <Filter1Type>0</Filter1Type>
-      <Filter1CutoffOffset>0</Filter1CutoffOffset>
-      <Filter1CutoffGain>0</Filter1CutoffGain>
-      <Filter1ResoOffset>0</Filter1ResoOffset>
-      <Filter1ResoGain>0</Filter1ResoGain>
-      <Filter2Type>0</Filter2Type>
-      <Filter2CutoffLowerOffset>0</Filter2CutoffLowerOffset>
-      <Filter2CutoffLowerGain>1000</Filter2CutoffLowerGain>
-      <Filter2CutoffHigherOffset>1000</Filter2CutoffHigherOffset>
-      <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
-      <PlaybackProbability>100</PlaybackProbability>
-      <NLmtChildren>0</NLmtChildren>
-      <Repeat>0</Repeat>
-      <ComboTime>0</ComboTime>
-      <ComboLoopBack>0</ComboLoopBack>
-    </BuilderSynthNode>
-    <BuilderSynthNode>
-      <Name>Synth/0002_voice/999_for_E3/002_system_e/011_SYS03_E02_NA</Name>
-      <Type>WithChildren</Type>
-      <PlaybackType>Polyphonic</PlaybackType>
-      <Children>
-        <string>Synth/0002_voice/999_for_E3/002_system_e/011_SYS03_E02_NA/011_SYS03_E02_NA</string>
-        <string>Synth/0002_voice/999_for_E3/002_system_e/011_SYS03_E02_NA/011_SYS03_E02_NA_1</string>
-      </Children>
-      <Volume>850</Volume>
-      <Pitch>0</Pitch>
-      <DelayTime>0</DelayTime>
-      <SControl>0</SControl>
-      <EgDelay>0</EgDelay>
-      <EgAttack>0</EgAttack>
-      <EgHold>0</EgHold>
-      <EgDecay>0</EgDecay>
-      <EgRelease>0</EgRelease>
-      <EgSustain>1000</EgSustain>
-      <FilterType>0</FilterType>
-      <FilterCutoff1>0</FilterCutoff1>
-      <FilterCutoff2>0</FilterCutoff2>
-      <FilterReso>0</FilterReso>
-      <FilterReleaseOffset>0</FilterReleaseOffset>
-      <DryOName />
-      <Mtxrtr />
-      <Dry0>0</Dry0>
-      <Dry1>0</Dry1>
-      <Dry2>0</Dry2>
-      <Dry3>0</Dry3>
-      <Dry4>0</Dry4>
-      <Dry5>0</Dry5>
-      <Dry6>0</Dry6>
-      <Dry7>0</Dry7>
-      <WetOName />
-      <Wet0>0</Wet0>
-      <Wet1>0</Wet1>
-      <Wet2>0</Wet2>
-      <Wet3>0</Wet3>
-      <Wet4>0</Wet4>
-      <Wet5>0</Wet5>
-      <Wet6>0</Wet6>
-      <Wet7>0</Wet7>
-      <Wcnct0 />
-      <Wcnct1 />
-      <Wcnct2 />
-      <Wcnct3 />
-      <Wcnct4 />
-      <Wcnct5 />
-      <Wcnct6 />
-      <Wcnct7 />
-      <VoiceLimitType>0</VoiceLimitType>
-      <VoiceLimitPriority>0</VoiceLimitPriority>
-      <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
-      <VoiceLimitPcdlt>0</VoiceLimitPcdlt>
-      <Pan3dVolumeOffset>0</Pan3dVolumeOffset>
-      <Pan3dVolumeGain>1000</Pan3dVolumeGain>
-      <Pan3dAngleOffset>0</Pan3dAngleOffset>
-      <Pan3dAngleGain>1000</Pan3dAngleGain>
-      <Pan3dDistanceOffset>0</Pan3dDistanceOffset>
-      <Pan3dDistanceGain>1000</Pan3dDistanceGain>
-      <Dry0g>255</Dry0g>
-      <Dry1g>255</Dry1g>
-      <Dry2g>255</Dry2g>
-      <Dry3g>255</Dry3g>
-      <Dry4g>255</Dry4g>
-      <Dry5g>255</Dry5g>
-      <Dry6g>255</Dry6g>
-      <Dry7g>255</Dry7g>
-      <Wet0g>255</Wet0g>
-      <Wet1g>255</Wet1g>
-      <Wet2g>255</Wet2g>
-      <Wet3g>255</Wet3g>
-      <Wet4g>255</Wet4g>
-      <Wet5g>255</Wet5g>
-      <Wet6g>255</Wet6g>
-      <Wet7g>255</Wet7g>
-      <Filter1Type>0</Filter1Type>
-      <Filter1CutoffOffset>0</Filter1CutoffOffset>
-      <Filter1CutoffGain>0</Filter1CutoffGain>
-      <Filter1ResoOffset>0</Filter1ResoOffset>
-      <Filter1ResoGain>0</Filter1ResoGain>
-      <Filter2Type>0</Filter2Type>
-      <Filter2CutoffLowerOffset>0</Filter2CutoffLowerOffset>
-      <Filter2CutoffLowerGain>1000</Filter2CutoffLowerGain>
-      <Filter2CutoffHigherOffset>0</Filter2CutoffHigherOffset>
-      <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
-      <PlaybackProbability>0</PlaybackProbability>
-      <NLmtChildren>0</NLmtChildren>
-      <Repeat>1</Repeat>
-      <ComboTime>0</ComboTime>
-      <ComboLoopBack>0</ComboLoopBack>
-    </BuilderSynthNode>
-    <BuilderSynthNode>
-      <Name>Synth/0002_voice/999_for_E3/002_system_e/011_SYS03_E02_NA/011_SYS03_E02_NA</Name>
-      <Type>Single</Type>
-      <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference />
-      <Children />
-      <Volume>1000</Volume>
-      <Pitch>10</Pitch>
-      <DelayTime>0</DelayTime>
-      <SControl>0</SControl>
-      <EgDelay>0</EgDelay>
-      <EgAttack>0</EgAttack>
-      <EgHold>0</EgHold>
-      <EgDecay>0</EgDecay>
-      <EgRelease>0</EgRelease>
-      <EgSustain>1000</EgSustain>
-      <FilterType>0</FilterType>
-      <FilterCutoff1>0</FilterCutoff1>
-      <FilterCutoff2>0</FilterCutoff2>
-      <FilterReso>0</FilterReso>
-      <FilterReleaseOffset>0</FilterReleaseOffset>
-      <DryOName />
-      <Mtxrtr />
-      <Dry0>255</Dry0>
-      <Dry1>0</Dry1>
-      <Dry2>0</Dry2>
-      <Dry3>0</Dry3>
-      <Dry4>0</Dry4>
-      <Dry5>0</Dry5>
-      <Dry6>0</Dry6>
-      <Dry7>0</Dry7>
-      <WetOName />
-      <Wet0>0</Wet0>
-      <Wet1>0</Wet1>
-      <Wet2>0</Wet2>
-      <Wet3>0</Wet3>
-      <Wet4>0</Wet4>
-      <Wet5>0</Wet5>
-      <Wet6>0</Wet6>
-      <Wet7>0</Wet7>
-      <Wcnct0 />
-      <Wcnct1 />
-      <Wcnct2 />
-      <Wcnct3 />
-      <Wcnct4 />
-      <Wcnct5 />
-      <Wcnct6 />
-      <Wcnct7 />
-      <VoiceLimitType>0</VoiceLimitType>
-      <VoiceLimitPriority>0</VoiceLimitPriority>
-      <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
-      <VoiceLimitPcdlt>0</VoiceLimitPcdlt>
-      <Pan3dVolumeOffset>0</Pan3dVolumeOffset>
-      <Pan3dVolumeGain>1000</Pan3dVolumeGain>
-      <Pan3dAngleOffset>0</Pan3dAngleOffset>
-      <Pan3dAngleGain>1000</Pan3dAngleGain>
-      <Pan3dDistanceOffset>1000</Pan3dDistanceOffset>
-      <Pan3dDistanceGain>1000</Pan3dDistanceGain>
-      <Dry0g>255</Dry0g>
-      <Dry1g>255</Dry1g>
-      <Dry2g>255</Dry2g>
-      <Dry3g>255</Dry3g>
-      <Dry4g>255</Dry4g>
-      <Dry5g>255</Dry5g>
-      <Dry6g>255</Dry6g>
-      <Dry7g>255</Dry7g>
-      <Wet0g>255</Wet0g>
-      <Wet1g>255</Wet1g>
-      <Wet2g>255</Wet2g>
-      <Wet3g>255</Wet3g>
-      <Wet4g>255</Wet4g>
-      <Wet5g>255</Wet5g>
-      <Wet6g>255</Wet6g>
-      <Wet7g>255</Wet7g>
-      <Filter1Type>0</Filter1Type>
-      <Filter1CutoffOffset>0</Filter1CutoffOffset>
-      <Filter1CutoffGain>0</Filter1CutoffGain>
-      <Filter1ResoOffset>0</Filter1ResoOffset>
-      <Filter1ResoGain>0</Filter1ResoGain>
-      <Filter2Type>0</Filter2Type>
-      <Filter2CutoffLowerOffset>0</Filter2CutoffLowerOffset>
-      <Filter2CutoffLowerGain>1000</Filter2CutoffLowerGain>
-      <Filter2CutoffHigherOffset>1000</Filter2CutoffHigherOffset>
-      <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
-      <PlaybackProbability>100</PlaybackProbability>
-      <NLmtChildren>0</NLmtChildren>
-      <Repeat>0</Repeat>
-      <ComboTime>0</ComboTime>
-      <ComboLoopBack>0</ComboLoopBack>
-    </BuilderSynthNode>
-    <BuilderSynthNode>
-      <Name>Synth/0002_voice/999_for_E3/002_system_e/011_SYS03_E02_NA/011_SYS03_E02_NA_1</Name>
-      <Type>Single</Type>
-      <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference />
-      <Children />
-      <Volume>1000</Volume>
-      <Pitch>-10</Pitch>
-      <DelayTime>0</DelayTime>
-      <SControl>0</SControl>
-      <EgDelay>0</EgDelay>
-      <EgAttack>0</EgAttack>
-      <EgHold>0</EgHold>
-      <EgDecay>0</EgDecay>
-      <EgRelease>0</EgRelease>
-      <EgSustain>1000</EgSustain>
-      <FilterType>0</FilterType>
-      <FilterCutoff1>0</FilterCutoff1>
-      <FilterCutoff2>0</FilterCutoff2>
-      <FilterReso>0</FilterReso>
-      <FilterReleaseOffset>0</FilterReleaseOffset>
-      <DryOName />
-      <Mtxrtr />
-      <Dry0>0</Dry0>
-      <Dry1>255</Dry1>
-      <Dry2>0</Dry2>
-      <Dry3>0</Dry3>
-      <Dry4>0</Dry4>
-      <Dry5>0</Dry5>
-      <Dry6>0</Dry6>
-      <Dry7>0</Dry7>
-      <WetOName />
-      <Wet0>0</Wet0>
-      <Wet1>0</Wet1>
-      <Wet2>0</Wet2>
-      <Wet3>0</Wet3>
-      <Wet4>0</Wet4>
-      <Wet5>0</Wet5>
-      <Wet6>0</Wet6>
-      <Wet7>0</Wet7>
-      <Wcnct0 />
-      <Wcnct1 />
-      <Wcnct2 />
-      <Wcnct3 />
-      <Wcnct4 />
-      <Wcnct5 />
-      <Wcnct6 />
-      <Wcnct7 />
-      <VoiceLimitType>0</VoiceLimitType>
-      <VoiceLimitPriority>0</VoiceLimitPriority>
-      <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
-      <VoiceLimitPcdlt>0</VoiceLimitPcdlt>
-      <Pan3dVolumeOffset>0</Pan3dVolumeOffset>
-      <Pan3dVolumeGain>1000</Pan3dVolumeGain>
-      <Pan3dAngleOffset>0</Pan3dAngleOffset>
-      <Pan3dAngleGain>1000</Pan3dAngleGain>
-      <Pan3dDistanceOffset>1000</Pan3dDistanceOffset>
-      <Pan3dDistanceGain>1000</Pan3dDistanceGain>
-      <Dry0g>255</Dry0g>
-      <Dry1g>255</Dry1g>
-      <Dry2g>255</Dry2g>
-      <Dry3g>255</Dry3g>
-      <Dry4g>255</Dry4g>
-      <Dry5g>255</Dry5g>
-      <Dry6g>255</Dry6g>
-      <Dry7g>255</Dry7g>
-      <Wet0g>255</Wet0g>
-      <Wet1g>255</Wet1g>
-      <Wet2g>255</Wet2g>
-      <Wet3g>255</Wet3g>
-      <Wet4g>255</Wet4g>
-      <Wet5g>255</Wet5g>
-      <Wet6g>255</Wet6g>
-      <Wet7g>255</Wet7g>
-      <Filter1Type>0</Filter1Type>
-      <Filter1CutoffOffset>0</Filter1CutoffOffset>
-      <Filter1CutoffGain>0</Filter1CutoffGain>
-      <Filter1ResoOffset>0</Filter1ResoOffset>
-      <Filter1ResoGain>0</Filter1ResoGain>
-      <Filter2Type>0</Filter2Type>
-      <Filter2CutoffLowerOffset>0</Filter2CutoffLowerOffset>
-      <Filter2CutoffLowerGain>1000</Filter2CutoffLowerGain>
-      <Filter2CutoffHigherOffset>1000</Filter2CutoffHigherOffset>
-      <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
-      <PlaybackProbability>100</PlaybackProbability>
-      <NLmtChildren>0</NLmtChildren>
-      <Repeat>0</Repeat>
-      <ComboTime>0</ComboTime>
-      <ComboLoopBack>0</ComboLoopBack>
-    </BuilderSynthNode>
-    <BuilderSynthNode>
-      <Name>Synth/0002_voice/999_for_E3/002_system_e/012_SYS03_E03_NA</Name>
-      <Type>WithChildren</Type>
-      <PlaybackType>Polyphonic</PlaybackType>
-      <Children>
-        <string>Synth/0002_voice/999_for_E3/002_system_e/012_SYS03_E03_NA/012_SYS03_E03_NA</string>
-        <string>Synth/0002_voice/999_for_E3/002_system_e/012_SYS03_E03_NA/012_SYS03_E03_NA_1</string>
-      </Children>
-      <Volume>850</Volume>
-      <Pitch>0</Pitch>
-      <DelayTime>0</DelayTime>
-      <SControl>0</SControl>
-      <EgDelay>0</EgDelay>
-      <EgAttack>0</EgAttack>
-      <EgHold>0</EgHold>
-      <EgDecay>0</EgDecay>
-      <EgRelease>0</EgRelease>
-      <EgSustain>1000</EgSustain>
-      <FilterType>0</FilterType>
-      <FilterCutoff1>0</FilterCutoff1>
-      <FilterCutoff2>0</FilterCutoff2>
-      <FilterReso>0</FilterReso>
-      <FilterReleaseOffset>0</FilterReleaseOffset>
-      <DryOName />
-      <Mtxrtr />
-      <Dry0>0</Dry0>
-      <Dry1>0</Dry1>
-      <Dry2>0</Dry2>
-      <Dry3>0</Dry3>
-      <Dry4>0</Dry4>
-      <Dry5>0</Dry5>
-      <Dry6>0</Dry6>
-      <Dry7>0</Dry7>
-      <WetOName />
-      <Wet0>0</Wet0>
-      <Wet1>0</Wet1>
-      <Wet2>0</Wet2>
-      <Wet3>0</Wet3>
-      <Wet4>0</Wet4>
-      <Wet5>0</Wet5>
-      <Wet6>0</Wet6>
-      <Wet7>0</Wet7>
-      <Wcnct0 />
-      <Wcnct1 />
-      <Wcnct2 />
-      <Wcnct3 />
-      <Wcnct4 />
-      <Wcnct5 />
-      <Wcnct6 />
-      <Wcnct7 />
-      <VoiceLimitType>0</VoiceLimitType>
-      <VoiceLimitPriority>0</VoiceLimitPriority>
-      <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
-      <VoiceLimitPcdlt>0</VoiceLimitPcdlt>
-      <Pan3dVolumeOffset>0</Pan3dVolumeOffset>
-      <Pan3dVolumeGain>1000</Pan3dVolumeGain>
-      <Pan3dAngleOffset>0</Pan3dAngleOffset>
-      <Pan3dAngleGain>1000</Pan3dAngleGain>
-      <Pan3dDistanceOffset>0</Pan3dDistanceOffset>
-      <Pan3dDistanceGain>1000</Pan3dDistanceGain>
-      <Dry0g>255</Dry0g>
-      <Dry1g>255</Dry1g>
-      <Dry2g>255</Dry2g>
-      <Dry3g>255</Dry3g>
-      <Dry4g>255</Dry4g>
-      <Dry5g>255</Dry5g>
-      <Dry6g>255</Dry6g>
-      <Dry7g>255</Dry7g>
-      <Wet0g>255</Wet0g>
-      <Wet1g>255</Wet1g>
-      <Wet2g>255</Wet2g>
-      <Wet3g>255</Wet3g>
-      <Wet4g>255</Wet4g>
-      <Wet5g>255</Wet5g>
-      <Wet6g>255</Wet6g>
-      <Wet7g>255</Wet7g>
-      <Filter1Type>0</Filter1Type>
-      <Filter1CutoffOffset>0</Filter1CutoffOffset>
-      <Filter1CutoffGain>0</Filter1CutoffGain>
-      <Filter1ResoOffset>0</Filter1ResoOffset>
-      <Filter1ResoGain>0</Filter1ResoGain>
-      <Filter2Type>0</Filter2Type>
-      <Filter2CutoffLowerOffset>0</Filter2CutoffLowerOffset>
-      <Filter2CutoffLowerGain>1000</Filter2CutoffLowerGain>
-      <Filter2CutoffHigherOffset>0</Filter2CutoffHigherOffset>
-      <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
-      <PlaybackProbability>0</PlaybackProbability>
-      <NLmtChildren>0</NLmtChildren>
-      <Repeat>1</Repeat>
-      <ComboTime>0</ComboTime>
-      <ComboLoopBack>0</ComboLoopBack>
-    </BuilderSynthNode>
-    <BuilderSynthNode>
-      <Name>Synth/0002_voice/999_for_E3/002_system_e/012_SYS03_E03_NA/012_SYS03_E03_NA</Name>
-      <Type>Single</Type>
-      <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference />
-      <Children />
-      <Volume>1000</Volume>
-      <Pitch>10</Pitch>
-      <DelayTime>0</DelayTime>
-      <SControl>0</SControl>
-      <EgDelay>0</EgDelay>
-      <EgAttack>0</EgAttack>
-      <EgHold>0</EgHold>
-      <EgDecay>0</EgDecay>
-      <EgRelease>0</EgRelease>
-      <EgSustain>1000</EgSustain>
-      <FilterType>0</FilterType>
-      <FilterCutoff1>0</FilterCutoff1>
-      <FilterCutoff2>0</FilterCutoff2>
-      <FilterReso>0</FilterReso>
-      <FilterReleaseOffset>0</FilterReleaseOffset>
-      <DryOName />
-      <Mtxrtr />
-      <Dry0>255</Dry0>
-      <Dry1>0</Dry1>
-      <Dry2>0</Dry2>
-      <Dry3>0</Dry3>
-      <Dry4>0</Dry4>
-      <Dry5>0</Dry5>
-      <Dry6>0</Dry6>
-      <Dry7>0</Dry7>
-      <WetOName />
-      <Wet0>0</Wet0>
-      <Wet1>0</Wet1>
-      <Wet2>0</Wet2>
-      <Wet3>0</Wet3>
-      <Wet4>0</Wet4>
-      <Wet5>0</Wet5>
-      <Wet6>0</Wet6>
-      <Wet7>0</Wet7>
-      <Wcnct0 />
-      <Wcnct1 />
-      <Wcnct2 />
-      <Wcnct3 />
-      <Wcnct4 />
-      <Wcnct5 />
-      <Wcnct6 />
-      <Wcnct7 />
-      <VoiceLimitType>0</VoiceLimitType>
-      <VoiceLimitPriority>0</VoiceLimitPriority>
-      <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
-      <VoiceLimitPcdlt>0</VoiceLimitPcdlt>
-      <Pan3dVolumeOffset>0</Pan3dVolumeOffset>
-      <Pan3dVolumeGain>1000</Pan3dVolumeGain>
-      <Pan3dAngleOffset>0</Pan3dAngleOffset>
-      <Pan3dAngleGain>1000</Pan3dAngleGain>
-      <Pan3dDistanceOffset>1000</Pan3dDistanceOffset>
-      <Pan3dDistanceGain>1000</Pan3dDistanceGain>
-      <Dry0g>255</Dry0g>
-      <Dry1g>255</Dry1g>
-      <Dry2g>255</Dry2g>
-      <Dry3g>255</Dry3g>
-      <Dry4g>255</Dry4g>
-      <Dry5g>255</Dry5g>
-      <Dry6g>255</Dry6g>
-      <Dry7g>255</Dry7g>
-      <Wet0g>255</Wet0g>
-      <Wet1g>255</Wet1g>
-      <Wet2g>255</Wet2g>
-      <Wet3g>255</Wet3g>
-      <Wet4g>255</Wet4g>
-      <Wet5g>255</Wet5g>
-      <Wet6g>255</Wet6g>
-      <Wet7g>255</Wet7g>
-      <Filter1Type>0</Filter1Type>
-      <Filter1CutoffOffset>0</Filter1CutoffOffset>
-      <Filter1CutoffGain>0</Filter1CutoffGain>
-      <Filter1ResoOffset>0</Filter1ResoOffset>
-      <Filter1ResoGain>0</Filter1ResoGain>
-      <Filter2Type>0</Filter2Type>
-      <Filter2CutoffLowerOffset>0</Filter2CutoffLowerOffset>
-      <Filter2CutoffLowerGain>1000</Filter2CutoffLowerGain>
-      <Filter2CutoffHigherOffset>1000</Filter2CutoffHigherOffset>
-      <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
-      <PlaybackProbability>100</PlaybackProbability>
-      <NLmtChildren>0</NLmtChildren>
-      <Repeat>0</Repeat>
-      <ComboTime>0</ComboTime>
-      <ComboLoopBack>0</ComboLoopBack>
-    </BuilderSynthNode>
-    <BuilderSynthNode>
-      <Name>Synth/0002_voice/999_for_E3/002_system_e/012_SYS03_E03_NA/012_SYS03_E03_NA_1</Name>
-      <Type>Single</Type>
-      <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference />
-      <Children />
-      <Volume>1000</Volume>
-      <Pitch>-10</Pitch>
-      <DelayTime>0</DelayTime>
-      <SControl>0</SControl>
-      <EgDelay>0</EgDelay>
-      <EgAttack>0</EgAttack>
-      <EgHold>0</EgHold>
-      <EgDecay>0</EgDecay>
-      <EgRelease>0</EgRelease>
-      <EgSustain>1000</EgSustain>
-      <FilterType>0</FilterType>
-      <FilterCutoff1>0</FilterCutoff1>
-      <FilterCutoff2>0</FilterCutoff2>
-      <FilterReso>0</FilterReso>
-      <FilterReleaseOffset>0</FilterReleaseOffset>
-      <DryOName />
-      <Mtxrtr />
-      <Dry0>0</Dry0>
-      <Dry1>255</Dry1>
-      <Dry2>0</Dry2>
-      <Dry3>0</Dry3>
-      <Dry4>0</Dry4>
-      <Dry5>0</Dry5>
-      <Dry6>0</Dry6>
-      <Dry7>0</Dry7>
-      <WetOName />
-      <Wet0>0</Wet0>
-      <Wet1>0</Wet1>
-      <Wet2>0</Wet2>
-      <Wet3>0</Wet3>
-      <Wet4>0</Wet4>
-      <Wet5>0</Wet5>
-      <Wet6>0</Wet6>
-      <Wet7>0</Wet7>
-      <Wcnct0 />
-      <Wcnct1 />
-      <Wcnct2 />
-      <Wcnct3 />
-      <Wcnct4 />
-      <Wcnct5 />
-      <Wcnct6 />
-      <Wcnct7 />
-      <VoiceLimitType>0</VoiceLimitType>
-      <VoiceLimitPriority>0</VoiceLimitPriority>
-      <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
-      <VoiceLimitPcdlt>0</VoiceLimitPcdlt>
-      <Pan3dVolumeOffset>0</Pan3dVolumeOffset>
-      <Pan3dVolumeGain>1000</Pan3dVolumeGain>
-      <Pan3dAngleOffset>0</Pan3dAngleOffset>
-      <Pan3dAngleGain>1000</Pan3dAngleGain>
-      <Pan3dDistanceOffset>1000</Pan3dDistanceOffset>
-      <Pan3dDistanceGain>1000</Pan3dDistanceGain>
-      <Dry0g>255</Dry0g>
-      <Dry1g>255</Dry1g>
-      <Dry2g>255</Dry2g>
-      <Dry3g>255</Dry3g>
-      <Dry4g>255</Dry4g>
-      <Dry5g>255</Dry5g>
-      <Dry6g>255</Dry6g>
-      <Dry7g>255</Dry7g>
-      <Wet0g>255</Wet0g>
-      <Wet1g>255</Wet1g>
-      <Wet2g>255</Wet2g>
-      <Wet3g>255</Wet3g>
-      <Wet4g>255</Wet4g>
-      <Wet5g>255</Wet5g>
-      <Wet6g>255</Wet6g>
-      <Wet7g>255</Wet7g>
-      <Filter1Type>0</Filter1Type>
-      <Filter1CutoffOffset>0</Filter1CutoffOffset>
-      <Filter1CutoffGain>0</Filter1CutoffGain>
-      <Filter1ResoOffset>0</Filter1ResoOffset>
-      <Filter1ResoGain>0</Filter1ResoGain>
-      <Filter2Type>0</Filter2Type>
-      <Filter2CutoffLowerOffset>0</Filter2CutoffLowerOffset>
-      <Filter2CutoffLowerGain>1000</Filter2CutoffLowerGain>
-      <Filter2CutoffHigherOffset>1000</Filter2CutoffHigherOffset>
-      <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
-      <PlaybackProbability>100</PlaybackProbability>
-      <NLmtChildren>0</NLmtChildren>
-      <Repeat>0</Repeat>
-      <ComboTime>0</ComboTime>
-      <ComboLoopBack>0</ComboLoopBack>
-    </BuilderSynthNode>
-    <BuilderSynthNode>
-      <Name>Synth/0002_voice/999_for_E3/002_system_e/013_SYS03_E04_NA</Name>
-      <Type>WithChildren</Type>
-      <PlaybackType>Polyphonic</PlaybackType>
-      <Children>
-        <string>Synth/0002_voice/999_for_E3/002_system_e/013_SYS03_E04_NA/013_SYS03_E04_NA</string>
-        <string>Synth/0002_voice/999_for_E3/002_system_e/013_SYS03_E04_NA/013_SYS03_E04_NA_1</string>
-      </Children>
-      <Volume>899</Volume>
-      <Pitch>0</Pitch>
-      <DelayTime>0</DelayTime>
-      <SControl>0</SControl>
-      <EgDelay>0</EgDelay>
-      <EgAttack>0</EgAttack>
-      <EgHold>0</EgHold>
-      <EgDecay>0</EgDecay>
-      <EgRelease>0</EgRelease>
-      <EgSustain>1000</EgSustain>
-      <FilterType>0</FilterType>
-      <FilterCutoff1>0</FilterCutoff1>
-      <FilterCutoff2>0</FilterCutoff2>
-      <FilterReso>0</FilterReso>
-      <FilterReleaseOffset>0</FilterReleaseOffset>
-      <DryOName />
-      <Mtxrtr />
-      <Dry0>0</Dry0>
-      <Dry1>0</Dry1>
-      <Dry2>0</Dry2>
-      <Dry3>0</Dry3>
-      <Dry4>0</Dry4>
-      <Dry5>0</Dry5>
-      <Dry6>0</Dry6>
-      <Dry7>0</Dry7>
-      <WetOName />
-      <Wet0>0</Wet0>
-      <Wet1>0</Wet1>
-      <Wet2>0</Wet2>
-      <Wet3>0</Wet3>
-      <Wet4>0</Wet4>
-      <Wet5>0</Wet5>
-      <Wet6>0</Wet6>
-      <Wet7>0</Wet7>
-      <Wcnct0 />
-      <Wcnct1 />
-      <Wcnct2 />
-      <Wcnct3 />
-      <Wcnct4 />
-      <Wcnct5 />
-      <Wcnct6 />
-      <Wcnct7 />
-      <VoiceLimitType>0</VoiceLimitType>
-      <VoiceLimitPriority>0</VoiceLimitPriority>
-      <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
-      <VoiceLimitPcdlt>0</VoiceLimitPcdlt>
-      <Pan3dVolumeOffset>0</Pan3dVolumeOffset>
-      <Pan3dVolumeGain>1000</Pan3dVolumeGain>
-      <Pan3dAngleOffset>0</Pan3dAngleOffset>
-      <Pan3dAngleGain>1000</Pan3dAngleGain>
-      <Pan3dDistanceOffset>0</Pan3dDistanceOffset>
-      <Pan3dDistanceGain>1000</Pan3dDistanceGain>
-      <Dry0g>255</Dry0g>
-      <Dry1g>255</Dry1g>
-      <Dry2g>255</Dry2g>
-      <Dry3g>255</Dry3g>
-      <Dry4g>255</Dry4g>
-      <Dry5g>255</Dry5g>
-      <Dry6g>255</Dry6g>
-      <Dry7g>255</Dry7g>
-      <Wet0g>255</Wet0g>
-      <Wet1g>255</Wet1g>
-      <Wet2g>255</Wet2g>
-      <Wet3g>255</Wet3g>
-      <Wet4g>255</Wet4g>
-      <Wet5g>255</Wet5g>
-      <Wet6g>255</Wet6g>
-      <Wet7g>255</Wet7g>
-      <Filter1Type>0</Filter1Type>
-      <Filter1CutoffOffset>0</Filter1CutoffOffset>
-      <Filter1CutoffGain>0</Filter1CutoffGain>
-      <Filter1ResoOffset>0</Filter1ResoOffset>
-      <Filter1ResoGain>0</Filter1ResoGain>
-      <Filter2Type>0</Filter2Type>
-      <Filter2CutoffLowerOffset>0</Filter2CutoffLowerOffset>
-      <Filter2CutoffLowerGain>1000</Filter2CutoffLowerGain>
-      <Filter2CutoffHigherOffset>0</Filter2CutoffHigherOffset>
-      <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
-      <PlaybackProbability>0</PlaybackProbability>
-      <NLmtChildren>0</NLmtChildren>
-      <Repeat>1</Repeat>
-      <ComboTime>0</ComboTime>
-      <ComboLoopBack>0</ComboLoopBack>
-    </BuilderSynthNode>
-    <BuilderSynthNode>
-      <Name>Synth/0002_voice/999_for_E3/002_system_e/013_SYS03_E04_NA/013_SYS03_E04_NA</Name>
-      <Type>Single</Type>
-      <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference />
-      <Children />
-      <Volume>1000</Volume>
-      <Pitch>10</Pitch>
-      <DelayTime>0</DelayTime>
-      <SControl>0</SControl>
-      <EgDelay>0</EgDelay>
-      <EgAttack>0</EgAttack>
-      <EgHold>0</EgHold>
-      <EgDecay>0</EgDecay>
-      <EgRelease>0</EgRelease>
-      <EgSustain>1000</EgSustain>
-      <FilterType>0</FilterType>
-      <FilterCutoff1>0</FilterCutoff1>
-      <FilterCutoff2>0</FilterCutoff2>
-      <FilterReso>0</FilterReso>
-      <FilterReleaseOffset>0</FilterReleaseOffset>
-      <DryOName />
-      <Mtxrtr />
-      <Dry0>255</Dry0>
-      <Dry1>0</Dry1>
-      <Dry2>0</Dry2>
-      <Dry3>0</Dry3>
-      <Dry4>0</Dry4>
-      <Dry5>0</Dry5>
-      <Dry6>0</Dry6>
-      <Dry7>0</Dry7>
-      <WetOName />
-      <Wet0>0</Wet0>
-      <Wet1>0</Wet1>
-      <Wet2>0</Wet2>
-      <Wet3>0</Wet3>
-      <Wet4>0</Wet4>
-      <Wet5>0</Wet5>
-      <Wet6>0</Wet6>
-      <Wet7>0</Wet7>
-      <Wcnct0 />
-      <Wcnct1 />
-      <Wcnct2 />
-      <Wcnct3 />
-      <Wcnct4 />
-      <Wcnct5 />
-      <Wcnct6 />
-      <Wcnct7 />
-      <VoiceLimitType>0</VoiceLimitType>
-      <VoiceLimitPriority>0</VoiceLimitPriority>
-      <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
-      <VoiceLimitPcdlt>0</VoiceLimitPcdlt>
-      <Pan3dVolumeOffset>0</Pan3dVolumeOffset>
-      <Pan3dVolumeGain>1000</Pan3dVolumeGain>
-      <Pan3dAngleOffset>0</Pan3dAngleOffset>
-      <Pan3dAngleGain>1000</Pan3dAngleGain>
-      <Pan3dDistanceOffset>1000</Pan3dDistanceOffset>
-      <Pan3dDistanceGain>1000</Pan3dDistanceGain>
-      <Dry0g>255</Dry0g>
-      <Dry1g>255</Dry1g>
-      <Dry2g>255</Dry2g>
-      <Dry3g>255</Dry3g>
-      <Dry4g>255</Dry4g>
-      <Dry5g>255</Dry5g>
-      <Dry6g>255</Dry6g>
-      <Dry7g>255</Dry7g>
-      <Wet0g>255</Wet0g>
-      <Wet1g>255</Wet1g>
-      <Wet2g>255</Wet2g>
-      <Wet3g>255</Wet3g>
-      <Wet4g>255</Wet4g>
-      <Wet5g>255</Wet5g>
-      <Wet6g>255</Wet6g>
-      <Wet7g>255</Wet7g>
-      <Filter1Type>0</Filter1Type>
-      <Filter1CutoffOffset>0</Filter1CutoffOffset>
-      <Filter1CutoffGain>0</Filter1CutoffGain>
-      <Filter1ResoOffset>0</Filter1ResoOffset>
-      <Filter1ResoGain>0</Filter1ResoGain>
-      <Filter2Type>0</Filter2Type>
-      <Filter2CutoffLowerOffset>0</Filter2CutoffLowerOffset>
-      <Filter2CutoffLowerGain>1000</Filter2CutoffLowerGain>
-      <Filter2CutoffHigherOffset>1000</Filter2CutoffHigherOffset>
-      <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
-      <PlaybackProbability>100</PlaybackProbability>
-      <NLmtChildren>0</NLmtChildren>
-      <Repeat>0</Repeat>
-      <ComboTime>0</ComboTime>
-      <ComboLoopBack>0</ComboLoopBack>
-    </BuilderSynthNode>
-    <BuilderSynthNode>
-      <Name>Synth/0002_voice/999_for_E3/002_system_e/013_SYS03_E04_NA/013_SYS03_E04_NA_1</Name>
-      <Type>Single</Type>
-      <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference />
-      <Children />
-      <Volume>1000</Volume>
-      <Pitch>-10</Pitch>
-      <DelayTime>0</DelayTime>
-      <SControl>0</SControl>
-      <EgDelay>0</EgDelay>
-      <EgAttack>0</EgAttack>
-      <EgHold>0</EgHold>
-      <EgDecay>0</EgDecay>
-      <EgRelease>0</EgRelease>
-      <EgSustain>1000</EgSustain>
-      <FilterType>0</FilterType>
-      <FilterCutoff1>0</FilterCutoff1>
-      <FilterCutoff2>0</FilterCutoff2>
-      <FilterReso>0</FilterReso>
-      <FilterReleaseOffset>0</FilterReleaseOffset>
-      <DryOName />
-      <Mtxrtr />
-      <Dry0>0</Dry0>
-      <Dry1>255</Dry1>
-      <Dry2>0</Dry2>
-      <Dry3>0</Dry3>
-      <Dry4>0</Dry4>
-      <Dry5>0</Dry5>
-      <Dry6>0</Dry6>
-      <Dry7>0</Dry7>
-      <WetOName />
-      <Wet0>0</Wet0>
-      <Wet1>0</Wet1>
-      <Wet2>0</Wet2>
-      <Wet3>0</Wet3>
-      <Wet4>0</Wet4>
-      <Wet5>0</Wet5>
-      <Wet6>0</Wet6>
-      <Wet7>0</Wet7>
-      <Wcnct0 />
-      <Wcnct1 />
-      <Wcnct2 />
-      <Wcnct3 />
-      <Wcnct4 />
-      <Wcnct5 />
-      <Wcnct6 />
-      <Wcnct7 />
-      <VoiceLimitType>0</VoiceLimitType>
-      <VoiceLimitPriority>0</VoiceLimitPriority>
-      <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
-      <VoiceLimitPcdlt>0</VoiceLimitPcdlt>
-      <Pan3dVolumeOffset>0</Pan3dVolumeOffset>
-      <Pan3dVolumeGain>1000</Pan3dVolumeGain>
-      <Pan3dAngleOffset>0</Pan3dAngleOffset>
-      <Pan3dAngleGain>1000</Pan3dAngleGain>
-      <Pan3dDistanceOffset>1000</Pan3dDistanceOffset>
-      <Pan3dDistanceGain>1000</Pan3dDistanceGain>
-      <Dry0g>255</Dry0g>
-      <Dry1g>255</Dry1g>
-      <Dry2g>255</Dry2g>
-      <Dry3g>255</Dry3g>
-      <Dry4g>255</Dry4g>
-      <Dry5g>255</Dry5g>
-      <Dry6g>255</Dry6g>
-      <Dry7g>255</Dry7g>
-      <Wet0g>255</Wet0g>
-      <Wet1g>255</Wet1g>
-      <Wet2g>255</Wet2g>
-      <Wet3g>255</Wet3g>
-      <Wet4g>255</Wet4g>
-      <Wet5g>255</Wet5g>
-      <Wet6g>255</Wet6g>
-      <Wet7g>255</Wet7g>
-      <Filter1Type>0</Filter1Type>
-      <Filter1CutoffOffset>0</Filter1CutoffOffset>
-      <Filter1CutoffGain>0</Filter1CutoffGain>
-      <Filter1ResoOffset>0</Filter1ResoOffset>
-      <Filter1ResoGain>0</Filter1ResoGain>
-      <Filter2Type>0</Filter2Type>
-      <Filter2CutoffLowerOffset>0</Filter2CutoffLowerOffset>
-      <Filter2CutoffLowerGain>1000</Filter2CutoffLowerGain>
-      <Filter2CutoffHigherOffset>1000</Filter2CutoffHigherOffset>
-      <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
-      <PlaybackProbability>100</PlaybackProbability>
-      <NLmtChildren>0</NLmtChildren>
-      <Repeat>0</Repeat>
-      <ComboTime>0</ComboTime>
-      <ComboLoopBack>0</ComboLoopBack>
-    </BuilderSynthNode>
-    <BuilderSynthNode>
-      <Name>Synth/0002_voice/999_for_E3/002_system_e/014_SYS03_E05_NA</Name>
-      <Type>WithChildren</Type>
-      <PlaybackType>Polyphonic</PlaybackType>
-      <Children>
-        <string>Synth/0002_voice/999_for_E3/002_system_e/014_SYS03_E05_NA/014_SYS03_E05_NA</string>
-        <string>Synth/0002_voice/999_for_E3/002_system_e/014_SYS03_E05_NA/014_SYS03_E05_NA_1</string>
-      </Children>
-      <Volume>1000</Volume>
-      <Pitch>0</Pitch>
-      <DelayTime>0</DelayTime>
-      <SControl>0</SControl>
-      <EgDelay>0</EgDelay>
-      <EgAttack>0</EgAttack>
-      <EgHold>0</EgHold>
-      <EgDecay>0</EgDecay>
-      <EgRelease>0</EgRelease>
-      <EgSustain>1000</EgSustain>
-      <FilterType>0</FilterType>
-      <FilterCutoff1>0</FilterCutoff1>
-      <FilterCutoff2>0</FilterCutoff2>
-      <FilterReso>0</FilterReso>
-      <FilterReleaseOffset>0</FilterReleaseOffset>
-      <DryOName />
-      <Mtxrtr />
-      <Dry0>0</Dry0>
-      <Dry1>0</Dry1>
-      <Dry2>0</Dry2>
-      <Dry3>0</Dry3>
-      <Dry4>0</Dry4>
-      <Dry5>0</Dry5>
-      <Dry6>0</Dry6>
-      <Dry7>0</Dry7>
-      <WetOName />
-      <Wet0>0</Wet0>
-      <Wet1>0</Wet1>
-      <Wet2>0</Wet2>
-      <Wet3>0</Wet3>
-      <Wet4>0</Wet4>
-      <Wet5>0</Wet5>
-      <Wet6>0</Wet6>
-      <Wet7>0</Wet7>
-      <Wcnct0 />
-      <Wcnct1 />
-      <Wcnct2 />
-      <Wcnct3 />
-      <Wcnct4 />
-      <Wcnct5 />
-      <Wcnct6 />
-      <Wcnct7 />
-      <VoiceLimitType>0</VoiceLimitType>
-      <VoiceLimitPriority>0</VoiceLimitPriority>
-      <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
-      <VoiceLimitPcdlt>0</VoiceLimitPcdlt>
-      <Pan3dVolumeOffset>0</Pan3dVolumeOffset>
-      <Pan3dVolumeGain>1000</Pan3dVolumeGain>
-      <Pan3dAngleOffset>0</Pan3dAngleOffset>
-      <Pan3dAngleGain>1000</Pan3dAngleGain>
-      <Pan3dDistanceOffset>0</Pan3dDistanceOffset>
-      <Pan3dDistanceGain>1000</Pan3dDistanceGain>
-      <Dry0g>255</Dry0g>
-      <Dry1g>255</Dry1g>
-      <Dry2g>255</Dry2g>
-      <Dry3g>255</Dry3g>
-      <Dry4g>255</Dry4g>
-      <Dry5g>255</Dry5g>
-      <Dry6g>255</Dry6g>
-      <Dry7g>255</Dry7g>
-      <Wet0g>255</Wet0g>
-      <Wet1g>255</Wet1g>
-      <Wet2g>255</Wet2g>
-      <Wet3g>255</Wet3g>
-      <Wet4g>255</Wet4g>
-      <Wet5g>255</Wet5g>
-      <Wet6g>255</Wet6g>
-      <Wet7g>255</Wet7g>
-      <Filter1Type>0</Filter1Type>
-      <Filter1CutoffOffset>0</Filter1CutoffOffset>
-      <Filter1CutoffGain>0</Filter1CutoffGain>
-      <Filter1ResoOffset>0</Filter1ResoOffset>
-      <Filter1ResoGain>0</Filter1ResoGain>
-      <Filter2Type>0</Filter2Type>
-      <Filter2CutoffLowerOffset>0</Filter2CutoffLowerOffset>
-      <Filter2CutoffLowerGain>1000</Filter2CutoffLowerGain>
-      <Filter2CutoffHigherOffset>0</Filter2CutoffHigherOffset>
-      <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
-      <PlaybackProbability>0</PlaybackProbability>
-      <NLmtChildren>0</NLmtChildren>
-      <Repeat>1</Repeat>
-      <ComboTime>0</ComboTime>
-      <ComboLoopBack>0</ComboLoopBack>
-    </BuilderSynthNode>
-    <BuilderSynthNode>
-      <Name>Synth/0002_voice/999_for_E3/002_system_e/014_SYS03_E05_NA/014_SYS03_E05_NA</Name>
-      <Type>Single</Type>
-      <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference />
-      <Children />
-      <Volume>1000</Volume>
-      <Pitch>10</Pitch>
-      <DelayTime>0</DelayTime>
-      <SControl>0</SControl>
-      <EgDelay>0</EgDelay>
-      <EgAttack>0</EgAttack>
-      <EgHold>0</EgHold>
-      <EgDecay>0</EgDecay>
-      <EgRelease>0</EgRelease>
-      <EgSustain>1000</EgSustain>
-      <FilterType>0</FilterType>
-      <FilterCutoff1>0</FilterCutoff1>
-      <FilterCutoff2>0</FilterCutoff2>
-      <FilterReso>0</FilterReso>
-      <FilterReleaseOffset>0</FilterReleaseOffset>
-      <DryOName />
-      <Mtxrtr />
-      <Dry0>255</Dry0>
-      <Dry1>0</Dry1>
-      <Dry2>0</Dry2>
-      <Dry3>0</Dry3>
-      <Dry4>0</Dry4>
-      <Dry5>0</Dry5>
-      <Dry6>0</Dry6>
-      <Dry7>0</Dry7>
-      <WetOName />
-      <Wet0>0</Wet0>
-      <Wet1>0</Wet1>
-      <Wet2>0</Wet2>
-      <Wet3>0</Wet3>
-      <Wet4>0</Wet4>
-      <Wet5>0</Wet5>
-      <Wet6>0</Wet6>
-      <Wet7>0</Wet7>
-      <Wcnct0 />
-      <Wcnct1 />
-      <Wcnct2 />
-      <Wcnct3 />
-      <Wcnct4 />
-      <Wcnct5 />
-      <Wcnct6 />
-      <Wcnct7 />
-      <VoiceLimitType>0</VoiceLimitType>
-      <VoiceLimitPriority>0</VoiceLimitPriority>
-      <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
-      <VoiceLimitPcdlt>0</VoiceLimitPcdlt>
-      <Pan3dVolumeOffset>0</Pan3dVolumeOffset>
-      <Pan3dVolumeGain>1000</Pan3dVolumeGain>
-      <Pan3dAngleOffset>0</Pan3dAngleOffset>
-      <Pan3dAngleGain>1000</Pan3dAngleGain>
-      <Pan3dDistanceOffset>1000</Pan3dDistanceOffset>
-      <Pan3dDistanceGain>1000</Pan3dDistanceGain>
-      <Dry0g>255</Dry0g>
-      <Dry1g>255</Dry1g>
-      <Dry2g>255</Dry2g>
-      <Dry3g>255</Dry3g>
-      <Dry4g>255</Dry4g>
-      <Dry5g>255</Dry5g>
-      <Dry6g>255</Dry6g>
-      <Dry7g>255</Dry7g>
-      <Wet0g>255</Wet0g>
-      <Wet1g>255</Wet1g>
-      <Wet2g>255</Wet2g>
-      <Wet3g>255</Wet3g>
-      <Wet4g>255</Wet4g>
-      <Wet5g>255</Wet5g>
-      <Wet6g>255</Wet6g>
-      <Wet7g>255</Wet7g>
-      <Filter1Type>0</Filter1Type>
-      <Filter1CutoffOffset>0</Filter1CutoffOffset>
-      <Filter1CutoffGain>0</Filter1CutoffGain>
-      <Filter1ResoOffset>0</Filter1ResoOffset>
-      <Filter1ResoGain>0</Filter1ResoGain>
-      <Filter2Type>0</Filter2Type>
-      <Filter2CutoffLowerOffset>0</Filter2CutoffLowerOffset>
-      <Filter2CutoffLowerGain>1000</Filter2CutoffLowerGain>
-      <Filter2CutoffHigherOffset>1000</Filter2CutoffHigherOffset>
-      <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
-      <PlaybackProbability>100</PlaybackProbability>
-      <NLmtChildren>0</NLmtChildren>
-      <Repeat>0</Repeat>
-      <ComboTime>0</ComboTime>
-      <ComboLoopBack>0</ComboLoopBack>
-    </BuilderSynthNode>
-    <BuilderSynthNode>
-      <Name>Synth/0002_voice/999_for_E3/002_system_e/014_SYS03_E05_NA/014_SYS03_E05_NA_1</Name>
-      <Type>Single</Type>
-      <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference />
-      <Children />
-      <Volume>1000</Volume>
-      <Pitch>-10</Pitch>
-      <DelayTime>0</DelayTime>
-      <SControl>0</SControl>
-      <EgDelay>0</EgDelay>
-      <EgAttack>0</EgAttack>
-      <EgHold>0</EgHold>
-      <EgDecay>0</EgDecay>
-      <EgRelease>0</EgRelease>
-      <EgSustain>1000</EgSustain>
-      <FilterType>0</FilterType>
-      <FilterCutoff1>0</FilterCutoff1>
-      <FilterCutoff2>0</FilterCutoff2>
-      <FilterReso>0</FilterReso>
-      <FilterReleaseOffset>0</FilterReleaseOffset>
-      <DryOName />
-      <Mtxrtr />
-      <Dry0>0</Dry0>
-      <Dry1>255</Dry1>
-      <Dry2>0</Dry2>
-      <Dry3>0</Dry3>
-      <Dry4>0</Dry4>
-      <Dry5>0</Dry5>
-      <Dry6>0</Dry6>
-      <Dry7>0</Dry7>
-      <WetOName />
-      <Wet0>0</Wet0>
-      <Wet1>0</Wet1>
-      <Wet2>0</Wet2>
-      <Wet3>0</Wet3>
-      <Wet4>0</Wet4>
-      <Wet5>0</Wet5>
-      <Wet6>0</Wet6>
-      <Wet7>0</Wet7>
-      <Wcnct0 />
-      <Wcnct1 />
-      <Wcnct2 />
-      <Wcnct3 />
-      <Wcnct4 />
-      <Wcnct5 />
-      <Wcnct6 />
-      <Wcnct7 />
-      <VoiceLimitType>0</VoiceLimitType>
-      <VoiceLimitPriority>0</VoiceLimitPriority>
-      <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
-      <VoiceLimitPcdlt>0</VoiceLimitPcdlt>
-      <Pan3dVolumeOffset>0</Pan3dVolumeOffset>
-      <Pan3dVolumeGain>1000</Pan3dVolumeGain>
-      <Pan3dAngleOffset>0</Pan3dAngleOffset>
-      <Pan3dAngleGain>1000</Pan3dAngleGain>
-      <Pan3dDistanceOffset>1000</Pan3dDistanceOffset>
-      <Pan3dDistanceGain>1000</Pan3dDistanceGain>
-      <Dry0g>255</Dry0g>
-      <Dry1g>255</Dry1g>
-      <Dry2g>255</Dry2g>
-      <Dry3g>255</Dry3g>
-      <Dry4g>255</Dry4g>
-      <Dry5g>255</Dry5g>
-      <Dry6g>255</Dry6g>
-      <Dry7g>255</Dry7g>
-      <Wet0g>255</Wet0g>
-      <Wet1g>255</Wet1g>
-      <Wet2g>255</Wet2g>
-      <Wet3g>255</Wet3g>
-      <Wet4g>255</Wet4g>
-      <Wet5g>255</Wet5g>
-      <Wet6g>255</Wet6g>
-      <Wet7g>255</Wet7g>
-      <Filter1Type>0</Filter1Type>
-      <Filter1CutoffOffset>0</Filter1CutoffOffset>
-      <Filter1CutoffGain>0</Filter1CutoffGain>
-      <Filter1ResoOffset>0</Filter1ResoOffset>
-      <Filter1ResoGain>0</Filter1ResoGain>
-      <Filter2Type>0</Filter2Type>
-      <Filter2CutoffLowerOffset>0</Filter2CutoffLowerOffset>
-      <Filter2CutoffLowerGain>1000</Filter2CutoffLowerGain>
-      <Filter2CutoffHigherOffset>1000</Filter2CutoffHigherOffset>
-      <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
-      <PlaybackProbability>100</PlaybackProbability>
-      <NLmtChildren>0</NLmtChildren>
-      <Repeat>0</Repeat>
-      <ComboTime>0</ComboTime>
-      <ComboLoopBack>0</ComboLoopBack>
-    </BuilderSynthNode>
-    <BuilderSynthNode>
-      <Name>Synth/0002_voice/999_for_E3/002_system_e/015_SYS03_E06_NA</Name>
-      <Type>WithChildren</Type>
-      <PlaybackType>Polyphonic</PlaybackType>
-      <Children>
-        <string>Synth/0002_voice/999_for_E3/002_system_e/015_SYS03_E06_NA/015_SYS03_E06_NA</string>
-        <string>Synth/0002_voice/999_for_E3/002_system_e/015_SYS03_E06_NA/015_SYS03_E06_NA_1</string>
-      </Children>
-      <Volume>949</Volume>
-      <Pitch>0</Pitch>
-      <DelayTime>0</DelayTime>
-      <SControl>0</SControl>
-      <EgDelay>0</EgDelay>
-      <EgAttack>0</EgAttack>
-      <EgHold>0</EgHold>
-      <EgDecay>0</EgDecay>
-      <EgRelease>0</EgRelease>
-      <EgSustain>1000</EgSustain>
-      <FilterType>0</FilterType>
-      <FilterCutoff1>0</FilterCutoff1>
-      <FilterCutoff2>0</FilterCutoff2>
-      <FilterReso>0</FilterReso>
-      <FilterReleaseOffset>0</FilterReleaseOffset>
-      <DryOName />
-      <Mtxrtr />
-      <Dry0>0</Dry0>
-      <Dry1>0</Dry1>
-      <Dry2>0</Dry2>
-      <Dry3>0</Dry3>
-      <Dry4>0</Dry4>
-      <Dry5>0</Dry5>
-      <Dry6>0</Dry6>
-      <Dry7>0</Dry7>
-      <WetOName />
-      <Wet0>0</Wet0>
-      <Wet1>0</Wet1>
-      <Wet2>0</Wet2>
-      <Wet3>0</Wet3>
-      <Wet4>0</Wet4>
-      <Wet5>0</Wet5>
-      <Wet6>0</Wet6>
-      <Wet7>0</Wet7>
-      <Wcnct0 />
-      <Wcnct1 />
-      <Wcnct2 />
-      <Wcnct3 />
-      <Wcnct4 />
-      <Wcnct5 />
-      <Wcnct6 />
-      <Wcnct7 />
-      <VoiceLimitType>0</VoiceLimitType>
-      <VoiceLimitPriority>0</VoiceLimitPriority>
-      <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
-      <VoiceLimitPcdlt>0</VoiceLimitPcdlt>
-      <Pan3dVolumeOffset>0</Pan3dVolumeOffset>
-      <Pan3dVolumeGain>1000</Pan3dVolumeGain>
-      <Pan3dAngleOffset>0</Pan3dAngleOffset>
-      <Pan3dAngleGain>1000</Pan3dAngleGain>
-      <Pan3dDistanceOffset>0</Pan3dDistanceOffset>
-      <Pan3dDistanceGain>1000</Pan3dDistanceGain>
-      <Dry0g>255</Dry0g>
-      <Dry1g>255</Dry1g>
-      <Dry2g>255</Dry2g>
-      <Dry3g>255</Dry3g>
-      <Dry4g>255</Dry4g>
-      <Dry5g>255</Dry5g>
-      <Dry6g>255</Dry6g>
-      <Dry7g>255</Dry7g>
-      <Wet0g>255</Wet0g>
-      <Wet1g>255</Wet1g>
-      <Wet2g>255</Wet2g>
-      <Wet3g>255</Wet3g>
-      <Wet4g>255</Wet4g>
-      <Wet5g>255</Wet5g>
-      <Wet6g>255</Wet6g>
-      <Wet7g>255</Wet7g>
-      <Filter1Type>0</Filter1Type>
-      <Filter1CutoffOffset>0</Filter1CutoffOffset>
-      <Filter1CutoffGain>0</Filter1CutoffGain>
-      <Filter1ResoOffset>0</Filter1ResoOffset>
-      <Filter1ResoGain>0</Filter1ResoGain>
-      <Filter2Type>0</Filter2Type>
-      <Filter2CutoffLowerOffset>0</Filter2CutoffLowerOffset>
-      <Filter2CutoffLowerGain>1000</Filter2CutoffLowerGain>
-      <Filter2CutoffHigherOffset>0</Filter2CutoffHigherOffset>
-      <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
-      <PlaybackProbability>0</PlaybackProbability>
-      <NLmtChildren>0</NLmtChildren>
-      <Repeat>1</Repeat>
-      <ComboTime>0</ComboTime>
-      <ComboLoopBack>0</ComboLoopBack>
-    </BuilderSynthNode>
-    <BuilderSynthNode>
-      <Name>Synth/0002_voice/999_for_E3/002_system_e/015_SYS03_E06_NA/015_SYS03_E06_NA</Name>
-      <Type>Single</Type>
-      <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference />
-      <Children />
-      <Volume>1000</Volume>
-      <Pitch>10</Pitch>
-      <DelayTime>0</DelayTime>
-      <SControl>0</SControl>
-      <EgDelay>0</EgDelay>
-      <EgAttack>0</EgAttack>
-      <EgHold>0</EgHold>
-      <EgDecay>0</EgDecay>
-      <EgRelease>0</EgRelease>
-      <EgSustain>1000</EgSustain>
-      <FilterType>0</FilterType>
-      <FilterCutoff1>0</FilterCutoff1>
-      <FilterCutoff2>0</FilterCutoff2>
-      <FilterReso>0</FilterReso>
-      <FilterReleaseOffset>0</FilterReleaseOffset>
-      <DryOName />
-      <Mtxrtr />
-      <Dry0>255</Dry0>
-      <Dry1>0</Dry1>
-      <Dry2>0</Dry2>
-      <Dry3>0</Dry3>
-      <Dry4>0</Dry4>
-      <Dry5>0</Dry5>
-      <Dry6>0</Dry6>
-      <Dry7>0</Dry7>
-      <WetOName />
-      <Wet0>0</Wet0>
-      <Wet1>0</Wet1>
-      <Wet2>0</Wet2>
-      <Wet3>0</Wet3>
-      <Wet4>0</Wet4>
-      <Wet5>0</Wet5>
-      <Wet6>0</Wet6>
-      <Wet7>0</Wet7>
-      <Wcnct0 />
-      <Wcnct1 />
-      <Wcnct2 />
-      <Wcnct3 />
-      <Wcnct4 />
-      <Wcnct5 />
-      <Wcnct6 />
-      <Wcnct7 />
-      <VoiceLimitType>0</VoiceLimitType>
-      <VoiceLimitPriority>0</VoiceLimitPriority>
-      <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
-      <VoiceLimitPcdlt>0</VoiceLimitPcdlt>
-      <Pan3dVolumeOffset>0</Pan3dVolumeOffset>
-      <Pan3dVolumeGain>1000</Pan3dVolumeGain>
-      <Pan3dAngleOffset>0</Pan3dAngleOffset>
-      <Pan3dAngleGain>1000</Pan3dAngleGain>
-      <Pan3dDistanceOffset>1000</Pan3dDistanceOffset>
-      <Pan3dDistanceGain>1000</Pan3dDistanceGain>
-      <Dry0g>255</Dry0g>
-      <Dry1g>255</Dry1g>
-      <Dry2g>255</Dry2g>
-      <Dry3g>255</Dry3g>
-      <Dry4g>255</Dry4g>
-      <Dry5g>255</Dry5g>
-      <Dry6g>255</Dry6g>
-      <Dry7g>255</Dry7g>
-      <Wet0g>255</Wet0g>
-      <Wet1g>255</Wet1g>
-      <Wet2g>255</Wet2g>
-      <Wet3g>255</Wet3g>
-      <Wet4g>255</Wet4g>
-      <Wet5g>255</Wet5g>
-      <Wet6g>255</Wet6g>
-      <Wet7g>255</Wet7g>
-      <Filter1Type>0</Filter1Type>
-      <Filter1CutoffOffset>0</Filter1CutoffOffset>
-      <Filter1CutoffGain>0</Filter1CutoffGain>
-      <Filter1ResoOffset>0</Filter1ResoOffset>
-      <Filter1ResoGain>0</Filter1ResoGain>
-      <Filter2Type>0</Filter2Type>
-      <Filter2CutoffLowerOffset>0</Filter2CutoffLowerOffset>
-      <Filter2CutoffLowerGain>1000</Filter2CutoffLowerGain>
-      <Filter2CutoffHigherOffset>1000</Filter2CutoffHigherOffset>
-      <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
-      <PlaybackProbability>100</PlaybackProbability>
-      <NLmtChildren>0</NLmtChildren>
-      <Repeat>0</Repeat>
-      <ComboTime>0</ComboTime>
-      <ComboLoopBack>0</ComboLoopBack>
-    </BuilderSynthNode>
-    <BuilderSynthNode>
-      <Name>Synth/0002_voice/999_for_E3/002_system_e/015_SYS03_E06_NA/015_SYS03_E06_NA_1</Name>
-      <Type>Single</Type>
-      <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference />
-      <Children />
-      <Volume>1000</Volume>
-      <Pitch>-10</Pitch>
-      <DelayTime>0</DelayTime>
-      <SControl>0</SControl>
-      <EgDelay>0</EgDelay>
-      <EgAttack>0</EgAttack>
-      <EgHold>0</EgHold>
-      <EgDecay>0</EgDecay>
-      <EgRelease>0</EgRelease>
-      <EgSustain>1000</EgSustain>
-      <FilterType>0</FilterType>
-      <FilterCutoff1>0</FilterCutoff1>
-      <FilterCutoff2>0</FilterCutoff2>
-      <FilterReso>0</FilterReso>
-      <FilterReleaseOffset>0</FilterReleaseOffset>
-      <DryOName />
-      <Mtxrtr />
-      <Dry0>0</Dry0>
-      <Dry1>255</Dry1>
-      <Dry2>0</Dry2>
-      <Dry3>0</Dry3>
-      <Dry4>0</Dry4>
-      <Dry5>0</Dry5>
-      <Dry6>0</Dry6>
-      <Dry7>0</Dry7>
-      <WetOName />
-      <Wet0>0</Wet0>
-      <Wet1>0</Wet1>
-      <Wet2>0</Wet2>
-      <Wet3>0</Wet3>
-      <Wet4>0</Wet4>
-      <Wet5>0</Wet5>
-      <Wet6>0</Wet6>
-      <Wet7>0</Wet7>
-      <Wcnct0 />
-      <Wcnct1 />
-      <Wcnct2 />
-      <Wcnct3 />
-      <Wcnct4 />
-      <Wcnct5 />
-      <Wcnct6 />
-      <Wcnct7 />
-      <VoiceLimitType>0</VoiceLimitType>
-      <VoiceLimitPriority>0</VoiceLimitPriority>
-      <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
-      <VoiceLimitPcdlt>0</VoiceLimitPcdlt>
-      <Pan3dVolumeOffset>0</Pan3dVolumeOffset>
-      <Pan3dVolumeGain>1000</Pan3dVolumeGain>
-      <Pan3dAngleOffset>0</Pan3dAngleOffset>
-      <Pan3dAngleGain>1000</Pan3dAngleGain>
-      <Pan3dDistanceOffset>1000</Pan3dDistanceOffset>
-      <Pan3dDistanceGain>1000</Pan3dDistanceGain>
-      <Dry0g>255</Dry0g>
-      <Dry1g>255</Dry1g>
-      <Dry2g>255</Dry2g>
-      <Dry3g>255</Dry3g>
-      <Dry4g>255</Dry4g>
-      <Dry5g>255</Dry5g>
-      <Dry6g>255</Dry6g>
-      <Dry7g>255</Dry7g>
-      <Wet0g>255</Wet0g>
-      <Wet1g>255</Wet1g>
-      <Wet2g>255</Wet2g>
-      <Wet3g>255</Wet3g>
-      <Wet4g>255</Wet4g>
-      <Wet5g>255</Wet5g>
-      <Wet6g>255</Wet6g>
-      <Wet7g>255</Wet7g>
-      <Filter1Type>0</Filter1Type>
-      <Filter1CutoffOffset>0</Filter1CutoffOffset>
-      <Filter1CutoffGain>0</Filter1CutoffGain>
-      <Filter1ResoOffset>0</Filter1ResoOffset>
-      <Filter1ResoGain>0</Filter1ResoGain>
-      <Filter2Type>0</Filter2Type>
-      <Filter2CutoffLowerOffset>0</Filter2CutoffLowerOffset>
-      <Filter2CutoffLowerGain>1000</Filter2CutoffLowerGain>
-      <Filter2CutoffHigherOffset>1000</Filter2CutoffHigherOffset>
-      <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
-      <PlaybackProbability>100</PlaybackProbability>
-      <NLmtChildren>0</NLmtChildren>
-      <Repeat>0</Repeat>
-      <ComboTime>0</ComboTime>
-      <ComboLoopBack>0</ComboLoopBack>
-    </BuilderSynthNode>
-    <BuilderSynthNode>
-      <Name>Synth/0002_voice/999_for_E3/002_system_e/016_SYS03_E07_NA</Name>
-      <Type>WithChildren</Type>
-      <PlaybackType>Polyphonic</PlaybackType>
-      <Children>
-        <string>Synth/0002_voice/999_for_E3/002_system_e/016_SYS03_E07_NA/016_SYS03_E07_NA</string>
-        <string>Synth/0002_voice/999_for_E3/002_system_e/016_SYS03_E07_NA/016_SYS03_E07_NA_1</string>
-      </Children>
-      <Volume>850</Volume>
-      <Pitch>0</Pitch>
-      <DelayTime>0</DelayTime>
-      <SControl>0</SControl>
-      <EgDelay>0</EgDelay>
-      <EgAttack>0</EgAttack>
-      <EgHold>0</EgHold>
-      <EgDecay>0</EgDecay>
-      <EgRelease>0</EgRelease>
-      <EgSustain>1000</EgSustain>
-      <FilterType>0</FilterType>
-      <FilterCutoff1>0</FilterCutoff1>
-      <FilterCutoff2>0</FilterCutoff2>
-      <FilterReso>0</FilterReso>
-      <FilterReleaseOffset>0</FilterReleaseOffset>
-      <DryOName />
-      <Mtxrtr />
-      <Dry0>0</Dry0>
-      <Dry1>0</Dry1>
-      <Dry2>0</Dry2>
-      <Dry3>0</Dry3>
-      <Dry4>0</Dry4>
-      <Dry5>0</Dry5>
-      <Dry6>0</Dry6>
-      <Dry7>0</Dry7>
-      <WetOName />
-      <Wet0>0</Wet0>
-      <Wet1>0</Wet1>
-      <Wet2>0</Wet2>
-      <Wet3>0</Wet3>
-      <Wet4>0</Wet4>
-      <Wet5>0</Wet5>
-      <Wet6>0</Wet6>
-      <Wet7>0</Wet7>
-      <Wcnct0 />
-      <Wcnct1 />
-      <Wcnct2 />
-      <Wcnct3 />
-      <Wcnct4 />
-      <Wcnct5 />
-      <Wcnct6 />
-      <Wcnct7 />
-      <VoiceLimitType>0</VoiceLimitType>
-      <VoiceLimitPriority>0</VoiceLimitPriority>
-      <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
-      <VoiceLimitPcdlt>0</VoiceLimitPcdlt>
-      <Pan3dVolumeOffset>0</Pan3dVolumeOffset>
-      <Pan3dVolumeGain>1000</Pan3dVolumeGain>
-      <Pan3dAngleOffset>0</Pan3dAngleOffset>
-      <Pan3dAngleGain>1000</Pan3dAngleGain>
-      <Pan3dDistanceOffset>0</Pan3dDistanceOffset>
-      <Pan3dDistanceGain>1000</Pan3dDistanceGain>
-      <Dry0g>255</Dry0g>
-      <Dry1g>255</Dry1g>
-      <Dry2g>255</Dry2g>
-      <Dry3g>255</Dry3g>
-      <Dry4g>255</Dry4g>
-      <Dry5g>255</Dry5g>
-      <Dry6g>255</Dry6g>
-      <Dry7g>255</Dry7g>
-      <Wet0g>255</Wet0g>
-      <Wet1g>255</Wet1g>
-      <Wet2g>255</Wet2g>
-      <Wet3g>255</Wet3g>
-      <Wet4g>255</Wet4g>
-      <Wet5g>255</Wet5g>
-      <Wet6g>255</Wet6g>
-      <Wet7g>255</Wet7g>
-      <Filter1Type>0</Filter1Type>
-      <Filter1CutoffOffset>0</Filter1CutoffOffset>
-      <Filter1CutoffGain>0</Filter1CutoffGain>
-      <Filter1ResoOffset>0</Filter1ResoOffset>
-      <Filter1ResoGain>0</Filter1ResoGain>
-      <Filter2Type>0</Filter2Type>
-      <Filter2CutoffLowerOffset>0</Filter2CutoffLowerOffset>
-      <Filter2CutoffLowerGain>1000</Filter2CutoffLowerGain>
-      <Filter2CutoffHigherOffset>0</Filter2CutoffHigherOffset>
-      <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
-      <PlaybackProbability>0</PlaybackProbability>
-      <NLmtChildren>0</NLmtChildren>
-      <Repeat>1</Repeat>
-      <ComboTime>0</ComboTime>
-      <ComboLoopBack>0</ComboLoopBack>
-    </BuilderSynthNode>
-    <BuilderSynthNode>
-      <Name>Synth/0002_voice/999_for_E3/002_system_e/016_SYS03_E07_NA/016_SYS03_E07_NA</Name>
-      <Type>Single</Type>
-      <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference />
-      <Children />
-      <Volume>1000</Volume>
-      <Pitch>10</Pitch>
-      <DelayTime>0</DelayTime>
-      <SControl>0</SControl>
-      <EgDelay>0</EgDelay>
-      <EgAttack>0</EgAttack>
-      <EgHold>0</EgHold>
-      <EgDecay>0</EgDecay>
-      <EgRelease>0</EgRelease>
-      <EgSustain>1000</EgSustain>
-      <FilterType>0</FilterType>
-      <FilterCutoff1>0</FilterCutoff1>
-      <FilterCutoff2>0</FilterCutoff2>
-      <FilterReso>0</FilterReso>
-      <FilterReleaseOffset>0</FilterReleaseOffset>
-      <DryOName />
-      <Mtxrtr />
-      <Dry0>255</Dry0>
-      <Dry1>0</Dry1>
-      <Dry2>0</Dry2>
-      <Dry3>0</Dry3>
-      <Dry4>0</Dry4>
-      <Dry5>0</Dry5>
-      <Dry6>0</Dry6>
-      <Dry7>0</Dry7>
-      <WetOName />
-      <Wet0>0</Wet0>
-      <Wet1>0</Wet1>
-      <Wet2>0</Wet2>
-      <Wet3>0</Wet3>
-      <Wet4>0</Wet4>
-      <Wet5>0</Wet5>
-      <Wet6>0</Wet6>
-      <Wet7>0</Wet7>
-      <Wcnct0 />
-      <Wcnct1 />
-      <Wcnct2 />
-      <Wcnct3 />
-      <Wcnct4 />
-      <Wcnct5 />
-      <Wcnct6 />
-      <Wcnct7 />
-      <VoiceLimitType>0</VoiceLimitType>
-      <VoiceLimitPriority>0</VoiceLimitPriority>
-      <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
-      <VoiceLimitPcdlt>0</VoiceLimitPcdlt>
-      <Pan3dVolumeOffset>0</Pan3dVolumeOffset>
-      <Pan3dVolumeGain>1000</Pan3dVolumeGain>
-      <Pan3dAngleOffset>0</Pan3dAngleOffset>
-      <Pan3dAngleGain>1000</Pan3dAngleGain>
-      <Pan3dDistanceOffset>1000</Pan3dDistanceOffset>
-      <Pan3dDistanceGain>1000</Pan3dDistanceGain>
-      <Dry0g>255</Dry0g>
-      <Dry1g>255</Dry1g>
-      <Dry2g>255</Dry2g>
-      <Dry3g>255</Dry3g>
-      <Dry4g>255</Dry4g>
-      <Dry5g>255</Dry5g>
-      <Dry6g>255</Dry6g>
-      <Dry7g>255</Dry7g>
-      <Wet0g>255</Wet0g>
-      <Wet1g>255</Wet1g>
-      <Wet2g>255</Wet2g>
-      <Wet3g>255</Wet3g>
-      <Wet4g>255</Wet4g>
-      <Wet5g>255</Wet5g>
-      <Wet6g>255</Wet6g>
-      <Wet7g>255</Wet7g>
-      <Filter1Type>0</Filter1Type>
-      <Filter1CutoffOffset>0</Filter1CutoffOffset>
-      <Filter1CutoffGain>0</Filter1CutoffGain>
-      <Filter1ResoOffset>0</Filter1ResoOffset>
-      <Filter1ResoGain>0</Filter1ResoGain>
-      <Filter2Type>0</Filter2Type>
-      <Filter2CutoffLowerOffset>0</Filter2CutoffLowerOffset>
-      <Filter2CutoffLowerGain>1000</Filter2CutoffLowerGain>
-      <Filter2CutoffHigherOffset>1000</Filter2CutoffHigherOffset>
-      <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
-      <PlaybackProbability>100</PlaybackProbability>
-      <NLmtChildren>0</NLmtChildren>
-      <Repeat>0</Repeat>
-      <ComboTime>0</ComboTime>
-      <ComboLoopBack>0</ComboLoopBack>
-    </BuilderSynthNode>
-    <BuilderSynthNode>
-      <Name>Synth/0002_voice/999_for_E3/002_system_e/016_SYS03_E07_NA/016_SYS03_E07_NA_1</Name>
-      <Type>Single</Type>
-      <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference />
-      <Children />
-      <Volume>1000</Volume>
-      <Pitch>-10</Pitch>
-      <DelayTime>0</DelayTime>
-      <SControl>0</SControl>
-      <EgDelay>0</EgDelay>
-      <EgAttack>0</EgAttack>
-      <EgHold>0</EgHold>
-      <EgDecay>0</EgDecay>
-      <EgRelease>0</EgRelease>
-      <EgSustain>1000</EgSustain>
-      <FilterType>0</FilterType>
-      <FilterCutoff1>0</FilterCutoff1>
-      <FilterCutoff2>0</FilterCutoff2>
-      <FilterReso>0</FilterReso>
-      <FilterReleaseOffset>0</FilterReleaseOffset>
-      <DryOName />
-      <Mtxrtr />
-      <Dry0>0</Dry0>
-      <Dry1>255</Dry1>
-      <Dry2>0</Dry2>
-      <Dry3>0</Dry3>
-      <Dry4>0</Dry4>
-      <Dry5>0</Dry5>
-      <Dry6>0</Dry6>
-      <Dry7>0</Dry7>
-      <WetOName />
-      <Wet0>0</Wet0>
-      <Wet1>0</Wet1>
-      <Wet2>0</Wet2>
-      <Wet3>0</Wet3>
-      <Wet4>0</Wet4>
-      <Wet5>0</Wet5>
-      <Wet6>0</Wet6>
-      <Wet7>0</Wet7>
-      <Wcnct0 />
-      <Wcnct1 />
-      <Wcnct2 />
-      <Wcnct3 />
-      <Wcnct4 />
-      <Wcnct5 />
-      <Wcnct6 />
-      <Wcnct7 />
-      <VoiceLimitType>0</VoiceLimitType>
-      <VoiceLimitPriority>0</VoiceLimitPriority>
-      <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
-      <VoiceLimitPcdlt>0</VoiceLimitPcdlt>
-      <Pan3dVolumeOffset>0</Pan3dVolumeOffset>
-      <Pan3dVolumeGain>1000</Pan3dVolumeGain>
-      <Pan3dAngleOffset>0</Pan3dAngleOffset>
-      <Pan3dAngleGain>1000</Pan3dAngleGain>
-      <Pan3dDistanceOffset>1000</Pan3dDistanceOffset>
-      <Pan3dDistanceGain>1000</Pan3dDistanceGain>
-      <Dry0g>255</Dry0g>
-      <Dry1g>255</Dry1g>
-      <Dry2g>255</Dry2g>
-      <Dry3g>255</Dry3g>
-      <Dry4g>255</Dry4g>
-      <Dry5g>255</Dry5g>
-      <Dry6g>255</Dry6g>
-      <Dry7g>255</Dry7g>
-      <Wet0g>255</Wet0g>
-      <Wet1g>255</Wet1g>
-      <Wet2g>255</Wet2g>
-      <Wet3g>255</Wet3g>
-      <Wet4g>255</Wet4g>
-      <Wet5g>255</Wet5g>
-      <Wet6g>255</Wet6g>
-      <Wet7g>255</Wet7g>
-      <Filter1Type>0</Filter1Type>
-      <Filter1CutoffOffset>0</Filter1CutoffOffset>
-      <Filter1CutoffGain>0</Filter1CutoffGain>
-      <Filter1ResoOffset>0</Filter1ResoOffset>
-      <Filter1ResoGain>0</Filter1ResoGain>
-      <Filter2Type>0</Filter2Type>
-      <Filter2CutoffLowerOffset>0</Filter2CutoffLowerOffset>
-      <Filter2CutoffLowerGain>1000</Filter2CutoffLowerGain>
-      <Filter2CutoffHigherOffset>1000</Filter2CutoffHigherOffset>
-      <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
-      <PlaybackProbability>100</PlaybackProbability>
-      <NLmtChildren>0</NLmtChildren>
-      <Repeat>0</Repeat>
-      <ComboTime>0</ComboTime>
-      <ComboLoopBack>0</ComboLoopBack>
-    </BuilderSynthNode>
-    <BuilderSynthNode>
-      <Name>Synth/0002_voice/999_for_E3/002_system_e/017_SYS03_E08_NA</Name>
-      <Type>WithChildren</Type>
-      <PlaybackType>Polyphonic</PlaybackType>
-      <Children>
-        <string>Synth/0002_voice/999_for_E3/002_system_e/017_SYS03_E08_NA/017_SYS03_E08_NA</string>
-        <string>Synth/0002_voice/999_for_E3/002_system_e/017_SYS03_E08_NA/017_SYS03_E08_NA_1</string>
-      </Children>
-      <Volume>899</Volume>
-      <Pitch>0</Pitch>
-      <DelayTime>0</DelayTime>
-      <SControl>0</SControl>
-      <EgDelay>0</EgDelay>
-      <EgAttack>0</EgAttack>
-      <EgHold>0</EgHold>
-      <EgDecay>0</EgDecay>
-      <EgRelease>0</EgRelease>
-      <EgSustain>1000</EgSustain>
-      <FilterType>0</FilterType>
-      <FilterCutoff1>0</FilterCutoff1>
-      <FilterCutoff2>0</FilterCutoff2>
-      <FilterReso>0</FilterReso>
-      <FilterReleaseOffset>0</FilterReleaseOffset>
-      <DryOName />
-      <Mtxrtr />
-      <Dry0>0</Dry0>
-      <Dry1>0</Dry1>
-      <Dry2>0</Dry2>
-      <Dry3>0</Dry3>
-      <Dry4>0</Dry4>
-      <Dry5>0</Dry5>
-      <Dry6>0</Dry6>
-      <Dry7>0</Dry7>
-      <WetOName />
-      <Wet0>0</Wet0>
-      <Wet1>0</Wet1>
-      <Wet2>0</Wet2>
-      <Wet3>0</Wet3>
-      <Wet4>0</Wet4>
-      <Wet5>0</Wet5>
-      <Wet6>0</Wet6>
-      <Wet7>0</Wet7>
-      <Wcnct0 />
-      <Wcnct1 />
-      <Wcnct2 />
-      <Wcnct3 />
-      <Wcnct4 />
-      <Wcnct5 />
-      <Wcnct6 />
-      <Wcnct7 />
-      <VoiceLimitType>0</VoiceLimitType>
-      <VoiceLimitPriority>0</VoiceLimitPriority>
-      <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
-      <VoiceLimitPcdlt>0</VoiceLimitPcdlt>
-      <Pan3dVolumeOffset>0</Pan3dVolumeOffset>
-      <Pan3dVolumeGain>1000</Pan3dVolumeGain>
-      <Pan3dAngleOffset>0</Pan3dAngleOffset>
-      <Pan3dAngleGain>1000</Pan3dAngleGain>
-      <Pan3dDistanceOffset>0</Pan3dDistanceOffset>
-      <Pan3dDistanceGain>1000</Pan3dDistanceGain>
-      <Dry0g>255</Dry0g>
-      <Dry1g>255</Dry1g>
-      <Dry2g>255</Dry2g>
-      <Dry3g>255</Dry3g>
-      <Dry4g>255</Dry4g>
-      <Dry5g>255</Dry5g>
-      <Dry6g>255</Dry6g>
-      <Dry7g>255</Dry7g>
-      <Wet0g>255</Wet0g>
-      <Wet1g>255</Wet1g>
-      <Wet2g>255</Wet2g>
-      <Wet3g>255</Wet3g>
-      <Wet4g>255</Wet4g>
-      <Wet5g>255</Wet5g>
-      <Wet6g>255</Wet6g>
-      <Wet7g>255</Wet7g>
-      <Filter1Type>0</Filter1Type>
-      <Filter1CutoffOffset>0</Filter1CutoffOffset>
-      <Filter1CutoffGain>0</Filter1CutoffGain>
-      <Filter1ResoOffset>0</Filter1ResoOffset>
-      <Filter1ResoGain>0</Filter1ResoGain>
-      <Filter2Type>0</Filter2Type>
-      <Filter2CutoffLowerOffset>0</Filter2CutoffLowerOffset>
-      <Filter2CutoffLowerGain>1000</Filter2CutoffLowerGain>
-      <Filter2CutoffHigherOffset>0</Filter2CutoffHigherOffset>
-      <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
-      <PlaybackProbability>0</PlaybackProbability>
-      <NLmtChildren>0</NLmtChildren>
-      <Repeat>1</Repeat>
-      <ComboTime>0</ComboTime>
-      <ComboLoopBack>0</ComboLoopBack>
-    </BuilderSynthNode>
-    <BuilderSynthNode>
-      <Name>Synth/0002_voice/999_for_E3/002_system_e/017_SYS03_E08_NA/017_SYS03_E08_NA</Name>
-      <Type>Single</Type>
-      <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference />
-      <Children />
-      <Volume>1000</Volume>
-      <Pitch>10</Pitch>
-      <DelayTime>0</DelayTime>
-      <SControl>0</SControl>
-      <EgDelay>0</EgDelay>
-      <EgAttack>0</EgAttack>
-      <EgHold>0</EgHold>
-      <EgDecay>0</EgDecay>
-      <EgRelease>0</EgRelease>
-      <EgSustain>1000</EgSustain>
-      <FilterType>0</FilterType>
-      <FilterCutoff1>0</FilterCutoff1>
-      <FilterCutoff2>0</FilterCutoff2>
-      <FilterReso>0</FilterReso>
-      <FilterReleaseOffset>0</FilterReleaseOffset>
-      <DryOName />
-      <Mtxrtr />
-      <Dry0>255</Dry0>
-      <Dry1>0</Dry1>
-      <Dry2>0</Dry2>
-      <Dry3>0</Dry3>
-      <Dry4>0</Dry4>
-      <Dry5>0</Dry5>
-      <Dry6>0</Dry6>
-      <Dry7>0</Dry7>
-      <WetOName />
-      <Wet0>0</Wet0>
-      <Wet1>0</Wet1>
-      <Wet2>0</Wet2>
-      <Wet3>0</Wet3>
-      <Wet4>0</Wet4>
-      <Wet5>0</Wet5>
-      <Wet6>0</Wet6>
-      <Wet7>0</Wet7>
-      <Wcnct0 />
-      <Wcnct1 />
-      <Wcnct2 />
-      <Wcnct3 />
-      <Wcnct4 />
-      <Wcnct5 />
-      <Wcnct6 />
-      <Wcnct7 />
-      <VoiceLimitType>0</VoiceLimitType>
-      <VoiceLimitPriority>0</VoiceLimitPriority>
-      <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
-      <VoiceLimitPcdlt>0</VoiceLimitPcdlt>
-      <Pan3dVolumeOffset>0</Pan3dVolumeOffset>
-      <Pan3dVolumeGain>1000</Pan3dVolumeGain>
-      <Pan3dAngleOffset>0</Pan3dAngleOffset>
-      <Pan3dAngleGain>1000</Pan3dAngleGain>
-      <Pan3dDistanceOffset>1000</Pan3dDistanceOffset>
-      <Pan3dDistanceGain>1000</Pan3dDistanceGain>
-      <Dry0g>255</Dry0g>
-      <Dry1g>255</Dry1g>
-      <Dry2g>255</Dry2g>
-      <Dry3g>255</Dry3g>
-      <Dry4g>255</Dry4g>
-      <Dry5g>255</Dry5g>
-      <Dry6g>255</Dry6g>
-      <Dry7g>255</Dry7g>
-      <Wet0g>255</Wet0g>
-      <Wet1g>255</Wet1g>
-      <Wet2g>255</Wet2g>
-      <Wet3g>255</Wet3g>
-      <Wet4g>255</Wet4g>
-      <Wet5g>255</Wet5g>
-      <Wet6g>255</Wet6g>
-      <Wet7g>255</Wet7g>
-      <Filter1Type>0</Filter1Type>
-      <Filter1CutoffOffset>0</Filter1CutoffOffset>
-      <Filter1CutoffGain>0</Filter1CutoffGain>
-      <Filter1ResoOffset>0</Filter1ResoOffset>
-      <Filter1ResoGain>0</Filter1ResoGain>
-      <Filter2Type>0</Filter2Type>
-      <Filter2CutoffLowerOffset>0</Filter2CutoffLowerOffset>
-      <Filter2CutoffLowerGain>1000</Filter2CutoffLowerGain>
-      <Filter2CutoffHigherOffset>1000</Filter2CutoffHigherOffset>
-      <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
-      <PlaybackProbability>100</PlaybackProbability>
-      <NLmtChildren>0</NLmtChildren>
-      <Repeat>0</Repeat>
-      <ComboTime>0</ComboTime>
-      <ComboLoopBack>0</ComboLoopBack>
-    </BuilderSynthNode>
-    <BuilderSynthNode>
-      <Name>Synth/0002_voice/999_for_E3/002_system_e/017_SYS03_E08_NA/017_SYS03_E08_NA_1</Name>
-      <Type>Single</Type>
-      <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference />
       <Children />
       <Volume>1000</Volume>
       <Pitch>-10</Pitch>
