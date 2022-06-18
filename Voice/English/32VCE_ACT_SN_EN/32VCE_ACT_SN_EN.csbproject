@@ -9965,6 +9965,15 @@
       <SampleCount>54822</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
+      <Name>Synth/0003_object/000_common/036_0017_objsn_trickjump_ok_aif</Name>
+      <Intro>Synth_0003_object_000_common_036_0017_objsn_trickjump_ok_aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>32000</SampleRate>
+      <SampleCount>46505</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
       <Name>Synth/999_for_E3/000_sonic_action_e/000_ACT00_EDummy_SN</Name>
       <Intro>000_ACT00_EDummy_SN.adx</Intro>
       <Loop />
@@ -9980,6 +9989,15 @@
       <Streaming>false</Streaming>
       <SampleRate>28000</SampleRate>
       <SampleCount>45363</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth/0003_object/000_common/076_objsn_trickjump_ok_05_02_aif</Name>
+      <Intro>Synth_0003_object_000_common_076_objsn_trickjump_ok_05_02_aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>32000</SampleRate>
+      <SampleCount>44220</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/999_for_E3/000_sonic_action_e/004_ACT01_E06_SN_g_wav</Name>
