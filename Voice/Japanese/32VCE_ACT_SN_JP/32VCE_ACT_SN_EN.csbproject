@@ -577,7 +577,7 @@
     <BuilderSynthNode>
       <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_002_stumble</Name>
       <Type>WithChildren</Type>
-      <PlaybackType>RandomNoRepeat</PlaybackType>
+      <PlaybackType>Polyphonic</PlaybackType>
       <Children>
         <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_002_stumble/vj_ACT01_E11_sn_wav</string>
       </Children>
@@ -844,7 +844,7 @@
       <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
       <PlaybackProbability>0</PlaybackProbability>
       <NLmtChildren>0</NLmtChildren>
-      <Repeat>1</Repeat>
+      <Repeat>0</Repeat>
       <ComboTime>0</ComboTime>
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
@@ -1026,7 +1026,7 @@
       <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
       <PlaybackProbability>0</PlaybackProbability>
       <NLmtChildren>0</NLmtChildren>
-      <Repeat>1</Repeat>
+      <Repeat>0</Repeat>
       <ComboTime>0</ComboTime>
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
@@ -1208,7 +1208,7 @@
       <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
       <PlaybackProbability>0</PlaybackProbability>
       <NLmtChildren>0</NLmtChildren>
-      <Repeat>1</Repeat>
+      <Repeat>0</Repeat>
       <ComboTime>0</ComboTime>
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
@@ -1390,7 +1390,7 @@
       <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
       <PlaybackProbability>0</PlaybackProbability>
       <NLmtChildren>0</NLmtChildren>
-      <Repeat>1</Repeat>
+      <Repeat>0</Repeat>
       <ComboTime>0</ComboTime>
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
@@ -1572,7 +1572,7 @@
       <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
       <PlaybackProbability>0</PlaybackProbability>
       <NLmtChildren>0</NLmtChildren>
-      <Repeat>1</Repeat>
+      <Repeat>0</Repeat>
       <ComboTime>0</ComboTime>
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
@@ -1754,7 +1754,7 @@
       <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
       <PlaybackProbability>0</PlaybackProbability>
       <NLmtChildren>0</NLmtChildren>
-      <Repeat>1</Repeat>
+      <Repeat>0</Repeat>
       <ComboTime>0</ComboTime>
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
@@ -1936,7 +1936,7 @@
       <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
       <PlaybackProbability>0</PlaybackProbability>
       <NLmtChildren>0</NLmtChildren>
-      <Repeat>1</Repeat>
+      <Repeat>0</Repeat>
       <ComboTime>0</ComboTime>
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
@@ -2033,7 +2033,7 @@
     <BuilderSynthNode>
       <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_010_strain</Name>
       <Type>WithChildren</Type>
-      <PlaybackType>RandomNoRepeat</PlaybackType>
+      <PlaybackType>Polyphonic</PlaybackType>
       <Children>
         <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_010_strain/vj_ACT01_E16_sn_wav</string>
       </Children>
@@ -2300,7 +2300,7 @@
       <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
       <PlaybackProbability>0</PlaybackProbability>
       <NLmtChildren>0</NLmtChildren>
-      <Repeat>1</Repeat>
+      <Repeat>0</Repeat>
       <ComboTime>0</ComboTime>
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
@@ -2482,7 +2482,7 @@
       <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
       <PlaybackProbability>0</PlaybackProbability>
       <NLmtChildren>0</NLmtChildren>
-      <Repeat>1</Repeat>
+      <Repeat>0</Repeat>
       <ComboTime>0</ComboTime>
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
@@ -2579,7 +2579,7 @@
     <BuilderSynthNode>
       <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_013_success01</Name>
       <Type>WithChildren</Type>
-      <PlaybackType>Random</PlaybackType>
+      <PlaybackType>Polyphonic</PlaybackType>
       <Children>
         <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_013_success01/vj_ACT01_E16_sn_wav</string>
       </Children>
@@ -2664,7 +2664,7 @@
       <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
       <PlaybackProbability>0</PlaybackProbability>
       <NLmtChildren>0</NLmtChildren>
-      <Repeat>1</Repeat>
+      <Repeat>0</Repeat>
       <ComboTime>0</ComboTime>
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
@@ -2846,7 +2846,7 @@
       <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
       <PlaybackProbability>0</PlaybackProbability>
       <NLmtChildren>0</NLmtChildren>
-      <Repeat>1</Repeat>
+      <Repeat>0</Repeat>
       <ComboTime>0</ComboTime>
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
@@ -3028,7 +3028,7 @@
       <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
       <PlaybackProbability>0</PlaybackProbability>
       <NLmtChildren>0</NLmtChildren>
-      <Repeat>1</Repeat>
+      <Repeat>0</Repeat>
       <ComboTime>0</ComboTime>
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
@@ -3210,7 +3210,7 @@
       <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
       <PlaybackProbability>0</PlaybackProbability>
       <NLmtChildren>0</NLmtChildren>
-      <Repeat>1</Repeat>
+      <Repeat>0</Repeat>
       <ComboTime>0</ComboTime>
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
@@ -3911,7 +3911,7 @@
     <BuilderSynthNode>
       <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_020_action08</Name>
       <Type>WithChildren</Type>
-      <PlaybackType>RandomNoRepeat</PlaybackType>
+      <PlaybackType>Polyphonic</PlaybackType>
       <Children>
         <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_020_action08/vj_ACT01_E16_sn_wav</string>
       </Children>
@@ -4637,7 +4637,7 @@
         <string>Synth/0002_voice/999_for_E3/002_system_e/002_SYS02_E01_NA/002_SYS02_E01_NA_1</string>
         <string>Synth/0002_voice/999_for_E3/002_system_e/002_SYS02_E01_NA/002_SYS02_E01_Jingles</string>
       </Children>
-      <Volume>879</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>150</DelayTime>
       <SControl>0</SControl>
@@ -4717,7 +4717,7 @@
       <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
       <PlaybackProbability>0</PlaybackProbability>
       <NLmtChildren>0</NLmtChildren>
-      <Repeat>1</Repeat>
+      <Repeat>0</Repeat>
       <ComboTime>0</ComboTime>
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
@@ -5308,7 +5308,7 @@
         <string>Synth/0002_voice/999_for_E3/002_system_e/003_SYS02_E02_NA/003_SYS02_E02_NA</string>
         <string>Synth/0002_voice/999_for_E3/002_system_e/003_SYS02_E02_NA/003_SYS02_E02_NA_1</string>
       </Children>
-      <Volume>850</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>150</DelayTime>
       <SControl>0</SControl>
@@ -5388,7 +5388,7 @@
       <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
       <PlaybackProbability>0</PlaybackProbability>
       <NLmtChildren>0</NLmtChildren>
-      <Repeat>1</Repeat>
+      <Repeat>0</Repeat>
       <ComboTime>0</ComboTime>
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
@@ -5580,7 +5580,7 @@
         <string>Synth/0002_voice/999_for_E3/002_system_e/004_SYS02_E03_NA/004_SYS02_E03_NA</string>
         <string>Synth/0002_voice/999_for_E3/002_system_e/004_SYS02_E03_NA/004_SYS02_E03_NA_1</string>
       </Children>
-      <Volume>850</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>150</DelayTime>
       <SControl>0</SControl>
@@ -5660,7 +5660,7 @@
       <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
       <PlaybackProbability>0</PlaybackProbability>
       <NLmtChildren>0</NLmtChildren>
-      <Repeat>1</Repeat>
+      <Repeat>0</Repeat>
       <ComboTime>0</ComboTime>
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
@@ -5852,7 +5852,7 @@
         <string>Synth/0002_voice/999_for_E3/002_system_e/005_SYS02_E04_NA/005_SYS02_E04_NA</string>
         <string>Synth/0002_voice/999_for_E3/002_system_e/005_SYS02_E04_NA/005_SYS02_E04_NA_1</string>
       </Children>
-      <Volume>850</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>150</DelayTime>
       <SControl>0</SControl>
@@ -5932,7 +5932,7 @@
       <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
       <PlaybackProbability>0</PlaybackProbability>
       <NLmtChildren>0</NLmtChildren>
-      <Repeat>1</Repeat>
+      <Repeat>0</Repeat>
       <ComboTime>0</ComboTime>
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
@@ -6124,7 +6124,7 @@
         <string>Synth/0002_voice/999_for_E3/002_system_e/007_SYS02_E06_NA/007_SYS02_E06_NA</string>
         <string>Synth/0002_voice/999_for_E3/002_system_e/007_SYS02_E06_NA/007_SYS02_E06_NA_1</string>
       </Children>
-      <Volume>850</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>150</DelayTime>
       <SControl>0</SControl>
@@ -6204,7 +6204,7 @@
       <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
       <PlaybackProbability>0</PlaybackProbability>
       <NLmtChildren>0</NLmtChildren>
-      <Repeat>1</Repeat>
+      <Repeat>0</Repeat>
       <ComboTime>0</ComboTime>
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
@@ -6396,7 +6396,7 @@
         <string>Synth/0002_voice/999_for_E3/002_system_e/018_SYS03_E09_NA/018_SYS03_E09_NA</string>
         <string>Synth/0002_voice/999_for_E3/002_system_e/018_SYS03_E09_NA/018_SYS03_E09_NA_1</string>
       </Children>
-      <Volume>850</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -6476,7 +6476,7 @@
       <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
       <PlaybackProbability>0</PlaybackProbability>
       <NLmtChildren>0</NLmtChildren>
-      <Repeat>1</Repeat>
+      <Repeat>0</Repeat>
       <ComboTime>0</ComboTime>
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
@@ -6668,7 +6668,7 @@
         <string>Synth/0002_voice/999_for_E3/002_system_e/019_SYS03_E10_NA/019_SYS02_E09_NA</string>
         <string>Synth/0002_voice/999_for_E3/002_system_e/019_SYS03_E10_NA/019_SYS02_E09_NA_1</string>
       </Children>
-      <Volume>850</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -6748,7 +6748,7 @@
       <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
       <PlaybackProbability>0</PlaybackProbability>
       <NLmtChildren>0</NLmtChildren>
-      <Repeat>1</Repeat>
+      <Repeat>0</Repeat>
       <ComboTime>0</ComboTime>
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
