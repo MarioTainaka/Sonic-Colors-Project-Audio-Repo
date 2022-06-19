@@ -4911,7 +4911,7 @@
         <string>Synth/0002_voice/999_for_E3/002_system_e/002_SYS02_E01_NA/002_SYS02_E01_Jingles/076_objsn_trickjump_ok_05_02_aif_0</string>
         <string>Synth/0002_voice/999_for_E3/002_system_e/002_SYS02_E01_NA/002_SYS02_E01_Jingles/076_objsn_trickjump_ok_05_02_aif_1</string>
       </Children>
-      <Volume>1000</Volume>
+      <Volume>600</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
