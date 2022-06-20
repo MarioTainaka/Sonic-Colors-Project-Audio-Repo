@@ -24,7 +24,7 @@
       }
    ],
    "Enums":{
-      "BGMEnum":[
+      "VoiceEnum":[
          {
             "DisplayName":"Sonic Colors Ultimate",
             "Value":"Rainbow",
