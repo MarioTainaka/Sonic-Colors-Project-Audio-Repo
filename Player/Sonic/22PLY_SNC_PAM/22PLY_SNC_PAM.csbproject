@@ -15033,7 +15033,7 @@
       <Children />
       <Volume>1000</Volume>
       <Pitch>0</Pitch>
-      <DelayTime>0</DelayTime>
+      <DelayTime>597</DelayTime>
       <SControl>0</SControl>
       <EgDelay>0</EgDelay>
       <EgAttack>0</EgAttack>
@@ -15213,7 +15213,7 @@
       <Children />
       <Volume>449</Volume>
       <Pitch>0</Pitch>
-      <DelayTime>0</DelayTime>
+      <DelayTime>877</DelayTime>
       <SControl>0</SControl>
       <EgDelay>0</EgDelay>
       <EgAttack>0</EgAttack>
@@ -15579,7 +15579,7 @@
       <Children />
       <Volume>629</Volume>
       <Pitch>0</Pitch>
-      <DelayTime>0</DelayTime>
+      <DelayTime>890</DelayTime>
       <SControl>0</SControl>
       <EgDelay>0</EgDelay>
       <EgAttack>0</EgAttack>
@@ -15759,7 +15759,7 @@
       <Children />
       <Volume>699</Volume>
       <Pitch>0</Pitch>
-      <DelayTime>0</DelayTime>
+      <DelayTime>970</DelayTime>
       <SControl>0</SControl>
       <EgDelay>0</EgDelay>
       <EgAttack>0</EgAttack>
@@ -15939,7 +15939,7 @@
       <Children />
       <Volume>750</Volume>
       <Pitch>0</Pitch>
-      <DelayTime>0</DelayTime>
+      <DelayTime>1070</DelayTime>
       <SControl>0</SControl>
       <EgDelay>0</EgDelay>
       <EgAttack>0</EgAttack>
@@ -16305,7 +16305,7 @@
       <Children />
       <Volume>839</Volume>
       <Pitch>0</Pitch>
-      <DelayTime>0</DelayTime>
+      <DelayTime>1464</DelayTime>
       <SControl>0</SControl>
       <EgDelay>0</EgDelay>
       <EgAttack>0</EgAttack>
@@ -16485,7 +16485,7 @@
       <Children />
       <Volume>490</Volume>
       <Pitch>0</Pitch>
-      <DelayTime>0</DelayTime>
+      <DelayTime>2299</DelayTime>
       <SControl>0</SControl>
       <EgDelay>0</EgDelay>
       <EgAttack>0</EgAttack>
@@ -16668,8 +16668,8 @@
         <string>Synth/0001_player/000_sonic/105_sn_start_normal05/gravity/101_sn_start2_1</string>
       </Children>
       <Volume>449</Volume>
-      <Pitch>0</Pitch>
-      <DelayTime>0</DelayTime>
+      <Pitch>650</Pitch>
+      <DelayTime>600</DelayTime>
       <SControl>0</SControl>
       <EgDelay>0</EgDelay>
       <EgAttack>0</EgAttack>
@@ -17389,7 +17389,7 @@
       <Children />
       <Volume>1000</Volume>
       <Pitch>10</Pitch>
-      <DelayTime>0</DelayTime>
+      <DelayTime>10</DelayTime>
       <SControl>0</SControl>
       <EgDelay>0</EgDelay>
       <EgAttack>0</EgAttack>
@@ -17755,7 +17755,7 @@
       <Children />
       <Volume>699</Volume>
       <Pitch>0</Pitch>
-      <DelayTime>0</DelayTime>
+      <DelayTime>1839</DelayTime>
       <SControl>0</SControl>
       <EgDelay>0</EgDelay>
       <EgAttack>0</EgAttack>
@@ -17935,7 +17935,7 @@
       <Children />
       <Volume>649</Volume>
       <Pitch>0</Pitch>
-      <DelayTime>0</DelayTime>
+      <DelayTime>2335</DelayTime>
       <SControl>0</SControl>
       <EgDelay>0</EgDelay>
       <EgAttack>0</EgAttack>
@@ -18115,7 +18115,7 @@
       <Children />
       <Volume>1000</Volume>
       <Pitch>0</Pitch>
-      <DelayTime>0</DelayTime>
+      <DelayTime>2914</DelayTime>
       <SControl>0</SControl>
       <EgDelay>0</EgDelay>
       <EgAttack>0</EgAttack>
@@ -18297,7 +18297,7 @@
       <Children />
       <Volume>649</Volume>
       <Pitch>0</Pitch>
-      <DelayTime>0</DelayTime>
+      <DelayTime>325</DelayTime>
       <SControl>0</SControl>
       <EgDelay>0</EgDelay>
       <EgAttack>0</EgAttack>
@@ -18387,7 +18387,7 @@
       <Children />
       <Volume>1000</Volume>
       <Pitch>0</Pitch>
-      <DelayTime>0</DelayTime>
+      <DelayTime>2854</DelayTime>
       <SControl>0</SControl>
       <EgDelay>0</EgDelay>
       <EgAttack>0</EgAttack>
@@ -18569,7 +18569,7 @@
       <Children />
       <Volume>750</Volume>
       <Pitch>0</Pitch>
-      <DelayTime>0</DelayTime>
+      <DelayTime>1255</DelayTime>
       <SControl>0</SControl>
       <EgDelay>0</EgDelay>
       <EgAttack>0</EgAttack>
@@ -18659,7 +18659,7 @@
       <Children />
       <Volume>699</Volume>
       <Pitch>0</Pitch>
-      <DelayTime>0</DelayTime>
+      <DelayTime>1146</DelayTime>
       <SControl>0</SControl>
       <EgDelay>0</EgDelay>
       <EgAttack>0</EgAttack>
@@ -18844,7 +18844,7 @@
       <Children />
       <Volume>649</Volume>
       <Pitch>0</Pitch>
-      <DelayTime>0</DelayTime>
+      <DelayTime>1280</DelayTime>
       <SControl>0</SControl>
       <EgDelay>0</EgDelay>
       <EgAttack>0</EgAttack>
@@ -18934,7 +18934,7 @@
       <Children />
       <Volume>699</Volume>
       <Pitch>0</Pitch>
-      <DelayTime>0</DelayTime>
+      <DelayTime>1877</DelayTime>
       <SControl>0</SControl>
       <EgDelay>0</EgDelay>
       <EgAttack>0</EgAttack>
@@ -19024,7 +19024,7 @@
       <Children />
       <Volume>1000</Volume>
       <Pitch>0</Pitch>
-      <DelayTime>0</DelayTime>
+      <DelayTime>2378</DelayTime>
       <SControl>0</SControl>
       <EgDelay>0</EgDelay>
       <EgAttack>0</EgAttack>
@@ -19114,7 +19114,7 @@
       <Children />
       <Volume>349</Volume>
       <Pitch>0</Pitch>
-      <DelayTime>0</DelayTime>
+      <DelayTime>740</DelayTime>
       <SControl>0</SControl>
       <EgDelay>0</EgDelay>
       <EgAttack>0</EgAttack>
@@ -19205,7 +19205,7 @@
       <Children />
       <Volume>400</Volume>
       <Pitch>0</Pitch>
-      <DelayTime>0</DelayTime>
+      <DelayTime>731</DelayTime>
       <SControl>0</SControl>
       <EgDelay>0</EgDelay>
       <EgAttack>0</EgAttack>
@@ -19570,7 +19570,7 @@
       <Children />
       <Volume>649</Volume>
       <Pitch>0</Pitch>
-      <DelayTime>0</DelayTime>
+      <DelayTime>330</DelayTime>
       <SControl>0</SControl>
       <EgDelay>0</EgDelay>
       <EgAttack>0</EgAttack>
@@ -19750,7 +19750,7 @@
       <Children />
       <Volume>1000</Volume>
       <Pitch>0</Pitch>
-      <DelayTime>0</DelayTime>
+      <DelayTime>1600</DelayTime>
       <SControl>0</SControl>
       <EgDelay>0</EgDelay>
       <EgAttack>0</EgAttack>
