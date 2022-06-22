@@ -21675,7 +21675,7 @@
       <Type>WithChildren</Type>
       <PlaybackType>Polyphonic</PlaybackType>
       <Children>
-        <string>Synth/0001_player/start_anim/105_sn_start_normal05/105_sn_start_normal05_gravity_0/101_sn_start_aif</string>
+        <string>Synth/0001_player/start_anim/105_sn_start_normal05/105_sn_start_normal05_gravity_0/101_sn_start2_aif</string>
       </Children>
       <Volume>449</Volume>
       <Pitch>650</Pitch>
@@ -21751,10 +21751,10 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/0001_player/start_anim/105_sn_start_normal05/105_sn_start_normal05_gravity_0/101_sn_start_aif</Name>
+      <Name>Synth/0001_player/start_anim/105_sn_start_normal05/105_sn_start_normal05_gravity_0/101_sn_start2_aif</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/0001_player/000_sonic/101_sn_start_aif</SoundElementReference>
+      <SoundElementReference>Synth/0001_player/000_sonic/101_sn_start2_aif</SoundElementReference>
       <Children />
       <Volume>1000</Volume>
       <Pitch>-10</Pitch>
