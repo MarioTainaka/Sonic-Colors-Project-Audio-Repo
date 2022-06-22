@@ -15,7 +15,7 @@ sn_start_normal05_gravity_0=5002096
 sn_start_normal05_gravity_1=5002097
 
 sn_start_normal07_0=5002098
-sn_start_normal07_1=5002098
+sn_start_normal07_1=5002099
 sn_start_normal07_2=5002100
 
 
