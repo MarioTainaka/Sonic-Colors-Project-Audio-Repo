@@ -452,49 +452,49 @@
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>sn_start_normal00</Name>
-      <Identifier>2002089</Identifier>
+      <Identifier>5002089</Identifier>
       <SynthReference>Synth/0001_player/000_sonic/101_sn_start_normal01</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>sn_start_normal02</Name>
-      <Identifier>2002090</Identifier>
+      <Identifier>5002090</Identifier>
       <SynthReference>Synth/0001_player/000_sonic/102_sn_start_normal02</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>sn_start_normal04</Name>
-      <Identifier>2002091</Identifier>
+      <Identifier>5002091</Identifier>
       <SynthReference>Synth/0001_player/000_sonic/105_sn_start_normal05</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>sn_start_normal06</Name>
-      <Identifier>2002092</Identifier>
+      <Identifier>5002092</Identifier>
       <SynthReference>Synth/0001_player/000_sonic/107_sn_start_normal07</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>sn_start_wait00</Name>
-      <Identifier>2002093</Identifier>
+      <Identifier>5002093</Identifier>
       <SynthReference>Synth/0001_player/000_sonic/108_sn_start_wait00</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>sn_start_normal00_sv</Name>
-      <Identifier>2002094</Identifier>
+      <Identifier>5002094</Identifier>
       <SynthReference>Synth/0001_player/000_sonic/109_sn_start_normal00_sv</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>sn_start_wait00_sv</Name>
-      <Identifier>2002095</Identifier>
+      <Identifier>5002095</Identifier>
       <SynthReference>Synth/0001_player/000_sonic/110_sn_start_wait00_sv</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>sn_start_wait01_sv</Name>
-      <Identifier>2002096</Identifier>
+      <Identifier>5002096</Identifier>
       <SynthReference>Synth/0001_player/000_sonic/111_sn_start_wait01_sv</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
@@ -15033,7 +15033,7 @@
       <Children />
       <Volume>1000</Volume>
       <Pitch>0</Pitch>
-      <DelayTime>597</DelayTime>
+      <DelayTime>0</DelayTime>
       <SControl>0</SControl>
       <EgDelay>0</EgDelay>
       <EgAttack>0</EgAttack>
@@ -15213,7 +15213,7 @@
       <Children />
       <Volume>449</Volume>
       <Pitch>0</Pitch>
-      <DelayTime>877</DelayTime>
+      <DelayTime>280</DelayTime>
       <SControl>0</SControl>
       <EgDelay>0</EgDelay>
       <EgAttack>0</EgAttack>
@@ -15579,7 +15579,7 @@
       <Children />
       <Volume>629</Volume>
       <Pitch>0</Pitch>
-      <DelayTime>890</DelayTime>
+      <DelayTime>0</DelayTime>
       <SControl>0</SControl>
       <EgDelay>0</EgDelay>
       <EgAttack>0</EgAttack>
@@ -15759,7 +15759,7 @@
       <Children />
       <Volume>699</Volume>
       <Pitch>0</Pitch>
-      <DelayTime>970</DelayTime>
+      <DelayTime>80</DelayTime>
       <SControl>0</SControl>
       <EgDelay>0</EgDelay>
       <EgAttack>0</EgAttack>
@@ -15939,7 +15939,7 @@
       <Children />
       <Volume>750</Volume>
       <Pitch>0</Pitch>
-      <DelayTime>1070</DelayTime>
+      <DelayTime>180</DelayTime>
       <SControl>0</SControl>
       <EgDelay>0</EgDelay>
       <EgAttack>0</EgAttack>
@@ -17755,7 +17755,7 @@
       <Children />
       <Volume>699</Volume>
       <Pitch>0</Pitch>
-      <DelayTime>1839</DelayTime>
+      <DelayTime>0</DelayTime>
       <SControl>0</SControl>
       <EgDelay>0</EgDelay>
       <EgAttack>0</EgAttack>
@@ -17935,7 +17935,7 @@
       <Children />
       <Volume>649</Volume>
       <Pitch>0</Pitch>
-      <DelayTime>2335</DelayTime>
+      <DelayTime>496</DelayTime>
       <SControl>0</SControl>
       <EgDelay>0</EgDelay>
       <EgAttack>0</EgAttack>
@@ -18115,7 +18115,7 @@
       <Children />
       <Volume>1000</Volume>
       <Pitch>0</Pitch>
-      <DelayTime>2914</DelayTime>
+      <DelayTime>1075</DelayTime>
       <SControl>0</SControl>
       <EgDelay>0</EgDelay>
       <EgAttack>0</EgAttack>
@@ -18387,7 +18387,7 @@
       <Children />
       <Volume>1000</Volume>
       <Pitch>0</Pitch>
-      <DelayTime>2854</DelayTime>
+      <DelayTime>2529</DelayTime>
       <SControl>0</SControl>
       <EgDelay>0</EgDelay>
       <EgAttack>0</EgAttack>
@@ -18569,7 +18569,7 @@
       <Children />
       <Volume>750</Volume>
       <Pitch>0</Pitch>
-      <DelayTime>1255</DelayTime>
+      <DelayTime>109</DelayTime>
       <SControl>0</SControl>
       <EgDelay>0</EgDelay>
       <EgAttack>0</EgAttack>
@@ -18659,7 +18659,7 @@
       <Children />
       <Volume>699</Volume>
       <Pitch>0</Pitch>
-      <DelayTime>1146</DelayTime>
+      <DelayTime>0</DelayTime>
       <SControl>0</SControl>
       <EgDelay>0</EgDelay>
       <EgAttack>0</EgAttack>
@@ -18844,7 +18844,7 @@
       <Children />
       <Volume>649</Volume>
       <Pitch>0</Pitch>
-      <DelayTime>1280</DelayTime>
+      <DelayTime>549</DelayTime>
       <SControl>0</SControl>
       <EgDelay>0</EgDelay>
       <EgAttack>0</EgAttack>
@@ -18934,7 +18934,7 @@
       <Children />
       <Volume>699</Volume>
       <Pitch>0</Pitch>
-      <DelayTime>1877</DelayTime>
+      <DelayTime>1146</DelayTime>
       <SControl>0</SControl>
       <EgDelay>0</EgDelay>
       <EgAttack>0</EgAttack>
@@ -19024,7 +19024,7 @@
       <Children />
       <Volume>1000</Volume>
       <Pitch>0</Pitch>
-      <DelayTime>2378</DelayTime>
+      <DelayTime>1647</DelayTime>
       <SControl>0</SControl>
       <EgDelay>0</EgDelay>
       <EgAttack>0</EgAttack>
@@ -19114,7 +19114,7 @@
       <Children />
       <Volume>349</Volume>
       <Pitch>0</Pitch>
-      <DelayTime>740</DelayTime>
+      <DelayTime>9</DelayTime>
       <SControl>0</SControl>
       <EgDelay>0</EgDelay>
       <EgAttack>0</EgAttack>
@@ -19205,7 +19205,7 @@
       <Children />
       <Volume>400</Volume>
       <Pitch>0</Pitch>
-      <DelayTime>731</DelayTime>
+      <DelayTime>0</DelayTime>
       <SControl>0</SControl>
       <EgDelay>0</EgDelay>
       <EgAttack>0</EgAttack>
@@ -19570,7 +19570,7 @@
       <Children />
       <Volume>649</Volume>
       <Pitch>0</Pitch>
-      <DelayTime>330</DelayTime>
+      <DelayTime>0</DelayTime>
       <SControl>0</SControl>
       <EgDelay>0</EgDelay>
       <EgAttack>0</EgAttack>
@@ -19750,7 +19750,7 @@
       <Children />
       <Volume>1000</Volume>
       <Pitch>0</Pitch>
-      <DelayTime>1600</DelayTime>
+      <DelayTime>1270</DelayTime>
       <SControl>0</SControl>
       <EgDelay>0</EgDelay>
       <EgAttack>0</EgAttack>
