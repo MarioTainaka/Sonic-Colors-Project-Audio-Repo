@@ -4,21 +4,21 @@
   <CueNodes>
     <BuilderCueNode>
       <Name>bgm_stg110_rso</Name>
-      <Identifier>1000</Identifier>
+      <Id>1000</Id>
       <SynthReference>Synth/bgm_stg110_rso</SynthReference>
       <UserComment />
       <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>bgm_stg120_rso</Name>
-      <Identifier>1001</Identifier>
+      <Id>1001</Id>
       <SynthReference>Synth/bgm_stg120_rso</SynthReference>
       <UserComment />
       <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>bgm_stg130_rso</Name>
-      <Identifier>1002</Identifier>
+      <Id>1002</Id>
       <SynthReference>Synth/bgm_stg130_rso</SynthReference>
       <UserComment />
       <Flags>1</Flags>

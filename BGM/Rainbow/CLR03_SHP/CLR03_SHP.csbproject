@@ -4,21 +4,21 @@
   <CueNodes>
     <BuilderCueNode>
       <Name>bgm_stg310_shp</Name>
-      <Identifier>1020</Identifier>
+      <Id>1020</Id>
       <SynthReference>Synth/bgm_stg310_shp</SynthReference>
       <UserComment />
       <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>bgm_stg320_shp</Name>
-      <Identifier>1021</Identifier>
+      <Id>1021</Id>
       <SynthReference>Synth/bgm_stg320_shp</SynthReference>
       <UserComment />
       <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>bgm_stg330_shp</Name>
-      <Identifier>1022</Identifier>
+      <Id>1022</Id>
       <SynthReference>Synth/bgm_stg330_shp</SynthReference>
       <UserComment />
       <Flags>1</Flags>
