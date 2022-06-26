@@ -4,21 +4,21 @@
   <CueNodes>
     <BuilderCueNode>
       <Name>bgm_stg710_elv</Name>
-      <Identifier>1060</Identifier>
+      <Id>1060</Id>
       <SynthReference>Synth/bgm_stg710_elv</SynthReference>
       <UserComment />
       <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>bgm_stg720_elv</Name>
-      <Identifier>1061</Identifier>
+      <Id>1061</Id>
       <SynthReference>Synth/bgm_stg720_elv</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>bgm_stg730_elv</Name>
-      <Identifier>1062</Identifier>
+      <Id>1062</Id>
       <SynthReference>Synth/bgm_stg730_elv</SynthReference>
       <UserComment />
       <Flags>1</Flags>

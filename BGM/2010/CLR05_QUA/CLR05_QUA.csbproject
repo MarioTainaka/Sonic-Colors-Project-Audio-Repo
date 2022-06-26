@@ -4,21 +4,21 @@
   <CueNodes>
     <BuilderCueNode>
       <Name>bgm_stg510_qua</Name>
-      <Identifier>1040</Identifier>
+      <Id>1040</Id>
       <SynthReference>Synth/bgm_stg510_qua</SynthReference>
       <UserComment />
       <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>bgm_stg520_qua</Name>
-      <Identifier>1041</Identifier>
+      <Id>1041</Id>
       <SynthReference>Synth/bgm_stg520_qua</SynthReference>
       <UserComment />
       <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>bgm_stg530_qua</Name>
-      <Identifier>1042</Identifier>
+      <Id>1042</Id>
       <SynthReference>Synth/bgm_stg530_qua</SynthReference>
       <UserComment />
       <Flags>1</Flags>
